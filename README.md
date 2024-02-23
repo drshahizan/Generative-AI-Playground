@@ -25,8 +25,8 @@ Generative-AI-Playground is a platform for experimenting with different generati
 3. **BingAI**:
     - To use Bing Chat in **Microsoft Edge**, sign in to your Microsoft account.
     - Click the **Bing chat icon** in the browser toolbar to access Bing Chat in the sidebar.
-    - You can ask questions, perform searches, and even compare products using Bing Chat⁵.
-    - For BingAI, visit the [official site](https://www.mlyearning.org/microsoft-bing-ai-sign-up/) and log in with your Microsoft account credentials⁶⁷.
+    - You can ask questions, perform searches, and even compare products using Bing Chat.
+    - For BingAI, visit the [official site](https://www.mlyearning.org/microsoft-bing-ai-sign-up/) and log in with your Microsoft account credentials.
 
 Remember, each of these platforms offers unique capabilities, so feel free to explore and make the most of their AI features! 🚀
 
