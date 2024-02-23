@@ -28,8 +28,5 @@ Generative-AI-Playground is a platform for experimenting with different generati
     - You can ask questions, perform searches, and even compare products using Bing Chat.
     - For BingAI, visit the [official site](https://www.bing.com) and log in with your Microsoft account credentials.
 
-Remember, each of these platforms offers unique capabilities, so feel free to explore and make the most of their AI features! 🚀
-
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
