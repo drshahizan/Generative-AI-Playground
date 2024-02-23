@@ -9,7 +9,7 @@
 
 Generative-AI-Playground is a platform for experimenting with different generative models and techniques. It lets you try out advanced technologies like ChatGPT, Bing.AI and Gemini. This playground is a place where people can learn and practice using these models. Whether you want to create art, generate text, or explore other creative uses, Generative-AI-Playground offers a space for learning and trying new things.
 
-Certainly! Let's walk through the step-by-step process for signing in to **ChatGPT**, **Gemini**, and **BingAI**:
+## The step-by-step process for signing in to **ChatGPT**, **Gemini**, and **BingAI**:
 
 1. **ChatGPT**:
     - Visit the [ChatGPT login page](https://chat.openai.com/auth/login).
