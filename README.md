@@ -36,6 +36,9 @@ draw a Cats at KLCC. with malay girls. , Matter, Dusk, Electron Microscope, Joha
 
 https://aivyx.com/bing-create-prompt-generator/
 
+draw cats at KLCC. with malay girls. Celebrate Hari Raya. , Multidimensional, Fluorescent, 360 Panorama, Salvador Dali, Turquoise, Glass, 2:1
+
+
 ## Gitbook
 - [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt/)
 - [AI tools](https://drshahizan.gitbook.io/ai-tools/)
