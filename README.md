@@ -31,6 +31,8 @@ Generative-AI-Playground is a platform for experimenting with different generati
 
 Bing AI, Bing AI Image Generator, Bing AI Image Generator Prompt, Bing AI Chat, Bing AI Generator, Bing AI Complete Tutorial, Bing AI Image Generator Tutorial, How to Use Bing AI Image Generator, Microsoft Bing, Microsoft Bing Image Creator.
 
+https://aivyx.com/bing-create-prompt-generator/
+
 ## Gitbook
 - [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt/)
 - [AI tools](https://drshahizan.gitbook.io/ai-tools/)
