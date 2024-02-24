@@ -38,6 +38,8 @@ https://aivyx.com/bing-create-prompt-generator/
 
 draw cats at KLCC. with malay girls. Celebrate Hari Raya. , Multidimensional, Fluorescent, 360 Panorama, Salvador Dali, Turquoise, Glass, 2:1
 
+Create a cartoon character with the name "Cats and mouse at pyramid", the appearance "malay cloth", and the personality "shy, crazy".
+
 
 ## Gitbook
 - [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt/)
