@@ -30,9 +30,8 @@ Generative-AI-Playground is a platform for experimenting with different generati
 
 ## AI Tools for Various Tasks
 <p align="left">
-<img src="/images/120_AI_tools.gif"  height="900" />
+<img src="/images/120_AI_tools.gif"  height="800" />
 </p>
-
 
 | Productivity | Writing | Video | Marketing | Chatbot | Design |
 |--------------|---------|-------|-----------|---------|--------|
