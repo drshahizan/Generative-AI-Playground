@@ -36,17 +36,17 @@ Generative-AI-Playground is a platform for experimenting with different generati
 
 | Productivity | Writing | Video | Marketing | Chatbot | Design |
 |--------------|---------|-------|-----------|---------|--------|
-| Magical AI¹ | Grammarly² | Runway ML³ | EllieAI⁴ | Chatsonic | DALL-E 3 |
+| Magical AI | Grammarly | Runway ML | EllieAI | Chatsonic | DALL-E 3 |
 | Beautiful AI | TomeAPP | Pictory | IContact | ChatSpot | Midjourney |
 | Taskade | Jasper | Descript | ConvertKit | BingAI | Bing Image |
 | Fireflies AI | Word Tune | Krisp | Rationale | ChatGPT | Microsoft Designer |
 | CoGram | CopyAI | HeyGen | Scale | Youchat | Figma AI |
 
 
-- Productivity: These are tools that help you organize your tasks, manage your time, and collaborate with others. For example, Magical AI is a smart clipboard that lets you copy and paste anything across devices¹. Taskade is a unified workspace for teams that allows you to create lists, outlines, and mindmaps.
-- Writing: These are tools that help you improve your writing skills, generate content, and edit your documents. For example, Grammarly is a writing assistant that checks your grammar, spelling, and tone². Jasper is a tool that helps you write faster and better by providing suggestions and templates.
+- Productivity: These are tools that help you organize your tasks, manage your time, and collaborate with others. For example, Magical AI is a smart clipboard that lets you copy and paste anything across devices. Taskade is a unified workspace for teams that allows you to create lists, outlines, and mindmaps.
+- Writing: These are tools that help you improve your writing skills, generate content, and edit your documents. For example, Grammarly is a writing assistant that checks your grammar, spelling, and tone. Jasper is a tool that helps you write faster and better by providing suggestions and templates.
 - Video: These are tools that help you create, edit, and share videos. For example, Runway ML is a platform that lets you use machine learning to manipulate images and videos³. Descript is a tool that allows you to edit audio and video by editing text.
-- Marketing: These are tools that help you grow your audience, reach your customers, and optimize your campaigns. For example, EllieAI is a tool that helps you create personalized email campaigns using artificial intelligence⁴. Scale is a platform that provides high-quality data for machine learning applications.
+- Marketing: These are tools that help you grow your audience, reach your customers, and optimize your campaigns. For example, EllieAI is a tool that helps you create personalized email campaigns using artificial intelligence. Scale is a platform that provides high-quality data for machine learning applications.
 - Chatbot: These are tools that help you create and deploy conversational agents. For example, Chatsonic is a tool that lets you build voice and text chatbots without coding. BingAI is a tool that lets you chat with an AI assistant that can answer questions and generate content.
 - Design: These are tools that help you create and edit graphics, logos, and illustrations. For example, DALL-E 3 is a tool that can generate images from text descriptions using deep learning. Microsoft Designer is a tool that helps you create professional-looking presentations and documents.
 
