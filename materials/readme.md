@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Generative-AI-Playground&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # ChatGPT Prompts: LinkedIn
-
+This toolkit provides a comprehensive set of prompts and guidelines to enhance your LinkedIn profile. It covers crafting a compelling headline, summarizing your professional journey effectively, creating impactful experience entries, and engaging with your network. Additionally, it includes prompts for creating engaging content, optimizing your skills section, seeking endorsements, and requesting mentorship. The toolkit aims to help you attract recruiters, make stronger professional connections, and showcase your expertise and unique value on LinkedIn.
 
 | No | Title                                | Prompt |
 |----|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
