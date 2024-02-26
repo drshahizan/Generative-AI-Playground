@@ -29,7 +29,7 @@ Generative-AI-Playground is a platform for experimenting with different generati
     - For BingAI, visit the [official site](https://www.bing.com) and log in with your Microsoft account credentials.
 
 <p align="center">
-<img src="/images/BDM.jpg"  height="300" />
+<img src="/images/120_AI_tools.gif"  height="300" />
 </p>
 
 
