@@ -28,6 +28,10 @@ Generative-AI-Playground is a platform for experimenting with different generati
     - You can ask questions, perform searches, and even compare products using Bing Chat.
     - For BingAI, visit the [official site](https://www.bing.com) and log in with your Microsoft account credentials.
 
+<p align="center">
+<img src="/images/BDM.jpg"  height="300" />
+</p>
+
 
 Bing AI, Bing AI Image Generator, Bing AI Image Generator Prompt, Bing AI Chat, Bing AI Generator, Bing AI Complete Tutorial, Bing AI Image Generator Tutorial, How to Use Bing AI Image Generator, Microsoft Bing, Microsoft Bing Image Creator.
 
