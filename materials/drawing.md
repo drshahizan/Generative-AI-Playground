@@ -9,6 +9,13 @@
 
 This collection of AI art prompts showcases the rich cultural heritage of Malaysia through vibrant and expressive imagery. From traditional kite flying to bustling night markets, each prompt captures a unique aspect of Malaysian life and tradition. Whether depicting the intricacies of shadow puppetry or the serenity of a rice paddy field at sunrise, these prompts celebrate the diversity and beauty of Malaysian culture. Each artwork aims to evoke a sense of nostalgia and pride, highlighting the country's unique blend of tradition and modernity.
 
+| Image 1 | Image 2 |
+|---------|---------|
+| ![Alt text 1](https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/anime.jpeg) | ![Alt text 2](https://raw.githubusercontent.com/username/repository/main/images/image2.png) |
+| Image 3 | Image 4 |
+| ![Alt text 3](https://raw.githubusercontent.com/username/repository/main/images/image3.png) | ![Alt text 4](https://raw.githubusercontent.com/username/repository/main/images/image4.png) |
+
+
 ## AI art prompt
 
 1. Draw a child flying a traditional Malaysian kite, known as "Wau," against a backdrop of clear blue skies and fluffy white clouds, capturing the joy and freedom of childhood play. The scene should emulate a high shutter speed action shot, with vibrant colors and dynamic movement.
