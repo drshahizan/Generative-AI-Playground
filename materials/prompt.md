@@ -8,35 +8,31 @@
 # Tips to create powerful prompts
 
 ## 1. Be Precise and Specific
-   - Clearly state what you want Copilot to do. Use specific keywords or phrases related to your task.
-   - Instead of vague instructions, provide detailed context. For example, "Generate a Python function that sorts an array using quicksort algorithm" is more effective than "Sort an array."
+   - Clearly state your desired outcome with specific keywords or phrases.
+   - Instead of vague instructions, provide detailed context. For example, "Generate a detailed overview of Malaysia's tourism industry, including popular destinations, tourist demographics, and recent trends." is more effective than "Overview of Malaysia's tourism industry"
 
-## 2. Positive Instructions
+## 2. Use Positive Instructions
    - Frame your prompt in a positive manner. Tell Copilot what you want it to do, rather than what you don’t want.
 For instance, use “Create a summary of this article” instead of “Don’t generate a lengthy response.”
 
-## 3. Examples and Inputs/Outputs
+## 3. Provide Examples and Inputs/Outputs
    - Include examples of inputs and expected outputs. This helps Copilot understand your intent.
    - If you're asking Copilot to write code, provide sample input/output pairs or describe edge cases.
+   - Example: "Generate a comparative analysis of Malaysia's education system and its impact on economic development, using examples from other countries for reference".
 
 ## 4. Use Natural Language
    - Write prompts as if you're conversing with a helpful coworker. Be clear and concise.
    - Imagine explaining the task to someone who doesn't know the specifics.
+   - Example: "Provide an overview of Malaysia's political history, including key events, influential leaders, and the country's democratic framework."
+
 
 ## 5. Iterate and Refine
    - If the initial result isn't what you wanted, iterate. Adjust your prompt to avoid mistakes.
    - Regenerate responses until you get the desired output.
+   - Example:  "Generate a report on Malaysia's efforts to promote sustainable development, focusing on initiatives, challenges, and future goals."
 
-Remember, effective prompts lead to better interactions with Copilot, making your tasks more efficient and creative! 🚀✨
 
-![Prompting Like a Pro](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1q6z8x0x6g4l7w2j7z5n.png)
 
-Source: Conversation with Bing, 29/02/2024
-(1) How to Write Effective Prompts for Copilot: Best Prompting Practices. https://www.proserveit.com/blog/how-to-write-effective-prompts.
-(2) Github Copilot: How to Prompt like a Pro - Medium. https://medium.com/@yar.dobroskok/github-copilot-prompting-as-a-pro-28301bbb4f7d.
-(3) Get better results with Copilot prompting - Microsoft Support. https://support.microsoft.com/en-us/topic/get-better-results-with-copilot-prompting-77251d6c-e162-479d-b398-9e46cf73da55.
-(4) How to use prompts in Microsoft Copilot for Security | Microsoft .... https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/.
-(5) A Beginner's Guide to Prompt Engineering with GitHub Copilot. https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp.
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
 
