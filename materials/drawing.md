@@ -11,17 +11,17 @@ This collection of AI art prompts showcases the rich cultural heritage of Malays
 
 ## AI art prompt
 
-1. A child flying a traditional Malaysian kite, known as "Wau," against a backdrop of clear blue skies and fluffy white clouds, capturing the joy and freedom of childhood play. The scene should emulate a high shutter speed action shot, with vibrant colors and dynamic movement.
+1. Draw a child flying a traditional Malaysian kite, known as "Wau," against a backdrop of clear blue skies and fluffy white clouds, capturing the joy and freedom of childhood play. The scene should emulate a high shutter speed action shot, with vibrant colors and dynamic movement.
 
 2. An impressionist-style oil painting depicting a bustling Malaysian night market, or "pasar malam," with vendors selling a variety of local street food and colorful textiles. The painting should convey the lively atmosphere and rich cultural heritage of Malaysia.
 
-3. An illustration of traditional Malaysian shadow puppetry, known as "Wayang Kulit," featuring intricate and ornate puppets against a backlit screen. The scene should capture the magical and mystical quality of this ancient art form.
+3. Draw an illustration of traditional Malaysian shadow puppetry, known as "Wayang Kulit," featuring intricate and ornate puppets against a backlit screen. The scene should capture the magical and mystical quality of this ancient art form.
 
 4. A serene landscape painting of a Malaysian rice paddy field at sunrise, with the golden light illuminating the lush green fields and distant mountains. The painting should evoke a sense of peace and tranquility, reflecting the importance of agriculture in Malaysian culture.
 
 5. A modern interpretation of a Malaysian Batik pattern, featuring vibrant colors and intricate designs inspired by nature and local motifs. The artwork should showcase the beauty and craftsmanship of this traditional Malaysian textile art.
 
-6. A digital painting of a traditional Malaysian wooden house, or "Rumah Kampung," surrounded by lush tropical vegetation. The painting should highlight the unique architectural style and cultural significance of these traditional Malay dwellings.
+6. Draw a digital painting of a traditional Malaysian wooden house, or "Rumah Kampung," surrounded by lush tropical vegetation. The painting should highlight the unique architectural style and cultural significance of these traditional Malay dwellings.
 
 7. A contemporary art piece inspired by Malaysian street art, featuring bold colors and abstract shapes that reflect the vibrant and diverse urban landscape of Malaysia. The artwork should capture the energy and creativity of Malaysia's street art scene.
 
