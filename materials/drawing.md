@@ -23,6 +23,8 @@ This collection of AI art prompts showcases the rich cultural heritage of Malays
 
 4. A serene landscape painting of a Malaysian rice paddy field at sunrise, with the golden light illuminating the lush green fields and distant mountains. The painting should evoke a sense of peace and tranquility, reflecting the importance of agriculture in Malaysian culture.
 
+ <img src="/images/futuristic%20klcc.jpeg"  height="300" /> <img src="/images/batik2.jpeg"  height="300" />  <img src="/images/cats1.jpeg"  height="300" /> 
+ 
 5. A modern interpretation of a Malaysian Batik pattern, featuring vibrant colors and intricate designs inspired by nature and local motifs. The artwork should showcase the beauty and craftsmanship of this traditional Malaysian textile art.
 
 6. Draw a digital painting of a traditional Malaysian wooden house, or "Rumah Kampung," surrounded by lush tropical vegetation. The painting should highlight the unique architectural style and cultural significance of these traditional Malay dwellings.
