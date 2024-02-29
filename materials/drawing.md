@@ -9,9 +9,9 @@
 
 This collection of AI art prompts showcases the rich cultural heritage of Malaysia through vibrant and expressive imagery. From traditional kite flying to bustling night markets, each prompt captures a unique aspect of Malaysian life and tradition. Whether depicting the intricacies of shadow puppetry or the serenity of a rice paddy field at sunrise, these prompts celebrate the diversity and beauty of Malaysian culture. Each artwork aims to evoke a sense of nostalgia and pride, highlighting the country's unique blend of tradition and modernity.
 
-
+<p align="center">
  <img src="/images/batik1.jpeg"  height="300" />  <img src="/images/cartoon1.jpeg"  height="300" /> <img src="/images/anime.jpeg"  height="300" /> 
-
+</p>
 
 ## AI art prompt
 
