@@ -55,20 +55,6 @@ These are tools that help you create and deploy conversational agents. For examp
 ### Design
 These are tools that help you create and edit graphics, logos, and illustrations. For example, DALL-E 3 is a tool that can generate images from text descriptions using deep learning. Microsoft Designer is a tool that helps you create professional-looking presentations and documents.
 
-===
-
-Bing AI, Bing AI Image Generator, Bing AI Image Generator Prompt, Bing AI Chat, Bing AI Generator, Bing AI Complete Tutorial, Bing AI Image Generator Tutorial, How to Use Bing AI Image Generator, Microsoft Bing, Microsoft Bing Image Creator.
-
-draw a Cats at KLCC. with malay girls. , Matter, Dusk, Electron Microscope, Johannes Vermeer, Neon Red Color, Gasoline, 2:1
-
-
-https://aivyx.com/bing-create-prompt-generator/
-
-draw cats at KLCC. with malay girls. Celebrate Hari Raya. , Multidimensional, Fluorescent, 360 Panorama, Salvador Dali, Turquoise, Glass, 2:1
-
-Create a cartoon character with the name "Cats and mouse at pyramid", the appearance "malay cloth", and the personality "shy, crazy".
-
-
 ## Gitbook
 - [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt/)
 - [AI tools](https://drshahizan.gitbook.io/ai-tools/)
