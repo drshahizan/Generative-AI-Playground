@@ -49,19 +49,8 @@ This collection of AI art prompts showcases the rich cultural heritage of Malays
 | 5  | Diorama         | - Draw a diorama showcasing the vibrant colors and intricate designs of traditional Malaysian batik art, with examples of different motifs and patterns inspired by nature and cultural symbols. <br> - Draw a diorama depicting a traditional Malaysian "Wau Bulan" kite, with intricate designs and vibrant colors, soaring high in the sky against a backdrop of clouds and blue skies, capturing the beauty and grace of this traditional Malaysian craft. <br> - Create a diorama depicting a traditional Malaysian "Gasing" spinning top competition, with participants demonstrating their skill and technique in spinning the top, showcasing this traditional Malay game of skill and strategy. <br> - Draw a diorama depicting a traditional Malaysian "Pesta Gendang" drum festival, with drummers in traditional attire performing rhythmic beats, showcasing the rich musical heritage of Malaysia's diverse cultures. <br> - Draw a diorama depicting a traditional Malaysian "Kuda Kepang" dance performance, with colorful horse-shaped props and dancers in elaborate costumes, showcasing the energy and excitement of this traditional Javanese dance. <br> - Draw a diorama showcasing the vibrant colors and intricate designs of traditional Malaysian batik art, with examples of different motifs and patterns inspired by nature and cultural symbols.|
 | 6  | Anime           | - Draw an anime-style illustration of a traditional Malaysian "Mak Yong" dance performance, with characters in colorful costumes and expressive poses, capturing the dynamic and graceful movements of this traditional Malay dance. <br> - Create an anime-style illustration of a Malaysian "Hawker Center" food stall, with a wide variety of dishes and bustling activity, showcasing the diverse and delicious street food culture of Malaysia. <br> - Draw an anime-style illustration of a traditional Malaysian "Ketupat" weaving demonstration, with characters skillfully weaving palm leaves into decorative rice cakes, highlighting the craftsmanship and cultural significance of this traditional Malay art form. <br> - Draw an anime-style illustration of a traditional Malaysian "Joget" dance performance, with characters dancing joyfully to lively music, showcasing the festive and celebratory nature of this traditional Malay dance. <br> - Draw an anime-style illustration of a traditional Malaysian "Bunga Raya" flower, also known as the hibiscus, with vibrant colors and intricate details, capturing the beauty and elegance of Malaysia's national flower. |
 
-
-===
-
-Bing AI, Bing AI Image Generator, Bing AI Image Generator Prompt, Bing AI Chat, Bing AI Generator, Bing AI Complete Tutorial, Bing AI Image Generator Tutorial, How to Use Bing AI Image Generator, Microsoft Bing, Microsoft Bing Image Creator.
-
-draw a Cats at KLCC. with malay girls. , Matter, Dusk, Electron Microscope, Johannes Vermeer, Neon Red Color, Gasoline, 2:1
-
-
-https://aivyx.com/bing-create-prompt-generator/
-
-draw cats at KLCC. with malay girls. Celebrate Hari Raya. , Multidimensional, Fluorescent, 360 Panorama, Salvador Dali, Turquoise, Glass, 2:1
-
-Create a cartoon character with the name "Cats and mouse at pyramid", the appearance "malay cloth", and the personality "shy, crazy".
+## Prompt Generator
+- [aivyx](https://aivyx.com/bing-create-prompt-generator/)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
