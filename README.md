@@ -12,21 +12,21 @@ Generative-AI-Playground is a platform for experimenting with different generati
 ## How to Sign in
 
 ### 1. ChatGPT
-    - Visit the [ChatGPT login page](https://chat.openai.com/auth/login).
-    - If you already have an account, log in using your credentials.
-    - If you don't have an account, click on "Create one" to set up a free ChatGPT account.
-    - Once logged in, you can engage in conversations, automate tasks, and explore AI-powered text generation.
+- Visit the [ChatGPT login page](https://chat.openai.com/auth/login).
+- If you already have an account, log in using your credentials.
+- If you don't have an account, click on "Create one" to set up a free ChatGPT account.
+- Once logged in, you can engage in conversations, automate tasks, and explore AI-powered text generation.
 
 ### 2. Gemini
-    - Access the [Gemini web app](https://gemini.google.com/app).
-    - Sign in using your **Google Account**.
-    - Gemini provides assistance with writing, planning, learning, and more, powered by Google AI.
+- Access the [Gemini web app](https://gemini.google.com/app).
+- Sign in using your **Google Account**.
+- Gemini provides assistance with writing, planning, learning, and more, powered by Google AI.
 
 ### 3. BingAI
-    - To use Bing Chat in **Microsoft Edge**, sign in to your Microsoft account.
-    - Click the **Bing chat icon** in the browser toolbar to access Bing Chat in the sidebar.
-    - You can ask questions, perform searches, and even compare products using Bing Chat.
-    - For BingAI, visit the [official site](https://www.bing.com) and log in with your Microsoft account credentials.
+- To use Bing Chat in **Microsoft Edge**, sign in to your Microsoft account.
+- Click the **Bing chat icon** in the browser toolbar to access Bing Chat in the sidebar.
+- You can ask questions, perform searches, and even compare products using Bing Chat.
+- For BingAI, visit the [official site](https://www.bing.com) and log in with your Microsoft account credentials.
 
 ## AI Tools for Various Tasks
 <p align="left">
