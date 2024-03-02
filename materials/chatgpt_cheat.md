@@ -7,7 +7,7 @@
 
 # ChatGPT Cheat Sheet
 
-𝗛𝗲𝗿𝗲’𝘀 𝘄𝗵𝗮𝘁’𝘀 𝗰𝗼𝘃𝗲𝗿𝗲𝗱
+
 
 𝗣𝗿𝗼𝗺𝗽𝘁𝘀 𝗔𝗯𝗼𝘂𝘁:
 - Handling Job Rejection
@@ -16,36 +16,36 @@
 - Cover Letter Writing
 - Job Search Strategies
 - Networking Tips
-• Interview Preparation
-• Salary Negotiation
-• Skills Development
-• Career Progression
-• Personal Branding
-• Work-Life Balance
+- Interview Preparation
+- Salary Negotiation
+- Skills Development
+- Career Progression
+- Personal Branding
+- Work-Life Balance
 
 𝗖𝗵𝗮𝘁𝗚𝗣𝗧 𝗘𝘅𝘁𝗲𝗻𝘀𝗶𝗼𝗻𝘀:
-• Resume Builder
-• Cover Letter Generator
-• Interview Prep Coach
-• Job Alert Notifications
-• Networking Assistant
-• Skill Gap Analyzer
+- Resume Builder
+- Cover Letter Generator
+- Interview Prep Coach
+- Job Alert Notifications
+- Networking Assistant
+- Skill Gap Analyzer
 
 𝗥𝗼𝗹𝗲𝘀 𝗔𝘀𝘀𝗶𝗴𝗻𝗺𝗲𝗻𝘁:
-• Act as Data Analyst
-• Act as Software Engineer
-• Act as Digital Marketing Specialist
-• Act as Project Manager
-• Act as UX/UI Designer
-• Act as Human Resources Manager
+- Act as Data Analyst
+- Act as Software Engineer
+- Act as Digital Marketing Specialist
+- Act as Project Manager
+- Act as UX/UI Designer
+- Act as Human Resources Manager
 
 𝗢𝘁𝗵𝗲𝗿 𝗔𝗜 𝗧𝗼𝗼𝗹𝘀:
-• Kickresume
-• InterviewBuddy
-• Jobscan
-• ExpertzzAI
-• Lazyapply
-• InterviewBot
+- Kickresume
+- InterviewBuddy
+- Jobscan
+- ExpertzzAI
+- Lazyapply
+- InterviewBot
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
