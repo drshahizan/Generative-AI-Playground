@@ -1,4 +1,4 @@
-![image](https://github.com/drshahizan/Generative-AI-Playground/assets/81284918/235efd3d-211b-404d-9b45-9eeea028168c)<a href="https://github.com/drshahizan/Generative-AI-Playground/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/Generative-AI-Playground" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/Generative-AI-Playground/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/Generative-AI-Playground" alt="Stars Badge"/></a>
 <a href="https://github.com/drshahizan/Generative-AI-Playground/network/members"><img src="https://img.shields.io/github/forks/drshahizan/Generative-AI-Playground" alt="Forks Badge"/></a>
 <a href="https://github.com/drshahizan/Generative-AI-Playground/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/Generative-AI-Playground" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/Generative-AI-Playground"><img src="https://img.shields.io/github/issues/drshahizan/Generative-AI-Playground" alt="Issues Badge"/></a>
