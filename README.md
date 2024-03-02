@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Generative-AI-Playground&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # Generative AI Playground
-<img src="./images/play2.jpeg" style="width:200px;"  align="left">
+<img src="./images/play2.jpeg" style="width:240px;"  align="left">
 
 Generative-AI-Playground is an innovative platform dedicated to exploring and experimenting with a variety of generative models and techniques. It offers users the opportunity to engage with cutting-edge technologies like ChatGPT, Bing.AI, and Gemini in a practical and educational setting. The platform serves as a valuable resource for learning and honing skills in generative AI, providing tutorials, tips, and a supportive community for users to explore and create.
 
