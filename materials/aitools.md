@@ -7,8 +7,6 @@
 
 # Useful AI Tools
 
-Sure, here's the information in a table format:
-
 | No  | AI Tools                                     | Description |
 |------:|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1| [ChatGPT](https://chat.openai.com/)         | ChatGPT is one of the most useful and obvious AI tools that everyone should be leveraging. It can assist with almost any profession, task, or situation imaginable, making it like having an encyclopedic friend who somehow knows everything about everything. Whether you need help creating blog posts, video scripts, marketing materials, or even automating workflows, ChatGPT is up to the task. It's the ultimate personal assistant, AI tutor, and pair programmer. <br><br><p align="center"><img src="https://lh7-us.googleusercontent.com/j8vIS8Yd7jqHlQ6bHnlxQSlTr2pHEMuj0B6T0xRGdn7LwYG6YrPr6V9eIZT5feZvHS8D1zbgtryXZsdJQZRYyo3r1i3CxtA4SZ7Z3EiOT7KhAJgpCjt3h4W3hFhgtfX_7ELJY4zZO0Ya-oYpS8xH3y8"  height="300" /></p>|
