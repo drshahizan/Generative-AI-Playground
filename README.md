@@ -33,9 +33,8 @@ At Generative-AI-Playground, users can dive into the world of generative AI to u
 - For BingAI, visit the [official site](https://www.bing.com) and log in with your Microsoft account credentials.
 
 ## AI Tools for Various Tasks
-<p align="left">
-<img src="/images/120_AI_tools.gif"  height="800" />
-</p>
+<p align="center"><img src="https://media.licdn.com/dms/image/D4E22AQG4V4AcUpfKhA/feedshare-shrink_800/0/1709337391640?e=1712188800&v=beta&t=I0mv_T6IEXN4aOIJ5QDvck3Lho7OR48JmH4rIQ-LaY4"  width="500" /></p>
+
 
 | Productivity | Writing | Video | Marketing | Chatbot | Design |
 |--------------|---------|-------|-----------|---------|--------|
