@@ -65,7 +65,16 @@ inception to publication. Include information on [topic selection], [problem def
 
 ### 3. Formulating Hypotheses or Research Questions
 ### 4. Designing the Study
-
+### 5. Data Collection
+### 6. Data Analysis
+### 7. Discussion and Interpretation
+### 8. Conclusion
+### 9. Writing the Paper
+### 10. Peer Review and Revisions
+### 11. Submission and Publication
+### 12. Peer Review Process
+### 13. Final Edits and Proofreading
+### 14. Publication and Dissemination
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
