@@ -91,9 +91,13 @@ These are tools that help you organize your tasks, manage your time, and collabo
      
 ### Writing
 These are tools that help you improve your writing skills, generate content, and edit your documents. For example, Grammarly is a writing assistant that checks your grammar, spelling, and tone. Jasper is a tool that helps you write faster and better by providing suggestions and templates.
+   1. [Grammarly](https://www.grammarly.com/): An AI-powered writing assistant.
+   2. [Jasper](https://jasper.ai/): Assists with writing tasks.
+   3. [Word Tune](https://www.wordtune.com/): Helps improve writing.
 
 ### Video
 These are tools that help you create, edit, and share videos. For example, Runway ML is a platform that lets you use machine learning to manipulate images and videos³. Descript is a tool that allows you to edit audio and video by editing text.
+
 ### Marketing
 These are tools that help you grow your audience, reach your customers, and optimize your campaigns. For example, EllieAI is a tool that helps you create personalized email campaigns using artificial intelligence. Scale is a platform that provides high-quality data for machine learning applications.
 ### Chatbot
