@@ -10,7 +10,7 @@
 ## Single Master Prompt for Research Papers
 A single master prompt is a comprehensive guide for research papers, detailing all stages from inception to publication. It covers essential components such as topic selection, problem definition, literature review, research questions/hypotheses, methodology, data collection, analysis, results interpretation, discussion, conclusion, writing, formatting, peer review, revision, proofreading, submission, publication, dissemination, and impact tracking. This prompt explains the significance of each stage, outlines best practices, addresses potential challenges, and offers strategies for successful execution. It emphasizes the iterative nature of research, the importance of rigor and ethics, and the role of collaboration and feedback. Researchers can use the prompt as a checklist to ensure they cover all necessary components and follow best practices, adapting it to their specific research context.
 
-Prompt:
+#### Prompt:
 ```
 Provide a detailed and comprehensive guide to [research papers], covering all essential stages and components, from
 inception to publication. Include information on [topic selection], [problem definition], [literature review],
