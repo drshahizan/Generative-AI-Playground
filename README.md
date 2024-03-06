@@ -31,7 +31,7 @@ At Generative-AI-Playground, users can dive into the world of generative AI to u
 | 5. | AI Tools| [AI Tools for Literature Review](https://drshahizan.gitbook.io/ai-tools/) |
 |  | | [Useful AI Tools](./materials/aitools.md) |
 |||[AI Tools for Various Tasks](./materials/aitools1.md)|
-
+| 6. | AI Apps| [Roam Around](https://www.roamaround.io/) |
 
 
 ## Contribution 🛠️
