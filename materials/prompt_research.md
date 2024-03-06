@@ -21,7 +21,17 @@ inception to publication. Include information on [topic selection], [problem def
 
 (Note: Replace placeholders like **research papers**, **topic selection**, **problem definition**, **literature review**, **research questions/hypotheses**, **methodology**, **data collection**, **data analysis**, **results interpretation**, **discussion**, **conclusion**, **writing and formatting**, **peer review**, **revision**, **proofreading**, **submission**, **publication**, **dissemination**, and **impact tracking** with specific information based on your research paper’s content and context.)
 
-## ChatGPT Prompts for Research Papers
+## Prompts for Research Papers
+
+### General
+
+| No. | Prompt | Description |
+|-----|--------|-------------|
+| 1 | Comprehensive Overview of Research Papers | Provide a detailed overview of the components and structure of **[research papers]**, including the significance of **[introduction]**, **[literature review]**, **[methodology]**, **[results]**, **[discussion]**, and **[conclusion]** sections. Explain how each section contributes to the paper’s coherence and the overall understanding of the research. |
+| 2 | Effective Literature Review Strategies | Discuss comprehensive strategies for conducting a thorough **[literature review]** in **[research papers]**. Explain the process of identifying and evaluating relevant sources, synthesizing existing research, and establishing a solid research context. Highlight the role of a well-executed literature review in informing research gaps. |
+| 3 | Formulating Research Questions and Hypotheses | Detail the process of formulating **[research questions]** and **[hypotheses]** in **[research papers]**. Explain the criteria for crafting clear and research-focused questions, and discuss how hypotheses guide the research design and contribute to a structured investigation. |
+| 4 | Data Collection and Analysis Techniques | Explain various **[data collection]** methods suitable for **[research papers]**. Describe the importance of selecting appropriate techniques, and ensuring data validity and reliability. Outline the process of **[data analysis]**, including both qualitative and quantitative approaches, and how it leads to insightful findings. |
+| 5 | Strategies for Effective Writing and Publication | Provide comprehensive strategies for successful **[research paper]** writing and publication. Discuss **[topic selection]**, **[outlining]**, **[referencing]**, and **[proofreading]** techniques. Explain how navigating **[peer review]** and addressing reviewer comments contribute to refining the paper for successful publication. |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
