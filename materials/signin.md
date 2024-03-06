@@ -25,7 +25,7 @@
 - For BingAI, visit the [official site](https://www.bing.com) and log in with your Microsoft account credentials.
 
 ### 4. Installation AIPRM for ChatGPT
-To **install AIPRM for ChatGPT**, follow these steps based on your browser:
+To install AIPRM for ChatGPT, follow these steps based on your browser:
 
 1. **Google Chrome**:
     - Open ChatGPT and log in to your account.
