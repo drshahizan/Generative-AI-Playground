@@ -40,6 +40,46 @@ At Generative-AI-Playground, users can dive into the world of generative AI to u
 | Taskade | Jasper | Descript | ConvertKit | BingAI | Bing Image |
 | Fireflies AI | Word Tune | Krisp | Rationale | ChatGPT | Microsoft Designer |
 | CoGram | CopyAI | HeyGen | Scale | Youchat | Figma AI |
+Here are the links to the AI tools mentioned across various domains:
+
+1. **Productivity**:
+   - [Magical AI](https://magical.ai/): A productivity tool.
+   - [Beautiful AI](https://www.beautiful.ai/): Another productivity tool.
+   - [Taskade](https://www.taskade.com/): Helps with task management and collaboration.
+
+2. **Writing**:
+   - [Grammarly](https://www.grammarly.com/): An AI-powered writing assistant.
+   - [TomeAPP](https://tomeapp.com/): A writing tool.
+   - [Jasper](https://jasper.ai/): Assists with writing tasks.
+   - [Word Tune](https://www.wordtune.com/): Helps improve writing.
+
+3. **Video**:
+   - [Runway ML](https://runwayml.com/): A creative toolkit for video and media.
+   - [Pictory](https://pictory.ai/): A video-related tool.
+   - [Descript](https://www.descript.com/): A professional video editor.
+   - [Krisp](https://krisp.ai/): Enhances audio quality in videos.
+
+4. **Marketing**:
+   - [EllieAI](https://ellieai.com/): A marketing tool.
+   - [IContact](https://www.icontact.com/): Assists with email marketing.
+   - [ConvertKit](https://convertkit.com/): A marketing automation platform.
+   - [Rationale](https://www.rationale.io/): Helps with marketing strategies.
+   - [Scale](https://scale.com/): A marketing-related tool.
+
+5. **Chatbot**:
+   - [Chatsonic](https://www.chatsonic.ai/): A chatbot development tool.
+   - [ChatSpot](https://www.chatspot.com/): Another chatbot solution.
+   - [ChatGPT](https://chat.openai.com/): A popular language model for chatbots.
+   - [Youchat](https://www.youchat.ai/): A chatbot platform.
+
+6. **Design**:
+   - [DALL-E 3](https://openai.com/research/dall-e-3/): An AI image generator.
+   - [Midjourney](https://midjourney.com/): Assists with image creation.
+   - [BingAI](https://www.bing.com/): Provides AI-powered search results.
+   - [Bing Image](https://www.bing.com/images): Helps find images.
+   - [Microsoft Designer](https://www.microsoft.com/design/): A design-related tool.
+   - [Figma AI](https://www.figma.com/): Integrates with the Figma design platform.
+
 
 
 ### Productivity
