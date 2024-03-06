@@ -32,6 +32,14 @@ At Generative-AI-Playground, users can dive into the world of generative AI to u
 - You can ask questions, perform searches, and even compare products using Bing Chat.
 - For BingAI, visit the [official site](https://www.bing.com) and log in with your Microsoft account credentials.
 
+## Materials
+| No | Lesson | Topic |
+|--------|---------|---------|
+| 1. | Prompts | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
+| 2. | Prompts | [ChatGPT Expert Prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/expert-prompts)|
+| 3. | Prompts | [AIPRM Prompt Templates](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/aiprm-prompt-templates)|
+
+
 ## AI Tools for Various Tasks
 <p align="center"><img src="https://media.licdn.com/dms/image/D4E22AQG4V4AcUpfKhA/feedshare-shrink_800/0/1709337391640?e=1712188800&v=beta&t=I0mv_T6IEXN4aOIJ5QDvck3Lho7OR48JmH4rIQ-LaY4"  width="500" /></p>
 
