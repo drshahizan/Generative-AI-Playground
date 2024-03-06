@@ -35,9 +35,10 @@ At Generative-AI-Playground, users can dive into the world of generative AI to u
 ## Materials
 | No | Lesson | Topic |
 |--------|---------|---------|
-| 1. | Prompts | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
-| 2. | Prompts | [ChatGPT Expert Prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/expert-prompts)|
-| 3. | Prompts | [AIPRM Prompt Templates](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/aiprm-prompt-templates)|
+| 1. | Installation & Sign in |[ChatGPT, BingAI, Gemini and AIPRM for ChatGPT](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/signin.md)|
+| 2. | Prompts | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
+| 3. | Prompts | [ChatGPT Expert Prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/expert-prompts)|
+| 4. | Prompts | [AIPRM Prompt Templates](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/aiprm-prompt-templates)|
 
 
 ## AI Tools for Various Tasks
