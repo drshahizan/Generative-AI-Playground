@@ -78,6 +78,8 @@ Are you ready to let your imagination run wild? Bing's Image Creator is here to 
 
 ## Best AI Image Prompts You Can Use On Bing's Image Creator
 
+<p align="left"><img src="../images/KLCC.png"  width="500" /></p>
+
 1. Futuristic, cityscape, reflecting sunset, concept art
 2. Ancient, Egyptian temple, adorned with hieroglyphs, photorealistic
 3. Friendly, robot, serving coffee, 3D render
