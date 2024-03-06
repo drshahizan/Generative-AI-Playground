@@ -26,7 +26,7 @@ At Generative-AI-Playground, users can dive into the world of generative AI to u
 |  | | [Case study: ⚽ My Bola](https://drshahizan.gitbook.io/copywriting-chatgpt/introduction-copywriting/case-study/copywriting) |
 | 4. | Image Creator | [Bing's Image Creator](./materials/bing_image.md) |
 |  |  | [Malaysian Cultural Artistry](./materials/drawing.md) |
-|  |  | [Malaysian Cultural Artistry](./materials/drawing.md) |
+|  |  | [Image Prompt Generator](https://aivyx.com/bing-create-prompt-generator/) |
 | 5. | AI Tools| [AI Tools for Literature Review](https://drshahizan.gitbook.io/ai-tools/) |
 |  | | [Useful AI Tools](./materials/aitools.md) |
 |||[AI Tools for Various Tasks](./materials/aitools1.md)|
