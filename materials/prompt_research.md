@@ -33,6 +33,39 @@ inception to publication. Include information on [topic selection], [problem def
 | 4 | Data Collection and Analysis Techniques | Explain various **[data collection]** methods suitable for **[research papers]**. Describe the importance of selecting appropriate techniques, and ensuring data validity and reliability. Outline the process of **[data analysis]**, including both qualitative and quantitative approaches, and how it leads to insightful findings. |
 | 5 | Strategies for Effective Writing and Publication | Provide comprehensive strategies for successful **[research paper]** writing and publication. Discuss **[topic selection]**, **[outlining]**, **[referencing]**, and **[proofreading]** techniques. Explain how navigating **[peer review]** and addressing reviewer comments contribute to refining the paper for successful publication. |
 
+### 1. Topic Selection and Problem Definition
+
+| No. | Prompt | Description |
+|-----|--------|-------------|
+| 1 | Narrowing Down Research Topics within **[Your Expertise/Interest]** | Generate research topics within **[broad subject area]** that align with my expertise and current research trends. I’m particularly interested in exploring **[specific aspect]** and its implications for **[relevant context]**. |
+| 2 | Defining a Research Problem in **[Chosen Field of Study]** | Help me formulate a research question that delves into the impact of **[emerging trend/technology]** on **[key factor]** within **[chosen field of study]**. The goal is to identify a research problem that contributes to addressing real-world challenges. |
+| 3 | Exploring Societal Implications of **[Societal Issue]** | Craft a research problem that examines the **[underlying causes/effects]** of **[societal issue]** and proposes practical solutions. The focus should be on **[relevant context]** and its potential implications. |
+| 4 | Bridging Disciplines – Investigating **[Discipline A]** and **[Discipline B]** Intersections | Generate a research topic that explores the synergy between **[discipline A]** and **[discipline B]** to tackle **[complex challenge]**. The goal is to create a cross-disciplinary solution for **[specific problem]**. |
+| 5 | Analyzing Historical and Current Events – **[Historical Event A]** vs. **[Current Event B]** | Formulate a research question that analyzes the parallels between **[historical event A]** and **[current event B]** within **[chosen field]**. The focus should be on understanding their implications and lessons for **[relevant context]**. |
+| 6 | Assessing **[Economic/Social/Political]** Ramifications of **[Specific Policy/Event]** in **[Region or Country]** | Help me define a research problem that evaluates the **[economic/social/political]** impact of **[specific policy/event]** on **[region or country]**. The goal is to understand the implications and potential adjustments needed. |
+| 7 | Applying **[Theoretical Framework]** to Analyze **[Specific Phenomenon]** in **[Chosen Context]** | Craft a research topic that leverages **[theoretical framework]** to analyze **[specific phenomenon]** within **[chosen context]**. The aim is to gain deeper insights into **[research focus]** and its implications. |
+| 8 | Exploring Multiple Viewpoints on **[Controversial Topic]** | Generate a research question that critically examines the **[different viewpoints/factors]** surrounding **[controversial topic]**. The goal is to contribute to a well-rounded understanding of **[issue]** in **[relevant context]**. |
+| 9 | Addressing Unexplored Aspects within **[Specific Subject Area]** | Help me formulate a research problem that investigates the **[unexplored aspect]** within **[specific subject area]**. The focus is on shedding light on this aspect’s significance and potential contributions to the field. |
+| 10 | Identifying Research Gaps and Trend Alignment | Generate potential research topics that align with current trends and address gaps in the literature within **[broad subject area]**. The aim is to identify a research problem that advances knowledge and understanding of **[specific aspect]**. |
+
+### 2. Literature Review
+
+Here's the table with the prompts you provided:
+
+| No. | Prompt | Description |
+|-----|--------|-------------|
+| 1 | Comprehensive Literature Review in **[Chosen Field]** | Provide a detailed overview of key literature in **[chosen field]** over the past **[specific time frame]**. Summarize major theories, findings, and methodologies, highlighting gaps that warrant further exploration. |
+| 2 | Analyzing Theoretical Frameworks in **[Specific Research Area]** | Conduct a thorough review of existing theoretical frameworks applied in **[specific research area]**. Discuss their strengths, limitations, and relevance in addressing **[research problem]**, and propose potential adaptations. |
+| 3 | Synthesizing Research on **[Emerging Trend/Technology]** Impact | Summarize recent studies on the impact of **[emerging trend/technology]** in **[relevant context]**. Analyze how these findings contribute to understanding its effects on **[specific aspect]**, and identify areas requiring additional research. |
+| 4 | Uncovering Contradictions and Consensus in **[Research Topic]** Literature | Examine the literature related to **[research topic]** and identify conflicting viewpoints as well as areas of consensus. Analyze the factors contributing to these disparities and propose ways to reconcile them. |
+| 5 | Investigating Gaps in **[Specific Domain]** Research | Conduct a comprehensive literature review to identify gaps in research within **[specific domain]**. Highlight areas where empirical evidence is lacking and suggest potential avenues for future exploration. |
+| 6 | Historical Evolution of **[Research Area]** Scholarship | Trace the historical development of scholarship in **[research area]** from its origins to the present day. Analyze key milestones, shifts in research focus, and their impact on current understanding. |
+| 7 | Comparative Analysis of **[Key Theories/Models]** in **[Chosen Field]** | Compare and contrast prominent theories or models in **[chosen field]**. Evaluate their applicability in addressing **[research problem]** and propose a synthesized framework that integrates their strengths. |
+| 8 | Meta-Analysis of Methodologies in **[Specific Research Area]** | Conduct a meta-analysis of research methodologies employed in **[specific research area]**. Assess their effectiveness in addressing **[research problem]**, identify best practices, and recommend innovative approaches. |
+| 9 | Identifying Emerging Themes in **[Research Area]** Literature | Identify and analyze emerging themes and trends in recent literature within **[research area]**. Discuss how these themes reflect shifts in research focus and suggest their implications for future studies. |
+| 10 | Mapping Research Trajectories in **[Chosen Field]** | Create a visual map illustrating the trajectory of research in **[chosen field]**, highlighting seminal studies, breakthroughs, and areas of ongoing investigation. Discuss the implications of these trajectories for the direction of future research. |
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
 
