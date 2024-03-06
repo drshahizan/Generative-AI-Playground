@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/Generative-AI-Playground/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Generative-AI-Playground?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Generative-AI-Playground&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-## How to Sign in
+## Installation & Sign in
 
 ### 1. ChatGPT
 - Visit the [ChatGPT login page](https://chat.openai.com/auth/login).
