@@ -37,7 +37,22 @@
 | 5       | Create an outline for an academic paper on the provided topic sentence, focusing on a logical flow of ideas: "Craft an outline for an academic paper addressing [**insert topic sentence**]. Structure the outline to ensure a logical flow of ideas, including an introduction, background information, main arguments, supporting evidence, and a concise conclusion." |
 
 ## 4. Introduction
+
+| **No.** | **Prompt** |
+|---------|-------------------------------------------|
+| 1       | Craft an engaging introduction for an academic paper centered around the provided research topic: "Develop an introduction that captures the readers’ attention and provides a concise overview of the research topic: [**insert topic sentence**]. Introduce the significance, research question, and objectives of the study." |
+| 2       | Write an introductory paragraph for a scholarly work exploring the given topic: "Compose an introductory paragraph that effectively introduces the readers to the topic at hand: [**insert topic sentence**]. Provide background information, context, and the rationale for the research." |
+| 3       | Develop an introduction for an academic article focusing on the provided topic sentence: "Create an introduction that sets the stage for an academic article centered around [**insert topic sentence**]. Clearly state the research problem, highlight its importance, and outline the structure of the article." |
+| 4       | Craft an opening paragraph for an academic paper on the given research topic: "Write an engaging opening paragraph for an academic paper addressing [**insert topic sentence**]. Use compelling language to introduce the topic, establish its relevance, and convey the research objectives." |
+| 5       | Construct an introduction for a research study exploring the provided topic sentence: "Construct an introduction that provides a comprehensive overview of the research study related to [**insert topic sentence**]. Present the research gap, describe the methodology, and highlight the anticipated contributions of the study." |
+| 6       | Develop an engaging introduction for a scholarly work on the given topic: "Develop an introduction that grabs the readers’ attention and provides an overview of the scholarly work focused on [**insert topic sentence**]. Present the research context, outline the key themes, and state the research objectives." |
+| 7       | Write an introductory section for an academic paper exploring the provided topic sentence: "Write an introductory section that introduces the readers to the topic described in [**insert topic sentence**]. Present the research background, describe the research problem, and outline the scope and purpose of the study." |
+| 8       | Craft an opening statement for an academic article centered around the given research topic: "Craft an opening statement that effectively introduces an academic article focused on [**insert topic sentence**]. Engage the readers with a thought-provoking statement and provide a brief overview of the research area." |
+| 9       | Develop an introduction for an academic work that highlights the significance of the provided topic: "Develop an introduction that emphasizes the significance and relevance of the research topic: [**insert topic sentence**]. Discuss its importance in the broader context and outline the research aims and objectives." |
+| 10      | Write an engaging introduction for an academic paper that sets the context for the provided research topic: "Write an introduction that contextualizes the research topic: [**insert topic sentence**]. Introduce the field of study, provide relevant background information, and articulate the research problem and objectives." |
+
 ## 5. Literature Review
+
 ## 6. Methodology
 ## 7. Academic Writing Results
 ## 8. Discussion
