@@ -21,6 +21,7 @@ inception to publication. Include information on [topic selection], [problem def
 
 (Note: Replace placeholders like **research papers**, **topic selection**, **problem definition**, **literature review**, **research questions/hypotheses**, **methodology**, **data collection**, **data analysis**, **results interpretation**, **discussion**, **conclusion**, **writing and formatting**, **peer review**, **revision**, **proofreading**, **submission**, **publication**, **dissemination**, and **impact tracking** with specific information based on your research paper’s content and context.)
 
+## ChatGPT Prompts for Research Papers
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
