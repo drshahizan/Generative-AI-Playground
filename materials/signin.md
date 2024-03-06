@@ -33,7 +33,7 @@ To install AIPRM for ChatGPT, follow these steps based on your browser:
     - Go to the **[Chrome Web Store](https://chromewebstore.google.com/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)**.
     - Search for **AIPRM**.
     - Click the **"Add to Chrome"** button.
-    - In the popup window, click **"Add extension"**²⁴.
+    - In the popup window, click **"Add extension"**.
 
 2. **Microsoft Edge**:
     - Open ChatGPT and log in to your account.
@@ -41,7 +41,7 @@ To install AIPRM for ChatGPT, follow these steps based on your browser:
     - Go to the **[Microsoft Edge Add-ons page](https://microsoftedge.microsoft.com/addons/detail/nkiohniccbickhccicgbedaibabialda)**.
     - Search for **AIPRM**.
     - On the extension page, click **"Get"**.
-    - In the popup window, click **"Add extension"**³⁵.
+    - In the popup window, click **"Add extension"**.
 
 **AIPRM** is your cheat code for ChatGPT, providing curated prompt templates and advanced features. It's the ultimate time-saver for tasks like SEO, marketing, and copywriting. Don't miss out on this productivity boost! 🚀.
 
