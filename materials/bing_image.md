@@ -56,11 +56,27 @@ Here's a template to help you craft better prompts:
 
 The more specific and imaginative your prompts are, the better the AI-generated images will align with your vision. Remember, that while writing you cannot provide aspect ratios to Bing Image Creator as it always generates in a 1:1 or 3:4 ratio.
 
+
+## **Get Creative with Bing's Image Creator!**
+
+Are you ready to let your imagination run wild? Bing's Image Creator is here to help! 🎨
+
+1. **Write Your Prompt**: Just type in what you want—an idea, a scene, or a feeling. Be as specific or as open-ended as you like.
+
+2. **Click "Create"**: Hit that button, and Bing's magic will generate **four unique images** based on your words.
+
+3. **Boosts or No Boosts**: Even if you're low on boosts, you can still create images. It might be a tad slower, but the creative spark remains lit.
+
+### **Why Use Bing's Image Creator?**
+
+- **Inspiration Awaits**: Whether you're an artist, writer, or daydreamer, these images can kickstart your creativity.
+
+- **Diverse Visuals**: From serene landscapes to quirky characters, there's something for everyone.
+
+- **Endless Possibilities**: Combine prompts, mix genres, and explore unexpected connections. Let your creativity soar! ✨
+
+
 ## Best AI Image Prompts You Can Use On Bing's Image Creator
-
-Write your prompts in the prompt writing bar, and then select **Create**.
-
-You will be given four images based on your prompt, and don't worry if you're out of boosts. You can still create images, but it will generate them a little bit slower.
 
 1. Futuristic, cityscape, reflecting sunset, concept art
 2. Ancient, Egyptian temple, adorned with hieroglyphs, photorealistic
@@ -141,10 +157,7 @@ You will be given four images based on your prompt, and don't worry if you're ou
 77. Stylized, geometric cityscape, reflecting in water, vector illustration
 78. Eerie, haunted forest, shrouded in fog, gothic art
 79. Realistic, anatomical illustration, showcasing the human heart, medical drawing
-80. 80. Lush, terraced rice fields, glowing at sunset, landscape photography
-
-![Prompt: Lush, terraced rice fields, glowing at sunset, landscape photography](https://www.greataiprompts.com/wp-content/uploads/2024/01/bing-ai-image-creator-prompts.jpeg)
-
+80. Lush, terraced rice fields, glowing at sunset, landscape photography
 81. Dramatic, volcanic eruption, showcasing lava flows, nature painting
 82. Whimsical, treehouse village, nestled in a magical forest, fantasy art
 83. Minimalist, black and white, ink-wash landscape, inspired by traditional Chinese art
