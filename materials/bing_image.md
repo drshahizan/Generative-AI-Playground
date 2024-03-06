@@ -9,6 +9,7 @@
 ## Bing's Image Creator: An Overview
 
 Bing's Image Creator is a powerful tool that enables users to generate AI images using text prompts.
+<p align="center"><img src="https://www.greataiprompts.com/wp-content/uploads/2023/03/image-44.png"  width="500" /></p>
 
 1. **Purpose and Functionality**:
    - **Bing's Image Creator** is a cutting-edge tool developed by **Microsoft**. Its primary purpose is to generate images based on descriptive text prompts.
@@ -21,7 +22,6 @@ Bing's Image Creator is a powerful tool that enables users to generate AI images
 
 3. **Getting Started**:
    - To explore **Bing's Image Creator**, visit [bing.com/create](https://www.bing.com/create), where you can either sign up for a new Microsoft account or log into your existing one.
-
    - If you're new, you have the advantage of receiving **25 boosted generations** to kickstart your creative journey.
 
 4. **Use Cases**:
@@ -30,7 +30,7 @@ Bing's Image Creator is a powerful tool that enables users to generate AI images
    - **Concept Visualization**: Communicate abstract concepts, metaphors, or visual analogies effectively.
    - **Educational Content**: Teachers and educators can create visual aids for lessons and presentations.
 
-5. **Limitations and Considerations**:
+6. **Limitations and Considerations**:
    - While the AI is powerful, it may not always perfectly match the user's mental image. Experimentation and iteration are encouraged.
    - The quality of generated images depends on the clarity and specificity of the input description.
    - Users should explore various prompts and refine their descriptions to achieve desired results.
