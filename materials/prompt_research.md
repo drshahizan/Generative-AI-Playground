@@ -25,7 +25,7 @@ inception to publication. Include information on [topic selection], [problem def
 
 ### General
 
-| No. | Prompt | Description |
+| No. | Title | Prompt |
 |-----|--------|-------------|
 | 1 | Comprehensive Overview of Research Papers | Provide a detailed overview of the components and structure of **[research papers]**, including the significance of **[introduction]**, **[literature review]**, **[methodology]**, **[results]**, **[discussion]**, and **[conclusion]** sections. Explain how each section contributes to the paper’s coherence and the overall understanding of the research. |
 | 2 | Effective Literature Review Strategies | Discuss comprehensive strategies for conducting a thorough **[literature review]** in **[research papers]**. Explain the process of identifying and evaluating relevant sources, synthesizing existing research, and establishing a solid research context. Highlight the role of a well-executed literature review in informing research gaps. |
@@ -35,7 +35,7 @@ inception to publication. Include information on [topic selection], [problem def
 
 ### 1. Topic Selection and Problem Definition
 
-| No. | Prompt | Description |
+| No. | Title | Prompt |
 |-----|--------|-------------|
 | 1 | Narrowing Down Research Topics within **[Your Expertise/Interest]** | Generate research topics within **[broad subject area]** that align with my expertise and current research trends. I’m particularly interested in exploring **[specific aspect]** and its implications for **[relevant context]**. |
 | 2 | Defining a Research Problem in **[Chosen Field of Study]** | Help me formulate a research question that delves into the impact of **[emerging trend/technology]** on **[key factor]** within **[chosen field of study]**. The goal is to identify a research problem that contributes to addressing real-world challenges. |
@@ -50,7 +50,7 @@ inception to publication. Include information on [topic selection], [problem def
 
 ### 2. Literature Review
 
-| No. | Prompt | Description |
+| No. | Title | Prompt |
 |-----|--------|-------------|
 | 1 | Comprehensive Literature Review in **[Chosen Field]** | Provide a detailed overview of key literature in **[chosen field]** over the past **[specific time frame]**. Summarize major theories, findings, and methodologies, highlighting gaps that warrant further exploration. |
 | 2 | Analyzing Theoretical Frameworks in **[Specific Research Area]** | Conduct a thorough review of existing theoretical frameworks applied in **[specific research area]**. Discuss their strengths, limitations, and relevance in addressing **[research problem]**, and propose potential adaptations. |
@@ -65,7 +65,7 @@ inception to publication. Include information on [topic selection], [problem def
 
 ### 3. Formulating Hypotheses or Research Questions
 
-| No. | Prompt | Description |
+| No. | Title | Prompt |
 |-----|--------|-------------|
 | 1 | Crafting Testable Hypotheses for **[Research Problem]** | Generate specific hypotheses that aim to address the **[research problem]** identified earlier. Ensure these hypotheses are measurable, clear, and capable of being tested empirically. |
 | 2 | Developing Research Questions for **[Chosen Research Area]** | Formulate research questions that explore **[specific aspect]** within **[chosen research area]**. These questions should guide the investigation and provide a clear focus for the study. |
@@ -80,7 +80,7 @@ inception to publication. Include information on [topic selection], [problem def
 
 ### 4. Designing the Study
 
-| No. | Prompt | Description |
+| No. | Title | Prompt |
 |-----|--------|-------------|
 | 1 | Designing a **[Quantitative/Qualitative/Mixed-Methods]** Study for **[Research Problem]** | Outline a comprehensive study design for investigating **[research problem]**. Specify the methodology (quantitative, qualitative, or mixed), data collection methods, sample size, and any relevant tools or instruments. |
 | 2 | Choosing the Optimal Data Collection Methods for **[Research Area]** | Recommend suitable data collection methods (surveys, interviews, observations, etc.) for gathering information about **[research area]**. Justify your choices based on the nature of the research problem and the desired outcomes. |
@@ -95,7 +95,7 @@ inception to publication. Include information on [topic selection], [problem def
 
 ### 5. Data Collection
 
-| No. | Prompt | Description |
+| No. | Title | Prompt |
 |-----|--------|-------------|
 | 1 | Conducting **[Survey/Questionnaire]** for **[Research Problem]** Investigation | Detail the steps involved in administering a **[survey/questionnaire]** to collect data on **[research problem]**. Outline the process of participant recruitment, survey distribution, data collection, and potential methods to enhance response rates. |
 | 2 | Interviewing **[Participant Group]** for In-depth **[Research Area]** Insights | Describe the interview process for collecting in-depth insights from **[participant group]** regarding **[research area]**. Specify the recruitment strategy, interview format, data recording methods, and potential techniques for maintaining rapport. |
@@ -110,7 +110,7 @@ inception to publication. Include information on [topic selection], [problem def
 
 ### 6. Data Analysis
 
-| No. | Prompt | Description |
+| No. | Title | Prompt |
 |-----|--------|-------------|
 | 1 | Analyzing **[Quantitative/Qualitative/Mixed-Methods]** Data for **[Hypothesis]** Testing | Describe the data analysis process for testing the hypotheses related to **[research problem]**. Specify the statistical tests or analytical techniques to be used, the criteria for significance, and how the results will be interpreted. |
 | 2 | Conducting Thematic Analysis on **[Qualitative Data]** | Explain how thematic analysis will be applied to the **[qualitative data]** collected from **[participant group]**. Describe the process of coding, identifying themes, and analyzing the narratives to uncover patterns and insights. |
@@ -125,7 +125,7 @@ inception to publication. Include information on [topic selection], [problem def
 
 ### 7. Discussion and Interpretation
 
-| No. | Prompt | Description |
+| No. | Title | Prompt |
 |-----|--------|-------------|
 | 1 | Interpreting **[Research Results]** within the Context of **[Research Problem]** | Discuss the interpretation of **[research results]** in relation to the **[research problem]**. Analyze how the findings align with the hypotheses and contribute to addressing the overarching research question. |
 | 2 | Exploring **[Theoretical Framework]** Implications for **[Research Area]** | Examine how the **[theoretical framework]** informs the interpretation of the research findings in **[research area]**. Discuss the framework’s concepts and their relevance in explaining the observed patterns or relationships. |
@@ -140,9 +140,8 @@ inception to publication. Include information on [topic selection], [problem def
 
 ### 8. Conclusion
 
-Here's the table with the prompts you provided:
 
-| No. | Prompt | Description |
+| No. | Title | Prompt |
 |-----|--------|-------------|
 | 1 | Summarizing Key Findings and Their Implications | Summarize the main **[research findings/hypotheses tested]** and their implications for **[research problem]**. Provide a concise overview of how these findings contribute to addressing the research question and advancing knowledge in **[research area]**. |
 | 2 | Reflecting on Theoretical and Practical Significance | Reflect on the theoretical and practical significance of the research outcomes. Discuss how the findings contribute to enhancing understanding, challenging existing theories, and informing real-world applications in **[research area]**. |
@@ -156,9 +155,8 @@ Here's the table with the prompts you provided:
 | 10 | Concluding Remarks and Final Message | Offer a concluding message that summarizes the overarching impact of the research. Discuss the broader significance of the findings, how they contribute to the advancement of knowledge, and their potential implications for **[research area]** and beyond. |
 
 ### 9. Writing the Paper
-Here's the table with the prompts you provided:
 
-| No. | Prompt | Description |
+| No. | Title | Prompt |
 |-----|--------|-------------|
 | 1 | Structuring the Paper with [Introduction, Literature Review, Methodology, Results, Discussion, Conclusion] | Outline the paper’s structure with [introduction, literature review, methodology, results, discussion, conclusion] sections. Describe the purpose and content of each section, ensuring logical flow and coherence throughout the paper. |
 | 2 | Crafting a Compelling Introduction for [Research Problem] | Write an engaging introduction that introduces the [research problem], provides context, and highlights its significance. Clearly state the research objectives and outline the paper’s organization. |
@@ -173,7 +171,7 @@ Here's the table with the prompts you provided:
 
 ### 10. Peer Review and Revisions
 
-| No. | Prompt | Description |
+| No. | Title | Prompt |
 |-----|--------|-------------|
 | 1 | Preparing for Peer Review: [Checklist and Guidelines] | Compile a checklist of key elements to review before submitting the paper for peer review. Include aspects like formatting, clarity, coherence, and adherence to [journal/conference] guidelines. |
 | 2 | Responding to Peer Reviewer Comments: [Revision Strategy] | Discuss a comprehensive strategy for addressing peer reviewer comments. Outline how to evaluate and prioritize comments, make necessary revisions, and provide clear justifications for changes. |
@@ -188,7 +186,7 @@ Here's the table with the prompts you provided:
 
 ### 11. Submission and Publication
 
-| No. | Prompt | Description |
+| No. | Title | Prompt |
 |-----|--------|-------------|
 | 1 | Formatting the Manuscript for [Journal/Conference] Submission | Explain the process of formatting the manuscript according to [journal/conference] guidelines. Include details about page layout, font, referencing style, and any specific requirements for figures, tables, and supplementary materials. |
 | 2 | Crafting an Effective Cover Letter for Submission | Discuss how to write a compelling cover letter for manuscript submission. Provide guidance on addressing the editor, summarizing the paper’s significance, highlighting contributions, and explaining the paper’s fit with the journal’s scope. |
@@ -203,7 +201,7 @@ Here's the table with the prompts you provided:
 
 ### 12. Peer Review Process
 
-| No. | Prompt | Description |
+| No. | Title | Prompt |
 |-----|--------|-------------|
 | 1 | Preparing for Peer Review: [Checklist and Guidelines] | Create a checklist of key elements to review before submitting the paper for peer review. Include aspects like formatting, clarity, coherence, and adherence to [journal/conference] guidelines. |
 | 2 | Responding to Peer Reviewer Comments: [Revision Strategy] | Develop a comprehensive strategy for addressing peer reviewer comments. Outline how to evaluate and prioritize comments, make necessary revisions, and provide clear justifications for changes. |
@@ -217,7 +215,7 @@ Here's the table with the prompts you provided:
 | 10 | Final Review and Quality Assurance Before Resubmission | Outline the steps for conducting a final review and quality assurance check before resubmitting the revised paper. Discuss proofreading, formatting, and ensuring all revisions have been addressed comprehensively. |
 
 ### 13. Final Edits and Proofreading
-| No. | Prompt | Description |
+| No. | Title | Prompt |
 |-----|-------|-------------|
 | 1   | Reviewing Manuscript for [Spelling/Grammar/Punctuation] Accuracy | Explain the process of conducting a thorough proofreading pass to identify and correct [spelling/grammar/punctuation] errors. Provide tips for using grammar-check tools effectively and manually reviewing the manuscript. |
 | 2   | Ensuring [Journal/Conference] Formatting and Style Compliance | Explain how to ensure consistent formatting and adhere to the style guidelines of [journal/conference]. Discuss strategies for reviewing headings, font styles, citation formats, and other elements to maintain a unified presentation. |
@@ -232,7 +230,7 @@ Here's the table with the prompts you provided:
 
 ### 14. Publication and Dissemination
 
-| No. | Prompt | Description |
+| No. | Title | Prompt |
 |-----|-------|-------------|
 | 1   | Selecting the Right [Journal/Conference] for Publication | Explain the process of selecting the appropriate [journal/conference] for publication. Provide guidelines on evaluating the scope, audience, impact factor, and submission guidelines to ensure a good fit. |
 | 2   | Crafting an Effective Cover Letter for Submission | Describe how to create a compelling cover letter when submitting the manuscript. Include information about addressing the editor, highlighting the paper’s significance, and explaining its relevance to the journal’s readership. |
