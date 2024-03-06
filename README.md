@@ -20,6 +20,7 @@ At Generative-AI-Playground, users can dive into the world of generative AI to u
 | 3. | Prompts | [ChatGPT Expert Prompts](./materials/prompt.md)|
 |  | Prompts | [ChatGPT Prompts For Research Papers](./materials/prompt_research.md)|
 |  | Prompts | [ChatGPT Prompts for Academic Writing](./materials/prompt_academic.md)|
+|  | Prompts | [215+ ChatGPT Prompts & How to Write your Own](https://writesonic.com/blog/chatgpt-prompts)|
 | 4. | Prompts | [AIPRM Prompt Templates](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/aiprm-prompt-templates)|
 
 
