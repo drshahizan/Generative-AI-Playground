@@ -52,7 +52,28 @@
 | 10      | Write an engaging introduction for an academic paper that sets the context for the provided research topic: "Write an introduction that contextualizes the research topic: [**insert topic sentence**]. Introduce the field of study, provide relevant background information, and articulate the research problem and objectives." |
 
 ## 5. Literature Review
-
+| **No.** | **Task** |
+|---------|-------------------------------------------|
+| 1       | Conduct a literature review on the topic of [**TOPIC SENTENCE**], summarizing the key findings and insights from relevant research studies. |
+| 2       | Analyze and synthesize the existing literature on [**TOPIC SENTENCE**], identifying the major theories, concepts, and methodologies used in previous research. |
+| 3       | Review a selection of scholarly articles on [**TOPIC SENTENCE**], critically evaluating their methodologies, strengths, and limitations. |
+| 4       | Identify and discuss the key themes and trends that emerge from the literature on [**TOPIC SENTENCE**], highlighting the areas of consensus and controversy. |
+| 5       | Conduct a systematic literature review on [**TOPIC SENTENCE**], organizing and categorizing the relevant research papers based on their research questions, methodologies, and findings. |
+| 6       | Provide an overview of the theoretical frameworks and conceptual models that have been employed in the literature on [**TOPIC SENTENCE**]. |
+| 7       | Analyze the gaps and limitations in the existing literature on [**TOPIC SENTENCE**], suggesting areas for further research and exploration. |
+| 8       | Compare and contrast the findings and conclusions from different research studies on [**TOPIC SENTENCE**], highlighting the variations and inconsistencies. |
+| 9       | Examine the impact and implications of the research findings in the literature on [**TOPIC SENTENCE**], considering their relevance and applicability. |
+| 10      | Discuss the methodological approaches used in the literature on [**TOPIC SENTENCE**], evaluating their effectiveness in addressing the research questions. |
+| 11      | Identify the key researchers and scholars who have contributed significantly to the field of [**TOPIC SENTENCE**], citing their influential works. |
+| 12      | Summarize and critique the methodologies employed in the literature on [**TOPIC SENTENCE**], assessing their strengths and weaknesses. |
+| 13      | Analyze the research design and data collection methods used in the literature on [**TOPIC SENTENCE**], evaluating their appropriateness and reliability. |
+| 14      | Provide a critical assessment of the quality and rigor of the research studies reviewed in the literature on [**TOPIC SENTENCE**]. |
+| 15      | Discuss the theoretical and practical implications of the research findings in the literature on [**TOPIC SENTENCE**], considering their significance in the field. |
+| 16      | Synthesize the key findings and conclusions from the reviewed literature on [**TOPIC SENTENCE**], highlighting the gaps and areas for future research. |
+| 17      | Discuss the limitations and challenges encountered in the reviewed research studies on [**TOPIC SENTENCE**], suggesting strategies for improvement. |
+| 18      | Evaluate the credibility and relevance of the sources used in the literature on [**TOPIC SENTENCE**], ensuring the inclusion of high-quality and reputable research papers. |
+| 19      | Provide a comprehensive bibliography of the review papers and research studies included in the literature review on [**TOPIC SENTENCE**]. |
+| 20      | Summarize the major contributions and insights from the reviewed literature on [**TOPIC SENTENCE**], highlighting their significance in advancing knowledge in the field. |
 ## 6. Methodology
 ## 7. Academic Writing Results
 ## 8. Discussion
