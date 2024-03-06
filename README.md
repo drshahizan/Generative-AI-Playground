@@ -22,7 +22,8 @@ At Generative-AI-Playground, users can dive into the world of generative AI to u
 |  |  | [ChatGPT Prompts for Academic Writing](./materials/prompt_academic.md)|
 |  |  | [215+ ChatGPT Prompts & How to Write your Own](https://writesonic.com/blog/chatgpt-prompts)|
 |  |  | [AIPRM Prompt Templates](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/aiprm-prompt-templates)|
-| 5. | Copywriting| [Role of Copywriting](https://drshahizan.gitbook.io/copywriting-chatgpt/introduction-copywriting/role) |
+| 3. | Copywriting| [Role of Copywriting](https://drshahizan.gitbook.io/copywriting-chatgpt/introduction-copywriting/role) |
+|  | | [Case study: ⚽ My Bola](https://drshahizan.gitbook.io/copywriting-chatgpt/introduction-copywriting/case-study/copywriting) |
 
 
 
