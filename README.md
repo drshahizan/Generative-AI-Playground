@@ -17,12 +17,14 @@ At Generative-AI-Playground, users can dive into the world of generative AI to u
 |--------|---------|---------|
 | 1. | Installation & Sign in |[ChatGPT, BingAI, Gemini and AIPRM for ChatGPT](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/signin.md)|
 | 2. | Prompts | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
-| 3. | Prompts | [ChatGPT Expert Prompts](./materials/prompt.md)|
-|  | Prompts | [ChatGPT Prompts For Research Papers](./materials/prompt_research.md)|
-|  | Prompts | [ChatGPT Prompts for Academic Writing](./materials/prompt_academic.md)|
-|  | Prompts | [215+ ChatGPT Prompts & How to Write your Own](https://writesonic.com/blog/chatgpt-prompts)|
-| 4. | Prompts | [AIPRM Prompt Templates](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/aiprm-prompt-templates)|
-| 5. | Copywriting| Role of Copywriting |
+|  |  | [ChatGPT Expert Prompts](./materials/prompt.md)|
+|  |  | [ChatGPT Prompts For Research Papers](./materials/prompt_research.md)|
+|  |  | [ChatGPT Prompts for Academic Writing](./materials/prompt_academic.md)|
+|  |  | [215+ ChatGPT Prompts & How to Write your Own](https://writesonic.com/blog/chatgpt-prompts)|
+|  |  | [AIPRM Prompt Templates](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/aiprm-prompt-templates)|
+| 5. | Copywriting| [Role of Copywriting](https://drshahizan.gitbook.io/copywriting-chatgpt/introduction-copywriting/role) |
+
+
 
 
 ## AI Tools for Various Tasks
