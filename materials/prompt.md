@@ -15,28 +15,28 @@ For instance, in a dialogue scenario, you can start the conversation with a syst
 
 Overall, **ChatGPT Expert Prompts** help users have more controlled and productive interactions with the AI by steering the conversation according to their needs and preferences.
 
-# Tips to create powerful prompts
+## Tips to create powerful prompts
 
-## 1. Be Precise and Specific
+### 1. Be Precise and Specific
    - Clearly state your desired outcome with specific keywords or phrases.
    - Instead of vague instructions, provide detailed context. For example, "Generate a detailed overview of Malaysia's tourism industry, including popular destinations, tourist demographics, and recent trends." is more effective than "Overview of Malaysia's tourism industry"
 
-## 2. Use Positive Instructions
+### 2. Use Positive Instructions
    - Frame your prompt in a positive manner. Tell Copilot what you want it to do, rather than what you don’t want.
 For instance, use “Create a summary of this article” instead of “Don’t generate a lengthy response.”
 
-## 3. Provide Examples and Inputs/Outputs
+### 3. Provide Examples and Inputs/Outputs
    - Include examples of inputs and expected outputs. This helps Copilot understand your intent.
    - If you're asking Copilot to write code, provide sample input/output pairs or describe edge cases.
    - Example: "Generate a comparative analysis of Malaysia's education system and its impact on economic development, using examples from other countries for reference".
 
-## 4. Use Natural Language
+### 4. Use Natural Language
    - Write prompts as if you're conversing with a helpful coworker. Be clear and concise.
    - Imagine explaining the task to someone who doesn't know the specifics.
    - Example: "Provide an overview of Malaysia's political history, including key events, influential leaders, and the country's democratic framework."
 
 
-## 5. Iterate and Refine
+### 5. Iterate and Refine
    - If the initial result isn't what you wanted, iterate. Adjust your prompt to avoid mistakes.
    - Regenerate responses until you get the desired output.
    - Example:  "Generate a report on Malaysia's efforts to promote sustainable development, focusing on initiatives, challenges, and future goals."
