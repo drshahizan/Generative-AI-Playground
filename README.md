@@ -24,8 +24,8 @@ At Generative-AI-Playground, users can dive into the world of generative AI to u
 |  |  | [AIPRM Prompt Templates](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/aiprm-prompt-templates)|
 | 3. | Copywriting| [Role of Copywriting](https://drshahizan.gitbook.io/copywriting-chatgpt/introduction-copywriting/role) |
 |  | | [Case study: ⚽ My Bola](https://drshahizan.gitbook.io/copywriting-chatgpt/introduction-copywriting/case-study/copywriting) |
-| 4. | AI Tools| [Useful AI Tools](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/aitools.md) |
-|||[AI Tools for Various Tasks]()|
+| 4. | AI Tools| [Useful AI Tools](./materials/aitools.md) |
+|||[AI Tools for Various Tasks](./materials/aitools1.md)|
 
 
 
