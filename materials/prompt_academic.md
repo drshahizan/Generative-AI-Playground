@@ -18,7 +18,24 @@
 | 5.      | Propose a research methodology for studying **[research topic]**: Develop a research methodology for studying **[your research topic]**. Justify your choice of research design, data collection methods, and analysis techniques, and explain how your proposed methodology will address the research questions or objectives. |
 
 ## 2. Academic Title
+
+| **No.** | **Prompt** |
+|---------|-------------------------------------------|
+| 1       | Develop five potential titles for an academic paper based on the following abstract: "Suggest five titles for the following abstract: [**insert abstract paragraph**]. Consider capturing the main focus, key concepts, and research findings in the titles." |
+| 2       | Create five compelling titles for a research article based on the provided abstract: "Generate five titles that effectively summarize the content and significance of the research article described in the following abstract: [**insert abstract paragraph**]. Aim for titles that capture the essence of the study and pique the reader’s interest." |
+| 3       | Propose five concise and informative titles for an academic paper based on the abstract provided: "Based on the abstract paragraph provided, propose five titles that concisely convey the core topic, research question, and major findings of the academic paper. Strive for titles that are clear, precise, and engaging." |
+| 4       | Brainstorm five potential titles for a scholarly work based on the abstract excerpt: "Brainstorm and suggest five possible titles for the scholarly work outlined in the following abstract: [**insert abstract paragraph**]. Ensure the titles accurately represent the scope, purpose, and significance of the research." |
+| 5       | Craft five effective titles for an academic article using the given abstract as inspiration: "Craft five compelling titles that capture the essence of the academic article described in the following abstract: [**insert abstract paragraph**]. Aim to create titles that attract readers, convey the main thesis, and reflect the unique contributions of the research." |
+
 ## 3. Outline
+| **No.** | **Prompt** |
+|---------|-------------------------------------------|
+| 1       | Generate an outline for an academic paper based on the provided topic sentence: "Develop a detailed outline for an academic paper centered around the topic sentence: [**insert topic sentence**]. Outline the main sections, subtopics, and key points to be covered in the paper." |
+| 2       | Create a comprehensive outline for a research article on the given topic: "Generate an outline for a research article focusing on [**insert topic sentence**]. Structure the outline to include sections such as introduction, literature review, methodology, findings, discussion, and conclusion." |
+| 3       | Outline a scholarly work on the provided topic sentence, including key sections and subheadings: "Provide an outline for a scholarly work centered on the topic sentence: [**insert topic sentence**]. Outline the major sections, subheadings, and supporting points that should be included in the work." |
+| 4       | Generate an outline for a journal article exploring the given topic sentence: "Develop an outline for a journal article that delves into [**insert topic sentence**]. Outline the key sections, methodology, theoretical framework, empirical evidence, and conclusions to be included in the article." |
+| 5       | Create an outline for an academic paper on the provided topic sentence, focusing on a logical flow of ideas: "Craft an outline for an academic paper addressing [**insert topic sentence**]. Structure the outline to ensure a logical flow of ideas, including an introduction, background information, main arguments, supporting evidence, and a concise conclusion." |
+
 ## 4. Introduction
 ## 5. Literature Review
 ## 6. Methodology
