@@ -74,10 +74,97 @@
 | 18      | Evaluate the credibility and relevance of the sources used in the literature on [**TOPIC SENTENCE**], ensuring the inclusion of high-quality and reputable research papers. |
 | 19      | Provide a comprehensive bibliography of the review papers and research studies included in the literature review on [**TOPIC SENTENCE**]. |
 | 20      | Summarize the major contributions and insights from the reviewed literature on [**TOPIC SENTENCE**], highlighting their significance in advancing knowledge in the field. |
+
 ## 6. Methodology
+
+| **No.** | **Task** |
+|---------|-------------------------------------------|
+| 1       | Design a research methodology for investigating the relationship between [**variables**] in the context of [**research topic**]. |
+| 2       | Develop clear research objectives and outline a comprehensive methodology to address those objectives for [**research topic**]. |
+| 3       | Write a detailed methodology section for conducting a qualitative study on [**research topic**]. |
+| 4       | Design a survey questionnaire and describe the sampling technique to be used in a quantitative research study on [**research topic**]. |
+| 5       | Discuss the strengths and limitations of using a mixed-methods approach in studying [**research topic**]. |
+| 6       | Propose a research design and methodology for conducting an experimental study on [**research topic**]. |
+| 7       | Outline a systematic review methodology for analyzing and synthesizing existing literature on [**research topic**]. |
+| 8       | Analyze the strengths and weaknesses of the chosen research methodology in investigating [**research topic**]. |
+| 9       | Develop a step-by-step procedure for collecting and analyzing primary data for [**research topic**]. |
+| 10      | Evaluate the appropriateness of using a case study methodology to explore [**research topic**]. |
+| 11      | Design a research methodology for conducting interviews with key stakeholders in the field of [**research topic**]. |
+| 12      | Discuss the ethical considerations that need to be addressed when implementing the proposed research methodology for [**research topic**]. |
+| 13      | Create a data collection plan and describe the data analysis techniques to be employed in a quantitative research study on [**research topic**]. |
+| 14      | Justify the selection of a particular research design and methodology for investigating [**research topic**] based on its suitability and feasibility. |
+| 15      | Discuss the potential biases and limitations associated with the chosen research methodology in studying [**research topic**]. |
+| 16      | Develop a framework for analyzing qualitative data collected through interviews, focus groups, or observations for [**research topic**]. |
+| 17      | Describe the steps involved in conducting a systematic literature review as part of the research methodology for [**research topic**]. |
+| 18      | Assess the reliability and validity of the chosen measurement instruments in the research methodology for [**research topic**]. |
+| 19      | Explain how the research methodology addresses potential confounding variables and ensures internal validity in studying [**research topic**]. |
+| 20      | Compare and contrast different research methodologies (e.g., experimental, survey, case study) in terms of their suitability for investigating [**research topic**]. |
+
 ## 7. Academic Writing Results
+
+| **No.** | **Task** |
+|---------|-------------------------------------------|
+| 1       | Present and interpret the quantitative data collected in the study to provide a comprehensive analysis of the findings related to [**research topic**]. |
+| 2       | Describe the key patterns and trends observed in the qualitative data gathered during the research on [**research topic**]. |
+| 3       | Analyze the statistical significance of the results obtained from the conducted experiments on [**research topic**]. |
+| 4       | Present the survey responses and summarize the major themes and insights derived from the data in relation to [**research topic**]. |
+| 5       | Discuss the relationships and correlations found among the variables examined in the study on [**research topic**]. |
+| 6       | Interpret the findings of the data analysis and discuss their implications for the field of [**research topic**]. |
+| 7       | Illustrate the main outcomes of the research through clear and concise tables, graphs, or charts for [**research topic**]. |
+| 8       | Discuss any unexpected or contradictory results obtained during the study and propose potential explanations for them. |
+| 9       | Compare and contrast the findings of the current study with existing literature on [**research topic**]. |
+| 10      | Highlight the statistical significance of the observed differences or similarities between the experimental groups in the study on [**research topic**]. |
+| 11      | Summarize the qualitative responses obtained from interviews or open-ended survey questions and identify recurring themes. |
+| 12      | Discuss the limitations of the study in terms of potential biases or confounding factors that may have influenced the results for [**research topic**]. |
+| 13      | Provide a detailed analysis of the collected data to support the claims made in the study on [**research topic**]. |
+| 14      | Interpret the results of the statistical tests conducted to assess the hypotheses formulated for [**research topic**]. |
+| 15      | Discuss any unexpected findings or patterns that emerged from the analysis and their implications for future research. |
+| 16      | Present the descriptive statistics and measures of central tendency and variability for the variables examined in the study on [**research topic**]. |
+| 17      | Discuss the reliability and validity of the measurements used in the study to ensure the accuracy of the results for [**research topic**]. |
+| 18      | Summarize the key findings and their significance in addressing the research objectives of [**research topic**]. |
+| 19      | Provide a detailed analysis of any subgroups or subcategories identified within the data and their implications for [**research topic**]. |
+| 20      | Interpret the results of the data analysis in light of the research questions and objectives formulated for [**research topic**]. |
+
 ## 8. Discussion
+
+| **No.** | **Task** |
+|---------|-------------------------------------------|
+| 1       | Evaluate the significance of the study’s findings and their implications for advancing the understanding of [**research topic**]. |
+| 2       | Analyze the contributions of the current study to the existing body of knowledge on [**research topic**] and highlight areas for future research. |
+| 3       | Discuss how the findings of the study align with or challenge existing theories and models in the field of [**research topic**]. |
+| 4       | Reflect on the methodological choices made in the study and assess their strengths and limitations in relation to the research objectives. |
+| 5       | Compare the results of the current study with previous research in the literature, highlighting similarities, differences, and potential reasons for discrepancies. |
+| 6       | Discuss any unexpected or contradictory findings and propose potential explanations or avenues for further investigation. |
+| 7       | Examine the practical implications of the study’s findings and discuss how they can inform decision-making or practice in [**research topic**]. |
+| 8       | Consider the generalizability of the study’s findings to other contexts or populations and discuss the potential impact on broader knowledge in [**research topic**]. |
+| 9       | Discuss the ethical considerations involved in conducting the study and their implications for the interpretation and generalizability of the findings. |
+| 10      | Summarize the key findings of the study, emphasizing their relevance, limitations, and implications for future research and practice in [**research topic**]. |
+
 ## 9. Conclusion
+
+| **No.** | **Task** |
+|---------|-------------------------------------------|
+| 1       | Synthesize the findings from different research sources to draw meaningful conclusions about [**research topic**]. |
+| 2       | Reflect on the significance of the study’s findings in addressing the research gap identified in the literature. |
+| 3       | Discuss the potential impact of the study’s findings on practical solutions or interventions in [**research topic**]. |
+| 4       | Address any limitations or constraints encountered during the study and their implications for the research outcomes. |
+| 5       | Highlight the implications of the study’s findings for future research directions and potential areas of exploration. |
+| 6       | Reflect on the methodology employed in the study and its strengths in generating reliable and valid results. |
+| 7       | Discuss the relevance of the study’s findings in the context of current theories or frameworks in [**research topic**]. |
+| 8       | Summarize the key arguments and findings of the study, highlighting their coherence and supporting evidence. |
+| 9       | Discuss any unexpected findings that emerged during the research process and their implications for understanding [**research topic**]. |
+| 10      | Reflect on the practical implications of the study’s findings for professionals or practitioners in [**research topic**]. |
+| 11      | Highlight the originality or unique contribution of the study’s findings to the existing body of knowledge in [**research topic**]. |
+| 12      | Discuss the broader implications of the study’s findings for relevant stakeholders or communities in [**research topic**]. |
+| 13      | Consider the broader societal impact of the study’s findings and their potential influence on policy-making or public awareness. |
+| 14      | Summarize the key recommendations derived from the study’s findings and their applicability in real-world contexts. |
+| 15      | Reflect on the significance of the research questions or hypotheses and their alignment with the study’s findings. |
+| 16      | Discuss any challenges or limitations encountered during the research process and their potential impact on the study’s outcomes. |
+| 17      | Highlight the practical value of the study’s findings for professionals or organizations in [**research topic**]. |
+| 18      | Reflect on the research process, including data collection, analysis, and interpretation, and the resulting insights. |
+| 19      | Discuss the implications of the study’s findings for academic debates and knowledge advancement in [**research topic**]. |
+| 20      | Conclude by reiterating the main findings and emphasizing their relevance and contributions to the field of [**research topic**]. |
+
 ## 10. Summary
 
 | **No.** | **Prompt** |
