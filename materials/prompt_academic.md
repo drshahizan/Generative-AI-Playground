@@ -10,7 +10,7 @@
 ## 1. Academic Research writing
 
 | **No.** | **Prompt** |
-|---------|-------------------------------------------|
+|---------:|-------------------------------------------|
 | 1.       | Explore the current state of research on **[your research topic]**: Conduct a comprehensive literature review on **[your research topic]** to explore the current state of research, identify existing gaps, and gain insights into the key theories, methodologies, and findings. |
 | 2.      | Analyze the impact of **[specific factor]** on **[research topic]**: Investigate and analyze the impact of **[specific factor]** on **[your research topic]**. Explore relevant studies, data, and theories to understand how this factor influences the subject matter and contribute to existing knowledge. |
 | 3.       | Investigate the relationship between **[variable 1]** and **[variable 2]** in the context of **[research topic]**: Conduct empirical research to investigate the relationship between **[variable 1]** and **[variable 2]** within the context of **[your research topic]**. Collect and analyze relevant data to identify correlations, patterns, and potential causal relationships. |
@@ -20,7 +20,7 @@
 ## 2. Academic Title
 
 | **No.** | **Prompt** |
-|---------|-------------------------------------------|
+|---------:|-------------------------------------------|
 | 1       | Develop five potential titles for an academic paper based on the following abstract: "Suggest five titles for the following abstract: [**insert abstract paragraph**]. Consider capturing the main focus, key concepts, and research findings in the titles." |
 | 2       | Create five compelling titles for a research article based on the provided abstract: "Generate five titles that effectively summarize the content and significance of the research article described in the following abstract: [**insert abstract paragraph**]. Aim for titles that capture the essence of the study and pique the reader’s interest." |
 | 3       | Propose five concise and informative titles for an academic paper based on the abstract provided: "Based on the abstract paragraph provided, propose five titles that concisely convey the core topic, research question, and major findings of the academic paper. Strive for titles that are clear, precise, and engaging." |
@@ -29,7 +29,7 @@
 
 ## 3. Outline
 | **No.** | **Prompt** |
-|---------|-------------------------------------------|
+|---------:|-------------------------------------------|
 | 1       | Generate an outline for an academic paper based on the provided topic sentence: "Develop a detailed outline for an academic paper centered around the topic sentence: [**insert topic sentence**]. Outline the main sections, subtopics, and key points to be covered in the paper." |
 | 2       | Create a comprehensive outline for a research article on the given topic: "Generate an outline for a research article focusing on [**insert topic sentence**]. Structure the outline to include sections such as introduction, literature review, methodology, findings, discussion, and conclusion." |
 | 3       | Outline a scholarly work on the provided topic sentence, including key sections and subheadings: "Provide an outline for a scholarly work centered on the topic sentence: [**insert topic sentence**]. Outline the major sections, subheadings, and supporting points that should be included in the work." |
@@ -39,7 +39,7 @@
 ## 4. Introduction
 
 | **No.** | **Prompt** |
-|---------|-------------------------------------------|
+|---------:|-------------------------------------------|
 | 1       | Craft an engaging introduction for an academic paper centered around the provided research topic: "Develop an introduction that captures the readers’ attention and provides a concise overview of the research topic: [**insert topic sentence**]. Introduce the significance, research question, and objectives of the study." |
 | 2       | Write an introductory paragraph for a scholarly work exploring the given topic: "Compose an introductory paragraph that effectively introduces the readers to the topic at hand: [**insert topic sentence**]. Provide background information, context, and the rationale for the research." |
 | 3       | Develop an introduction for an academic article focusing on the provided topic sentence: "Create an introduction that sets the stage for an academic article centered around [**insert topic sentence**]. Clearly state the research problem, highlight its importance, and outline the structure of the article." |
@@ -53,7 +53,7 @@
 
 ## 5. Literature Review
 | **No.** | **Task** |
-|---------|-------------------------------------------|
+|---------:|-------------------------------------------|
 | 1       | Conduct a literature review on the topic of [**TOPIC SENTENCE**], summarizing the key findings and insights from relevant research studies. |
 | 2       | Analyze and synthesize the existing literature on [**TOPIC SENTENCE**], identifying the major theories, concepts, and methodologies used in previous research. |
 | 3       | Review a selection of scholarly articles on [**TOPIC SENTENCE**], critically evaluating their methodologies, strengths, and limitations. |
@@ -78,7 +78,7 @@
 ## 6. Methodology
 
 | **No.** | **Task** |
-|---------|-------------------------------------------|
+|---------:|-------------------------------------------|
 | 1       | Design a research methodology for investigating the relationship between [**variables**] in the context of [**research topic**]. |
 | 2       | Develop clear research objectives and outline a comprehensive methodology to address those objectives for [**research topic**]. |
 | 3       | Write a detailed methodology section for conducting a qualitative study on [**research topic**]. |
@@ -103,7 +103,7 @@
 ## 7. Academic Writing Results
 
 | **No.** | **Task** |
-|---------|-------------------------------------------|
+|---------:|-------------------------------------------|
 | 1       | Present and interpret the quantitative data collected in the study to provide a comprehensive analysis of the findings related to [**research topic**]. |
 | 2       | Describe the key patterns and trends observed in the qualitative data gathered during the research on [**research topic**]. |
 | 3       | Analyze the statistical significance of the results obtained from the conducted experiments on [**research topic**]. |
@@ -128,7 +128,7 @@
 ## 8. Discussion
 
 | **No.** | **Task** |
-|---------|-------------------------------------------|
+|---------:|-------------------------------------------|
 | 1       | Evaluate the significance of the study’s findings and their implications for advancing the understanding of [**research topic**]. |
 | 2       | Analyze the contributions of the current study to the existing body of knowledge on [**research topic**] and highlight areas for future research. |
 | 3       | Discuss how the findings of the study align with or challenge existing theories and models in the field of [**research topic**]. |
@@ -143,7 +143,7 @@
 ## 9. Conclusion
 
 | **No.** | **Task** |
-|---------|-------------------------------------------|
+|---------:|-------------------------------------------|
 | 1       | Synthesize the findings from different research sources to draw meaningful conclusions about [**research topic**]. |
 | 2       | Reflect on the significance of the study’s findings in addressing the research gap identified in the literature. |
 | 3       | Discuss the potential impact of the study’s findings on practical solutions or interventions in [**research topic**]. |
@@ -168,7 +168,7 @@
 ## 10. Summary
 
 | **No.** | **Prompt** |
-|---------|-------------------------------------------|
+|---------:|-------------------------------------------|
 | 1       | Summarize the content provided in the following paragraphs. |
 | 2       | Provide a concise summary of the key points discussed in the text. |
 | 3       | Condense the main ideas and arguments presented in the given material. |
@@ -193,7 +193,7 @@
 ## 11. Academic writing Future Work
 
 | **No.** | **Prompt** |
-|---------|-------------------------------------------|
+|---------:|-------------------------------------------|
 | 1       | Provide recommendations for further research areas that can build upon the findings of the current study. |
 | 2       | Suggest potential avenues for future investigation and exploration related to the topic discussed. |
 | 3       | Identify three directions for future research that can contribute to expanding the knowledge in this field. |
@@ -208,7 +208,7 @@
 ## 12. References
 
 | **No.** | **Prompt** |
-|---------|-------------------------------------------|
+|---------:|-------------------------------------------|
 | 1       | Create a reference list following the APA style for the sources cited in your research paper on **[research topic]**. |
 | 2       | Compile a bibliography using the MLA format for the scholarly articles consulted in your study on **[research topic]**. |
 | 3       | Format the reference list in accordance with the Chicago Manual of Style for the sources referenced in your dissertation. |
