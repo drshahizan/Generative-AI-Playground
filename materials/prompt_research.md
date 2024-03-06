@@ -64,11 +64,97 @@ inception to publication. Include information on [topic selection], [problem def
 | 10 | Mapping Research Trajectories in **[Chosen Field]** | Create a visual map illustrating the trajectory of research in **[chosen field]**, highlighting seminal studies, breakthroughs, and areas of ongoing investigation. Discuss the implications of these trajectories for the direction of future research. |
 
 ### 3. Formulating Hypotheses or Research Questions
+
+| No. | Prompt | Description |
+|-----|--------|-------------|
+| 1 | Crafting Testable Hypotheses for **[Research Problem]** | Generate specific hypotheses that aim to address the **[research problem]** identified earlier. Ensure these hypotheses are measurable, clear, and capable of being tested empirically. |
+| 2 | Developing Research Questions for **[Chosen Research Area]** | Formulate research questions that explore **[specific aspect]** within **[chosen research area]**. These questions should guide the investigation and provide a clear focus for the study. |
+| 3 | Hypothesizing Effects of **[Variable A]** on **[Variable B]** | Propose hypotheses that predict the effects of **[variable A]** on **[variable B]** within the context of **[research problem]**. Consider the potential causal relationship and any mediating or moderating factors. |
+| 4 | Exploring Relationships between **[Factors]** and **[Outcome]** | Craft hypotheses that examine the relationships between **[factors]** and their influence on **[outcome]**. Specify the direction of these relationships and provide rationale based on existing literature. |
+| 5 | Investigating **[Theory]** as a Framework for **[Research Area]** Hypotheses | Develop hypotheses grounded in **[theory]** to explain **[research problem]** within **[research area]**. Describe how the theory informs your hypotheses and shapes your approach. |
+| 6 | Hypothesizing Different Scenarios for **[Research Problem]** | Propose a set of hypotheses that explore various scenarios or potential outcomes for **[research problem]**. Consider different factors and their interactions to create a comprehensive set of hypotheses. |
+| 7 | Formulating Null and Alternative Hypotheses for **[Experimental Design]** | Craft null and alternative hypotheses for **[experimental design]** aimed at testing the impact of **[variable]** on **[outcome]**. Ensure these hypotheses are specific, testable, and align with the research objectives. |
+| 8 | Developing Hypotheses Based on Comparative Analysis | Generate hypotheses by comparing **[different cases/contexts]** within **[research area]**. Analyze similarities and differences to derive meaningful hypotheses that contribute to understanding **[research problem]**. |
+| 9 | Hypothesizing Long-term Effects of **[Intervention]** on **[Outcome]** | Formulate hypotheses that predict the long-term effects of **[intervention]** on **[outcome]**. Consider potential time frames, variables, and mechanisms through which the intervention may influence the outcome. |
+| 10 | Generating Exploratory Research Questions for **[Emerging Trend/Technology]** | Develop exploratory research questions that probe the potential impact and implications of **[emerging trend/technology]** on **[research area]**. Focus on open-ended questions that stimulate in-depth investigation. |
+
 ### 4. Designing the Study
+
+| No. | Prompt | Description |
+|-----|--------|-------------|
+| 1 | Designing a **[Quantitative/Qualitative/Mixed-Methods]** Study for **[Research Problem]** | Outline a comprehensive study design for investigating **[research problem]**. Specify the methodology (quantitative, qualitative, or mixed), data collection methods, sample size, and any relevant tools or instruments. |
+| 2 | Choosing the Optimal Data Collection Methods for **[Research Area]** | Recommend suitable data collection methods (surveys, interviews, observations, etc.) for gathering information about **[research area]**. Justify your choices based on the nature of the research problem and the desired outcomes. |
+| 3 | Defining the Target Population and Sampling Strategy | Describe the target population for your study and propose a sampling strategy that ensures representation and validity. Discuss the rationale for your choice of sampling technique (random, stratified, convenience, etc.). |
+| 4 | Addressing Potential Bias and Ensuring Validity | Detail steps to mitigate potential bias (selection, measurement, response) and enhance the internal and external validity of your study. Provide strategies to improve reliability and generalizability. |
+| 5 | Developing an Experimental Design for **[Hypothesis]** Testing | Design an experiment to test the hypotheses formulated for **[research problem]**. Specify the independent and dependent variables, control conditions, randomization procedures, and potential confounding variables to consider. |
+| 6 | Creating a Survey Instrument for **[Research Question]** Investigation | Construct a detailed survey instrument to gather data on **[research question]**. Outline the structure, types of questions, response options, and any scales or indices you intend to use. |
+| 7 | Crafting Interview Protocols for **[Participant Group]** | Develop interview protocols for conducting in-depth interviews with **[participant group]**. Include a mix of open-ended and focused questions that explore **[research problem]** from various angles. |
+| 8 | Designing Observational Procedures for **[Phenomenon]** Study | Outline the observational procedures for studying **[phenomenon]** in its natural context. Specify observer roles, data recording methods, and potential challenges in maintaining objectivity. |
+| 9 | Planning a Longitudinal Study to Explore **[Research Area]** Changes | Propose a comprehensive plan for a longitudinal study that tracks changes in **[research area]** over time. Detail the data collection points, methods for participant retention, and analysis techniques. |
+| 10 | Integrating Ethical Considerations into the Study Design | Describe how ethical considerations will be incorporated into your study design. Address issues such as informed consent, confidentiality, potential risks to participants, and steps to ensure ethical compliance. |
+
 ### 5. Data Collection
+
+| No. | Prompt | Description |
+|-----|--------|-------------|
+| 1 | Conducting **[Survey/Questionnaire]** for **[Research Problem]** Investigation | Detail the steps involved in administering a **[survey/questionnaire]** to collect data on **[research problem]**. Outline the process of participant recruitment, survey distribution, data collection, and potential methods to enhance response rates. |
+| 2 | Interviewing **[Participant Group]** for In-depth **[Research Area]** Insights | Describe the interview process for collecting in-depth insights from **[participant group]** regarding **[research area]**. Specify the recruitment strategy, interview format, data recording methods, and potential techniques for maintaining rapport. |
+| 3 | Utilizing **[Observation Method]** to Study **[Phenomenon]** | Explain how **[observation method]** will be employed to study **[phenomenon]**. Outline the observation setting, observer roles, data recording procedures, and strategies for minimizing observer bias. |
+| 4 | Gathering **[Quantitative/Qualitative/Mixed-Methods]** Data for **[Hypothesis]** Testing | Detail the data collection process to test the hypotheses related to **[research problem]**. Specify the variables to be measured, data sources, data collection instruments, and potential challenges in data gathering. |
+| 5 | Administering **[Experiment/Intervention]** to Investigate **[Research Area]** | Describe how the **[experiment/intervention]** will be conducted to explore **[research area]**. Outline the procedures for participant randomization, treatment implementation, data collection during and after the experiment, and control measures. |
+| 6 | Collecting **[Historical/Archival/Data Set]** Data for **[Research Problem]** Analysis | Explain the process of gathering **[historical/archival/data set]** data to analyze **[research problem]**. Detail the data sources, data extraction methods, data cleaning procedures, and considerations for ensuring data accuracy. |
+| 7 | Employing **[Case Study/Site Visits]** to Examine **[Specific Context]** | Outline how **[case study/site visits]** will be used to investigate **[specific context]** within **[research problem]**. Specify the case selection criteria, data collection techniques, and potential challenges in accessing the study sites. |
+| 8 | Longitudinal Data Collection to Study **[Trend/Change]** Over Time | Detail the plan for collecting longitudinal data to examine **[trend/change]** over time in relation to **[research problem]**. Describe the data collection points, retention strategies, and potential methods to address attrition. |
+| 9 | Ethical Considerations in Data Collection Process | Explain how ethical considerations will be integrated into the data collection process. Address issues such as informed consent, participant privacy, data security, and any potential risks associated with the data collection methods. |
+| 10 | Triangulating Data Collection Methods for Comprehensive Insights | Discuss the use of multiple data collection methods (e.g., surveys, interviews, observations) to ensure comprehensive insights into **[research problem]**. Detail how the data from different sources will be integrated and analyzed. |
+
 ### 6. Data Analysis
+
+| No. | Prompt | Description |
+|-----|--------|-------------|
+| 1 | Analyzing **[Quantitative/Qualitative/Mixed-Methods]** Data for **[Hypothesis]** Testing | Describe the data analysis process for testing the hypotheses related to **[research problem]**. Specify the statistical tests or analytical techniques to be used, the criteria for significance, and how the results will be interpreted. |
+| 2 | Conducting Thematic Analysis on **[Qualitative Data]** | Explain how thematic analysis will be applied to the **[qualitative data]** collected from **[participant group]**. Describe the process of coding, identifying themes, and analyzing the narratives to uncover patterns and insights. |
+| 3 | Utilizing **[Statistical Software]** for **[Data Type]** Analysis | Detail how **[statistical software]** will be employed to analyze **[data type]** collected in your study. Specify the software functions, the types of analyses (descriptive, inferential, etc.), and how the results will be visualized. |
+| 4 | Employing **[Content/Textual Analysis]** to Explore **[Research Area]** | Describe the content analysis approach to explore **[research area]** within your **[data type]**. Outline the steps for coding, categorizing, and interpreting textual data to extract meaningful insights. |
+| 5 | Longitudinal Data Analysis to Examine **[Trend/Change]** Over Time | Explain the approach to analyzing longitudinal data to examine **[trend/change]** over time. Detail how the data will be transformed, the statistical methods for trend analysis, and the interpretation of temporal patterns. |
+| 6 | Comparative Analysis of **[Case Studies/Variables]** for **[Research Problem]** | Discuss the strategy for conducting a comparative analysis of **[case studies/variables]** related to **[research problem]**. Specify the criteria for comparison, the analytical framework, and how the findings will contribute to addressing the research problem. |
+| 7 | Incorporating **[Theoretical Framework]** in Data Analysis | Detail how **[theoretical framework]** will guide the data analysis process. Describe how the framework’s concepts will be operationalized, how the data will be analyzed within its context, and how the framework will inform the interpretation of results. |
+| 8 | Visualizing **[Data Type]** Patterns and Trends | Explain how you will use data visualization techniques to illustrate **[data type]** patterns and trends in your study. Specify the types of visualizations (graphs, charts, diagrams), the software/tools to be used, and their role in conveying insights. |
+| 9 | Identifying **[Quantitative/Qualitative]** Patterns in **[Data Type]** Data | Discuss the approach to identifying **[quantitative/qualitative]** patterns within your **[data type]** data. Describe the process of data reduction, exploration, and how emergent patterns will be analyzed and interpreted. |
+| 10 | Ensuring Rigor and Reliability in Data Analysis | Outline strategies to ensure rigor and reliability in the data analysis process. Describe steps such as inter-coder agreement (if applicable), member checking, or triangulation of data sources to enhance the validity of your findings. |
+
 ### 7. Discussion and Interpretation
+
+| No. | Prompt | Description |
+|-----|--------|-------------|
+| 1 | Interpreting **[Research Results]** within the Context of **[Research Problem]** | Discuss the interpretation of **[research results]** in relation to the **[research problem]**. Analyze how the findings align with the hypotheses and contribute to addressing the overarching research question. |
+| 2 | Exploring **[Theoretical Framework]** Implications for **[Research Area]** | Examine how the **[theoretical framework]** informs the interpretation of the research findings in **[research area]**. Discuss the framework’s concepts and their relevance in explaining the observed patterns or relationships. |
+| 3 | Analyzing Contradictory Findings and Their Significance | Discuss any contradictory or unexpected findings that emerged during the study. Analyze the potential reasons for these discrepancies and their significance for understanding **[research problem]**. |
+| 4 | Identifying Patterns and Trends in **[Data Type]** Data | Examine the patterns and trends identified in the **[data type]** data analysis. Discuss how these patterns align with or deviate from existing literature, and provide insights into their implications for **[research problem]**. |
+| 5 | Connecting Findings to **[Larger Context/Field]** Knowledge | Discuss how the research findings contribute to the broader knowledge in **[larger context/field]**. Analyze the implications of the findings for advancing understanding, addressing gaps, or challenging existing theories. |
+| 6 | Interpreting **[Longitudinal/Trend]** Data Over Time | Analyze the interpretation of **[longitudinal/trend]** data collected over time. Discuss the temporal patterns, shifts, and their significance in understanding **[research problem]** dynamics. |
+| 7 | Comparing **[Case Studies/Variables]** and Extracting Insights | Compare and contrast the **[case studies/variables]** analyzed in the study. Interpret the similarities, differences, and any emergent insights that shed light on **[research problem]** nuances. |
+| 8 | Explaining Practical Implications and Applications | Discuss the practical implications of the research findings for **[relevant stakeholders/industry]**. Analyze how the insights can inform decision-making, policies, or practices in **[research area]**. |
+| 9 | Addressing Research Limitations and Their Impact | Critically evaluate the limitations of the study and their potential impact on the findings. Discuss how these limitations may have influenced the results and offer suggestions for future research to address these challenges. |
+| 10 | Synthesizing Findings and Contributing to Knowledge Advancement | Synthesize the key findings from the study and discuss their collective contribution to advancing knowledge in **[research area]**. Summarize how the insights address the research problem and potential avenues for further exploration. |
+
 ### 8. Conclusion
+
+Here's the table with the prompts you provided:
+
+| No. | Prompt | Description |
+|-----|--------|-------------|
+| 1 | Summarizing Key Findings and Their Implications | Summarize the main **[research findings/hypotheses tested]** and their implications for **[research problem]**. Provide a concise overview of how these findings contribute to addressing the research question and advancing knowledge in **[research area]**. |
+| 2 | Reflecting on Theoretical and Practical Significance | Reflect on the theoretical and practical significance of the research outcomes. Discuss how the findings contribute to enhancing understanding, challenging existing theories, and informing real-world applications in **[research area]**. |
+| 3 | Discussing Insights in Relation to **[Theoretical Framework]** | Discuss how the research insights align with the **[theoretical framework]** used in the study. Analyze how the framework’s concepts provided a lens through which to interpret the findings and how they validate or extend the framework. |
+| 4 | Addressing Research Limitations and Implications | Acknowledge and address the limitations encountered during the study. Reflect on how these limitations may have influenced the results and discuss their implications for the validity and generalizability of the findings. |
+| 5 | Suggesting Future Research Directions | Propose potential avenues for future research building upon the current study. Highlight areas where further investigation is needed to address unresolved questions, explore emerging trends, or refine existing theories. |
+| 6 | Revisiting Research Objectives and Achievements | Revisit the initial research objectives set out at the beginning of the paper. Evaluate how the study successfully achieved these objectives and provided insights into **[research problem]** within **[research area]**. |
+| 7 | Emphasizing Novel Contributions and Innovations | Emphasize the novel contributions and innovative aspects of the research. Discuss how the study fills gaps in the literature, offers new perspectives, or introduces novel methodologies to **[research area]**. |
+| 8 | Practical Recommendations and Applications | Provide practical recommendations based on the research findings. Discuss how these recommendations can guide decision-making, policy formulation, or practices in **[relevant context/industry]** based on the study’s insights. |
+| 9 | Reflecting on Research Journey and Lessons Learned | Reflect on the process of conducting the research and the lessons learned throughout the study. Discuss challenges faced, successful methodologies employed, and insights gained from the research experience. |
+| 10 | Concluding Remarks and Final Message | Offer a concluding message that summarizes the overarching impact of the research. Discuss the broader significance of the findings, how they contribute to the advancement of knowledge, and their potential implications for **[research area]** and beyond. |
+
 ### 9. Writing the Paper
 ### 10. Peer Review and Revisions
 ### 11. Submission and Publication
