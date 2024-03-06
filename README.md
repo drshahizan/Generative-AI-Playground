@@ -40,12 +40,13 @@ At Generative-AI-Playground, users can dive into the world of generative AI to u
 | Taskade | Jasper | Descript | ConvertKit | BingAI | Bing Image |
 | Fireflies AI | Word Tune | Krisp | Rationale | ChatGPT | Microsoft Designer |
 | CoGram | CopyAI | HeyGen | Scale | Youchat | Figma AI |
+
 Here are the links to the AI tools mentioned across various domains:
 
 1. **Productivity**:
-   - [Magical AI](https://magical.ai/): A productivity tool.
-   - [Beautiful AI](https://www.beautiful.ai/): Another productivity tool.
-   - [Taskade](https://www.taskade.com/): Helps with task management and collaboration.
+   - [Beautiful AI](https://www.beautiful.ai/)
+   - [Taskade](https://www.taskade.com/)
+   - [Fireflies AI](https://fireflies.ai/)
 
 2. **Writing**:
    - [Grammarly](https://www.grammarly.com/): An AI-powered writing assistant.
@@ -84,8 +85,13 @@ Here are the links to the AI tools mentioned across various domains:
 
 ### Productivity
 These are tools that help you organize your tasks, manage your time, and collaborate with others. For example, Magical AI is a smart clipboard that lets you copy and paste anything across devices. Taskade is a unified workspace for teams that allows you to create lists, outlines, and mindmaps.
+   1. [Beautiful AI](https://www.beautiful.ai/)
+   2. [Taskade](https://www.taskade.com/)
+   3. [Fireflies AI](https://fireflies.ai/)
+     
 ### Writing
 These are tools that help you improve your writing skills, generate content, and edit your documents. For example, Grammarly is a writing assistant that checks your grammar, spelling, and tone. Jasper is a tool that helps you write faster and better by providing suggestions and templates.
+
 ### Video
 These are tools that help you create, edit, and share videos. For example, Runway ML is a platform that lets you use machine learning to manipulate images and videos³. Descript is a tool that allows you to edit audio and video by editing text.
 ### Marketing
