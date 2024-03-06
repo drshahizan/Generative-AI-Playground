@@ -45,7 +45,7 @@ Bing suggests using a combination of adjectives, nouns, verbs, and styles to cre
 
 Here's a template to help you craft better prompts:
 
-https://www.greataiprompts.com/wp-content/uploads/2023/03/image-45.png
+<p align="center"><img src="https://www.greataiprompts.com/wp-content/uploads/2023/03/image-45.png"  width="500" /></p>
 
 **Adjective** (Fuzzy) + **Noun** (creature) + **Verb**(wearing glasses) + **Style** (digital art)
 
