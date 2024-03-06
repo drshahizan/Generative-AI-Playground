@@ -82,7 +82,6 @@ Here are the links to the AI tools mentioned across various domains:
    - [Figma AI](https://www.figma.com/): Integrates with the Figma design platform.
 
 
-
 ### Productivity
 These are tools that help you organize your tasks, manage your time, and collaborate with others. For example, Magical AI is a smart clipboard that lets you copy and paste anything across devices. Taskade is a unified workspace for teams that allows you to create lists, outlines, and mindmaps.
    1. [Beautiful AI](https://www.beautiful.ai/)
