@@ -50,8 +50,6 @@ inception to publication. Include information on [topic selection], [problem def
 
 ### 2. Literature Review
 
-Here's the table with the prompts you provided:
-
 | No. | Prompt | Description |
 |-----|--------|-------------|
 | 1 | Comprehensive Literature Review in **[Chosen Field]** | Provide a detailed overview of key literature in **[chosen field]** over the past **[specific time frame]**. Summarize major theories, findings, and methodologies, highlighting gaps that warrant further exploration. |
@@ -64,6 +62,9 @@ Here's the table with the prompts you provided:
 | 8 | Meta-Analysis of Methodologies in **[Specific Research Area]** | Conduct a meta-analysis of research methodologies employed in **[specific research area]**. Assess their effectiveness in addressing **[research problem]**, identify best practices, and recommend innovative approaches. |
 | 9 | Identifying Emerging Themes in **[Research Area]** Literature | Identify and analyze emerging themes and trends in recent literature within **[research area]**. Discuss how these themes reflect shifts in research focus and suggest their implications for future studies. |
 | 10 | Mapping Research Trajectories in **[Chosen Field]** | Create a visual map illustrating the trajectory of research in **[chosen field]**, highlighting seminal studies, breakthroughs, and areas of ongoing investigation. Discuss the implications of these trajectories for the direction of future research. |
+
+### 3. Formulating Hypotheses or Research Questions
+### 4. Designing the Study
 
 
 ## Contribution 🛠️
