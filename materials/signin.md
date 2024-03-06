@@ -24,7 +24,7 @@
 - You can ask questions, perform searches, and even compare products using Bing Chat.
 - For BingAI, visit the [official site](https://www.bing.com) and log in with your Microsoft account credentials.
 
-### 4. Installation AIPRM for ChatGPT
+### 4. AIPRM for ChatGPT
 To install AIPRM for ChatGPT, follow these steps based on your browser:
 
 1. **Google Chrome**:
