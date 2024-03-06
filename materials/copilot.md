@@ -5,21 +5,20 @@
 <a href="https://github.com/drshahizan/Generative-AI-Playground/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Generative-AI-Playground?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Generative-AI-Playground&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# ChatGPT Prompts: LinkedIn
-This toolkit provides a comprehensive set of prompts and guidelines to enhance your LinkedIn profile. It covers crafting a compelling headline, summarizing your professional journey effectively, creating impactful experience entries, and engaging with your network. Additionally, it includes prompts for creating engaging content, optimizing your skills section, seeking endorsements, and requesting mentorship. The toolkit aims to help you attract recruiters, make stronger professional connections, and showcase your expertise and unique value on LinkedIn.
+# Chat with Copilot regarding the PDF file
+**Microsoft Copilot** can assist with PDF files, even though it doesn't have a dedicated feature for parsing and analyzing them. Here's how you can use Copilot with PDFs:
 
-| No | Title                                | Prompt |
-|----|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | LinkedIn Headline Prompt             | "Please help me create a LinkedIn headline that effectively communicates my **experience**, **qualifications**, and unique value. Consider incorporating keywords relevant to my industry as mentioned in the resume below and showcasing my **passion** or **mission**. My headline should be a snapshot that captures attention and encourages visitors to explore my profile further." My Resume: [Paste Your Resume] |
-| 2  | LinkedIn Summary Prompt             | "Craft a concise and compelling summary for my LinkedIn profile that highlights my **professional journey**, **key skills**, and what makes me unique. Keep the tone conversational and ensure the length does not exceed 150 words. Please find the attached resume for reference." My Resume: [Paste Your Resume] |
-| 3  | LinkedIn Experience Section Prompt  | "Craft me impactful and detailed entries for my Experience section in LinkedIn that go beyond job descriptions. Share not only what I did but how my contributions made a difference. Utilize **action verbs**, quantify achievements where possible, and provide context to highlight the value I brought to each role. Use my Resume below for the details" My Resume: [Paste Your Resume] |
-| 4  | Networking Icebreaker Prompt        | "Give me content to start a conversation with a new connection on LinkedIn by sharing a recent **industry news** article or asking about their latest professional achievement. Start the dialogue on a positive and engaging note. Keep the tone conversational and limit the words to 100." |
-| 5  | Content Sharing Prompt              | "I would like you to create content for my LinkedIn profile. Craft me a few interesting, informative, and pertinent posts for LinkedIn that are related to [Your Domain/Your Interest]. Mainly emphasis on sharing **industry knowledge**, **personal experiences**, and **thought leadership**. Keep the tone conversational and limit the words to 150 maximum." |
-| 6  | LinkedIn Post Writing Prompts       | "Generate a LinkedIn post where I share my insights on [The Topic]. Keep the content engaging and easy to understand. The post should consist of 200 words maximum. Also include relatable **SEO hashtags**." |
-| 7  | LinkedIn Skills Section Prompt      | "Suggest me few skills I should highlight as an [Your Role] in my LinkedIn Profile. Refer to my resume below and find out the skills I should mention and also tell me the skills I should get endorsed in. My Resume: [Paste Your Resume]" |
-| 8  | Skill Endorsement Prompt            | "Craft me content to politely ask a connection to endorse a specific skill [Your Skill] on my LinkedIn profile, providing a brief context of how I have applied that skill in my professional journey. Also, offer to reciprocate the gesture. Keep the tone formal and limit the words to 100. Pasted below is my experience for reference." |
-| 9  | LinkedIn Message Writing Prompts    | "Craft me a good message to send to a LinkedIn connection request message for someone to make them a potential mentor, expressing my interest in their guidance. Keep the tone formal and limit the words to 100 maximum." |
-| 10 | LinkedIn Profile Optimization Prompt | "I'm looking to optimize my LinkedIn profile to attract more views from recruiters and make stronger professional connections. How can I make the most of my LinkedIn profile to attract recruiters and HR by showcasing my professional brand? Could you offer any advice on how best to organize each component of my profile?" |
+1. **Summarizing PDFs**:
+   - Open the PDF file in the **Microsoft Edge browser**.
+   - In the **Dev tools section**, click the **Microsoft Copilot button** located at the top right corner.
+   - Select the **Chat option**.
+   - In the text field, enter a prompt telling Copilot to **summarize the PDF**¹³.
+
+2. **Manual Interaction**:
+   - You can also **drag and drop** the PDF file into the Copilot chat box (or select the **'Add a file'** option).
+   - Once the file is in place, proceed to make a request to Copilot. For example, you can simply ask it to **summarize** the content, and Copilot will provide a summary².
+
+Copilot's ability to extract information from PDFs relies on its advanced natural language processing capabilities. Feel free to explore and interact with Copilot to enhance your productivity! 🚀📄
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
