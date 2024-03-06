@@ -7,11 +7,11 @@
 
 # ChatGPT Expert Prompts
 
-"**ChatGPT Expert Prompts**" is a feature provided by **OpenAI** that allows users to input a **system message** or **prompt** at the beginning of a conversation with the **ChatGPT** language model. The purpose of this feature is to guide the AI's responses and behavior throughout the conversation. By providing **context**, **instructions**, or specific **cues** in the system message, users can influence the direction of the conversation and obtain more relevant and accurate responses from the AI.
+**ChatGPT Expert Prompts** is a feature provided by **OpenAI** that allows users to input a **system message** or **prompt** at the beginning of a conversation with the **ChatGPT** language model. The purpose of this feature is to guide the AI's responses and behavior throughout the conversation. By providing **context**, **instructions**, or specific **cues** in the system message, users can influence the direction of the conversation and obtain more relevant and accurate responses from the AI.
 
 For instance, in a dialogue scenario, you can start the conversation with a system message like "**You are a medical assistant**. Provide information about **common cold symptoms and prevention**." This would set the tone for the conversation and instruct the AI to generate responses in line with the role of a medical assistant providing information about cold symptoms and prevention.
 
-<figure><img src="https://media.licdn.com/dms/image/D4D12AQHJZ98o0LMuPw/article-cover_image-shrink_720_1280/0/1683306011047?e=2147483647&#x26;v=beta&#x26;t=xg8huzs14mVUxs6sjg0h214sTbbUtdf689C_t0cNOus" alt=""></figure>
+<p align="center"><img src="https://media.licdn.com/dms/image/D4D12AQHJZ98o0LMuPw/article-cover_image-shrink_720_1280/0/1683306011047?e=2147483647&#x26;v=beta&#x26;t=xg8huzs14mVUxs6sjg0h214sTbbUtdf689C_t0cNOus"  width="700" /></p>
 
 Overall, **ChatGPT Expert Prompts** help users have more controlled and productive interactions with the AI by steering the conversation according to their needs and preferences.
 
