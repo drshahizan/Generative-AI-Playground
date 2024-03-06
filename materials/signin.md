@@ -26,9 +26,9 @@ To **install AIPRM for ChatGPT**, follow these steps based on your browser:
 
 **AIPRM** is your cheat code for ChatGPT, providing curated prompt templates and advanced features. It's the ultimate time-saver for tasks like SEO, marketing, and copywriting. Don't miss out on this productivity boost! 🚀.
 
-Source: Conversation with Bing, 06/03/2024
-(1) Install the Chrome Extension · AIPRM. https://www.aiprm.com/tutorials/quick-start-guide/how-to-install-the-aiprm-chrome-extension/.
-(2) AIPRM for ChatGPT - Google Chrome. https://chromewebstore.google.com/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj.
-(3) Install the Edge Add-on · AIPRM. https://www.aiprm.com/tutorials/quick-start-guide/how-to-install-the-aiprm-edge-addon/.
-(4) AIPRM for ChatGPT - Microsoft Edge Addons. https://microsoftedge.microsoft.com/addons/detail/nkiohniccbickhccicgbedaibabialda.
-(5) AIPRM for ChatGPT. https://app.aiprm.com/?trk=public_post-text.
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
