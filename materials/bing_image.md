@@ -41,7 +41,7 @@ To generate amazing images with [Bing's Image Creator](https://www.bing.com/imag
 
 Bing suggests using a combination of adjectives, nouns, verbs, and styles to create more effective prompts.
 
-https://www.greataiprompts.com/wp-content/uploads/2024/01/How-To-Create-Prompt-For-Bing-Image-Creator.jpg
+<p align="center"><img src="https://www.greataiprompts.com/wp-content/uploads/2024/01/How-To-Create-Prompt-For-Bing-Image-Creator.jpg"  width="500" /></p>
 
 Here's a template to help you craft better prompts:
 
