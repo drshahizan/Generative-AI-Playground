@@ -97,13 +97,35 @@ These are tools that help you improve your writing skills, generate content, and
 
 ### Video
 These are tools that help you create, edit, and share videos. For example, Runway ML is a platform that lets you use machine learning to manipulate images and videos³. Descript is a tool that allows you to edit audio and video by editing text.
+   - [Runway ML](https://runwayml.com/): A creative toolkit for video and media.
+   - [Pictory](https://pictory.ai/): A video-related tool.
+   - [Descript](https://www.descript.com/): A professional video editor.
+   - [Krisp](https://krisp.ai/): Enhances audio quality in videos.
 
 ### Marketing
 These are tools that help you grow your audience, reach your customers, and optimize your campaigns. For example, EllieAI is a tool that helps you create personalized email campaigns using artificial intelligence. Scale is a platform that provides high-quality data for machine learning applications.
+   - [EllieAI](https://ellieai.com/): A marketing tool.
+   - [IContact](https://www.icontact.com/): Assists with email marketing.
+   - [ConvertKit](https://convertkit.com/): A marketing automation platform.
+   - [Rationale](https://www.rationale.io/): Helps with marketing strategies.
+   - [Scale](https://scale.com/): A marketing-related tool.
+
 ### Chatbot
 These are tools that help you create and deploy conversational agents. For example, Chatsonic is a tool that lets you build voice and text chatbots without coding. BingAI is a tool that lets you chat with an AI assistant that can answer questions and generate content.
+   - [Chatsonic](https://www.chatsonic.ai/): A chatbot development tool.
+   - [ChatSpot](https://www.chatspot.com/): Another chatbot solution.
+   - [ChatGPT](https://chat.openai.com/): A popular language model for chatbots.
+   - [Youchat](https://www.youchat.ai/): A chatbot platform.
+
+
 ### Design
 These are tools that help you create and edit graphics, logos, and illustrations. For example, DALL-E 3 is a tool that can generate images from text descriptions using deep learning. Microsoft Designer is a tool that helps you create professional-looking presentations and documents.
+   - [DALL-E 3](https://openai.com/research/dall-e-3/): An AI image generator.
+   - [Midjourney](https://midjourney.com/): Assists with image creation.
+   - [BingAI](https://www.bing.com/): Provides AI-powered search results.
+   - [Bing Image](https://www.bing.com/images): Helps find images.
+   - [Microsoft Designer](https://www.microsoft.com/design/): A design-related tool.
+   - [Figma AI](https://www.figma.com/): Integrates with the Figma design platform.
 
 ## Gitbook
 - [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt/)
