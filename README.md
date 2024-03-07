@@ -36,7 +36,7 @@ At Generative-AI-Playground, users can dive into the world of generative AI to u
 ||| [Mudah banget buat video cerita kartun animasi 3D pakai](https://www.youtube.com/watch?v=6IYBxbpKato)|
 ||| [Cara Bikin Konten AI VIRAL dengan Bing Chat + CapCut](https://youtu.be/ed30BLkVpis?si=Z6XmTWxVO1PC_kyv)|
 ||| [Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
-||| (10 Best AI Presentation Generators)[https://www.unite.ai/best-ai-presentation-generators/]|
+||| [10 Best AI Presentation Generators](https://www.unite.ai/best-ai-presentation-generators/)|
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
