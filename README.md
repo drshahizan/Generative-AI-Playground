@@ -31,11 +31,11 @@ At Generative-AI-Playground, users can dive into the world of generative AI to u
 | 5. | AI Tools| [AI Tools for Literature Review](https://drshahizan.gitbook.io/ai-tools/) |
 |  | | [Useful AI Tools](./images/aitools.md) |
 |||[AI Tools for Various Tasks](./materials/aitools1.md)|
-| 6. | AI Apps| [Future of Work](./images/Future%20of%20Work%20.pdf) |
+| 6. | AI | [Future of Work](./images/Future%20of%20Work%20.pdf) |
 |||[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
-|||[Artificial Intelligence | 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
+|||[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
 ||| [Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
-|  | | [Roam Around](https://www.roamaround.io/) |
+| 7. | AI Apps| [Roam Around](https://www.roamaround.io/) |
 |  | | [10 Website AI Terbaik Buat Kamu Gunakan di 2024](https://www.facebook.com/reel/671923085023778) |
 ||| [Mudah banget buat video cerita kartun animasi 3D pakai](https://www.youtube.com/watch?v=6IYBxbpKato)|
 ||| [Cara Bikin Konten AI VIRAL dengan Bing Chat + CapCut](https://youtu.be/ed30BLkVpis?si=Z6XmTWxVO1PC_kyv)|
