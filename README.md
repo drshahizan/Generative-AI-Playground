@@ -29,9 +29,10 @@ At Generative-AI-Playground, users can dive into the world of generative AI to u
 |  |  | [Malaysian Cultural Artistry](./materials/drawing.md) |
 |  |  | [Image Prompt Generator](https://aivyx.com/bing-create-prompt-generator/) |
 | 5. | AI Tools| [AI Tools for Literature Review](https://drshahizan.gitbook.io/ai-tools/) |
-|  | | [Useful AI Tools](./materials/aitools.md) |
+|  | | [Useful AI Tools](./images/aitools.md) |
 |||[AI Tools for Various Tasks](./materials/aitools1.md)|
-| 6. | AI Apps| [Roam Around](https://www.roamaround.io/) |
+| 6. | AI Apps| [Future of Work](./images/Future%20of%20Work%20.pdf) |
+| 6. | | [Roam Around](https://www.roamaround.io/) |
 |  | | [10 Website AI Terbaik Buat Kamu Gunakan di 2024](https://www.facebook.com/reel/671923085023778) |
 ||| [Mudah banget buat video cerita kartun animasi 3D pakai](https://www.youtube.com/watch?v=6IYBxbpKato)|
 ||| [Cara Bikin Konten AI VIRAL dengan Bing Chat + CapCut](https://youtu.be/ed30BLkVpis?si=Z6XmTWxVO1PC_kyv)|
