@@ -12,6 +12,9 @@ Generative-AI-Playground is an innovative platform dedicated to exploring and ex
 
 At Generative-AI-Playground, users can dive into the world of generative AI to unleash their creativity. Whether you're interested in generating art, crafting text, or simply exploring the possibilities of these powerful models, the platform offers a welcoming space to learn and experiment. With its user-friendly interface and comprehensive resources, Generative-AI-Playground is a valuable tool for anyone looking to explore the exciting field of generative AI.
 
+<img src="https://media.licdn.com/dms/image/D5622AQE3WTYaAYZnCg/feedshare-shrink_800/0/1710322113180?e=1713398400&v=beta&t=r5wNlu4I6qmw6jFc3tT1OuKdmy3NhUpNR5xJQoSCaHU" style="width:240px;"  align="left">
+
+
 ## Materials
 | No | Lesson | Topic |
 |--------|---------|---------|
