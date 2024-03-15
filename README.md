@@ -31,9 +31,6 @@ Generative AI may seem simple to use, but behind the scenes, it's quite complex.
 
 🌐 **Technical Backbone**: AI needs powerful hardware and cloud services to run smoothly.
 
-Underneath the easy-to-use surface, a complex system of technology and infrastructure is at work. Each part is crucial for delivering the seamless experiences we enjoy.
-
-This careful arrangement ensures that generative AI keeps changing how we use technology.
 
 
 ## Materials
