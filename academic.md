@@ -18,7 +18,7 @@ This comprehensive course provides an in-depth exploration of how AI tools can r
 ## Course Outline
 
 | Day | Focus Area | Details |
-| --- | ---------- | ------- |
+| :---: | ---------- | ------- |
 | **Day 1** | 1. Understanding AI in Academic Contexts | Introduction to AI and its impact on academic research. Overview of generative AI and its capabilities. |
 |  | 2. Hands-on with AI Prompts | Crafting effective prompts for generative AI. Interactive session: Creating prompts for different academic purposes. |
 |  | 3. AI Copywriting for Academia | Principles of AI copywriting in academic research. Case studies: Analyzing AI-generated academic content. |
