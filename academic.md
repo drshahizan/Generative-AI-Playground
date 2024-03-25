@@ -9,8 +9,8 @@
 
 | Day | Session | Focus Area | Details |
 | --- | ------- | ---------- | ------- |
-| **Day 1** | Morning | 1. Understanding AI in Academic Contexts <br> 2. Hands-on with AI Prompts| Introduction to AI and its impact on academic research. Overview of generative AI and its capabilities. |
-|  |  | Hands-on with AI Prompts | Crafting effective prompts for generative AI. Interactive session: Creating prompts for different academic purposes. |
+| **Day 1** | Morning | 1. Understanding AI in Academic Contexts  |
+|  |  | 2. Hands-on with AI Prompts | Crafting effective prompts for generative AI. Interactive session: Creating prompts for different academic purposes. |
 | **Day 2** | Morning | AI Copywriting for Academia | Principles of AI copywriting in academic research. Case studies: Analyzing AI-generated academic content. |
 |  |  | AI as an Image Creator | Exploring AI's ability to create academic visuals. Workshop: Designing figures and diagrams with AI assistance. |
 | **Day 3** | Morning | Streamlining Literature Search with AI | Utilizing AI for efficient literature search strategies. Practical exercises: AI-powered databases and search tools. |
