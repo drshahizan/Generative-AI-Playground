@@ -7,7 +7,6 @@
 
 # Academic writing using AI Tools
 
-Certainly! Here's the updated schedule with the "Session" column removed:
 
 | Day | Focus Area | Details |
 | --- | ---------- | ------- |
@@ -22,7 +21,7 @@ Certainly! Here's the updated schedule with the "Session" column removed:
 |  | 2. Refining Your Draft | Editing and refining strategies using AI. Collaborative session: Peer review with AI insights. |
 |  | 3. Finalizing and Publishing | Preparing your manuscript for submission. Utilizing AI for referencing and citation management. Workshop conclusion: Sharing drafted articles and feedback. |
 
-If you need further modifications or assistance, feel free to ask!
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
 
