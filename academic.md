@@ -7,19 +7,22 @@
 
 # Academic writing using AI Tools
 
-| Day | Session | Focus Area | Details |
-| --- | ------- | ---------- | ------- |
-| **Day 1** | Morning | 1. Understanding AI in Academic Contexts  | Introduction to AI and its impact on academic research. Overview of generative AI and its capabilities. |
-|  |  | 2. Hands-on with AI Prompts | Crafting effective prompts for generative AI. Interactive session: Creating prompts for different academic purposes. |
-|  |  |3.  AI Copywriting for Academia | Principles of AI copywriting in academic research. Case studies: Analyzing AI-generated academic content. |
-|  |  | 4. AI as an Image Creator | Exploring AI's ability to create academic visuals. Workshop: Designing figures and diagrams with AI assistance. |
-| **Day 2** | Morning | Streamlining Literature Search with AI | Utilizing AI for efficient literature search strategies. Practical exercises: AI-powered databases and search tools. |
-|  | Afternoon | Discovering and Visualizing Papers with AI | AI for paper discovery: Finding relevant research quickly. Visualizing research trends and data with AI tools. |
-| | Morning | Structuring Your Article with AI | Understanding the components of a research article. Using AI to outline and structure your draft. |
-| **Day 3**  | Afternoon | AI-Assisted Writing | Techniques for writing abstracts, introductions, and conclusions with AI. Hands-on practice: Starting your article with AI-generated content. |
-|  | Morning | Refining Your Draft | Editing and refining strategies using AI. Collaborative session: Peer review with AI insights. |
-|  | Afternoon | Finalizing and Publishing | Preparing your manuscript for submission. Utilizing AI for referencing and citation management. Workshop conclusion: Sharing drafted articles and feedback. |
+Certainly! Here's the updated schedule with the "Session" column removed:
 
+| Day | Focus Area | Details |
+| --- | ---------- | ------- |
+| **Day 1** | 1. Understanding AI in Academic Contexts | Introduction to AI and its impact on academic research. Overview of generative AI and its capabilities. |
+|  | 2. Hands-on with AI Prompts | Crafting effective prompts for generative AI. Interactive session: Creating prompts for different academic purposes. |
+|  | 3. AI Copywriting for Academia | Principles of AI copywriting in academic research. Case studies: Analyzing AI-generated academic content. |
+|  | 4. AI as an Image Creator | Exploring AI's ability to create academic visuals. Workshop: Designing figures and diagrams with AI assistance. |
+| **Day 2** | 1. Streamlining Literature Search with AI | Utilizing AI for efficient literature search strategies. Practical exercises: AI-powered databases and search tools. |
+|  | 2. Discovering and Visualizing Papers with AI | AI for paper discovery: Finding relevant research quickly. Visualizing research trends and data with AI tools. |
+|  | 3. Structuring Your Article with AI | Understanding the components of a research article. Using AI to outline and structure your draft. |
+| **Day 3** | 1. AI-Assisted Writing | Techniques for writing abstracts, introductions, and conclusions with AI. Hands-on practice: Starting your article with AI-generated content. |
+|  | 2. Refining Your Draft | Editing and refining strategies using AI. Collaborative session: Peer review with AI insights. |
+|  | 3. Finalizing and Publishing | Preparing your manuscript for submission. Utilizing AI for referencing and citation management. Workshop conclusion: Sharing drafted articles and feedback. |
+
+If you need further modifications or assistance, feel free to ask!
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
 
