@@ -15,14 +15,6 @@ This comprehensive course provides an in-depth exploration of how AI tools can r
 - Enhance research productivity and efficiency through hands-on experience with AI-powered literature search and content creation tools.
 - Develop skills for preparing and refining academic manuscripts using AI, from initial drafting to final publication.
 
-## Intended Audience
-This course is ideal for:
-- Academic researchers and scholars seeking to integrate AI into their writing process.
-- Graduate students and postdoctoral fellows looking to enhance their research productivity.
-- University faculty interested in incorporating AI tools into their curriculum.
-- Professionals in research-intensive roles aiming to stay ahead of the curve with AI technology.
-
-
 ## Course Outline
 
 | Day | Focus Area | Details |
@@ -38,6 +30,12 @@ This course is ideal for:
 |  | 2. Refining Your Draft | Editing and refining strategies using AI. Collaborative session: Peer review with AI insights. |
 |  | 3. Finalizing and Publishing | Preparing your manuscript for submission. Utilizing AI for referencing and citation management. Workshop conclusion: Sharing drafted articles and feedback. |
 
+## Intended Audience
+This course is ideal for:
+- Academic researchers and scholars seeking to integrate AI into their writing process.
+- Graduate students and postdoctoral fellows looking to enhance their research productivity.
+- University faculty interested in incorporating AI tools into their academic writing.
+- Professionals in research-intensive roles aiming to stay ahead of the curve with AI technology.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
