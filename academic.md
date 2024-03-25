@@ -5,8 +5,25 @@
 <a href="https://github.com/drshahizan/Generative-AI-Playground/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Generative-AI-Playground?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Generative-AI-Playground&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Academic writing using AI Tools
+# Academic Writing Using AI Tools
 
+## Course Summary
+This comprehensive course provides an in-depth exploration of how AI tools can revolutionize academic writing. Participants will learn to harness AI for research, writing, and publication processes, gaining hands-on experience with AI-powered tools for literature search, content creation, and manuscript preparation.
+
+## Course Objectives
+- Equip participants with the ability to integrate AI tools into the academic research and writing process.
+- Enhance research productivity and efficiency through hands-on experience with AI-powered literature search and content creation tools.
+- Develop skills for preparing and refining academic manuscripts using AI, from initial drafting to final publication.
+
+## Intended Audience
+This course is ideal for:
+- Academic researchers and scholars seeking to integrate AI into their writing process.
+- Graduate students and postdoctoral fellows looking to enhance their research productivity.
+- University faculty interested in incorporating AI tools into their curriculum.
+- Professionals in research-intensive roles aiming to stay ahead of the curve with AI technology.
+
+
+## Course Outline
 
 | Day | Focus Area | Details |
 | --- | ---------- | ------- |
