@@ -18,6 +18,5 @@
 |  | Afternoon | AI-Assisted Writing | Techniques for writing abstracts, introductions, and conclusions with AI. Hands-on practice: Starting your article with AI-generated content. |
 | **Day 5** | Morning | Refining Your Draft | Editing and refining strategies using AI. Collaborative session: Peer review with AI insights. |
 |  | Afternoon | Finalizing and Publishing | Preparing your manuscript for submission. Utilizing AI for referencing and citation management. Workshop conclusion: Sharing drafted articles and feedback. |
-```
 
-This table provides a structured overview of the workshop schedule, making it easy to follow and understand the daily activities and focus areas.
+
