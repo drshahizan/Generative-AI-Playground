@@ -34,11 +34,11 @@ Generative AI may seem simple to use, but behind the scenes, it's quite complex.
 ## Workshop
 
 <p align="center">
-<img src="/images/chatgpt1.jpeg"  height="250" />
+<img src="/images/chatgpt1.jpeg"  height="200" />
 </p>
 
 <p align="center">
-<img src="/images/chatgpt2.jpeg"  height="250" />
+<img src="/images/chatgpt2.jpeg"  height="200" />
 </p>
 
 ## Materials
