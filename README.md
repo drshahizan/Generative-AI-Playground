@@ -32,6 +32,14 @@ Generative AI may seem simple to use, but behind the scenes, it's quite complex.
 🌐 **Technical Backbone**: AI needs powerful hardware and cloud services to run smoothly.
 
 ## Workshop
+<a >
+  <img src="/images/chatgpt1.jpeg" alt="Image Alt Text"  height="200">
+</a>
+
+<a >
+  <img src="/images/chatgpt2.jpeg" alt="Image Alt Text"  height="200">
+</a>
+
 
 <p align="center">
 <img src="/images/chatgpt1.jpeg"  height="180" />
