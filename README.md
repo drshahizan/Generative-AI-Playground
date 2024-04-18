@@ -14,7 +14,7 @@ At Generative-AI-Playground, users can dive into the world of generative AI to u
 
 
 ## Exploring Generative AI Ecosystems
-<img src="https://media.licdn.com/dms/image/D5622AQE3WTYaAYZnCg/feedshare-shrink_800/0/1710322113180?e=1713398400&v=beta&t=r5wNlu4I6qmw6jFc3tT1OuKdmy3NhUpNR5xJQoSCaHU" style="width:240px;"  align="left">
+<img src="https://github.com/drshahizan/SLR-FC/blob/main/images/genai.gif" style="width:240px;"  align="left">
 
 
 Generative AI may seem simple to use, but behind the scenes, it's quite complex. Let's explore what makes these systems work:
