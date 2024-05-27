@@ -6,7 +6,6 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Generative-AI-Playground&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # AI Tools for Various Tasks
-<p align="center"><img src="https://media.licdn.com/dms/image/D4E22AQG4V4AcUpfKhA/feedshare-shrink_800/0/1709337391640?e=1712188800&v=beta&t=I0mv_T6IEXN4aOIJ5QDvck3Lho7OR48JmH4rIQ-LaY4"  width="500" /></p>
 
 ### Productivity
 These are tools that help you organize your tasks, manage your time, and collaborate with others. For example, Magical AI is a smart clipboard that lets you copy and paste anything across devices. Taskade is a unified workspace for teams that allows you to create lists, outlines, and mindmaps.
