@@ -63,6 +63,7 @@ Generative AI may seem simple to use, but behind the scenes, it's quite complex.
 |  | | [Useful AI Tools](./materials/aitools.md) |
 |||[AI Tools for Various Tasks](./materials/aitools1.md)|
 | 6. | AI Show Case | [Future of Work](./images/Future%20of%20Work%20.pdf) |
+|||[How To Create Animated Cartoon Video Using AI & ChatGPT](https://youtu.be/ah-1WRBLF6o?si=AdV0PbbQ9pswCgUa)|
 |||[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
 |||[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
 | 7. | AI Apps| [askLAYLA Trip Planner](https://justasklayla.com/)|
