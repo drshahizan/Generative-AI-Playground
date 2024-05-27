@@ -65,7 +65,7 @@ Generative AI may seem simple to use, but behind the scenes, it's quite complex.
 | 6. | AI Show Case | [Future of Work](./images/Future%20of%20Work%20.pdf) |
 |||[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
 |||[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
-| 7. | AI Apps| [Roam Around](https://www.roamaround.io/) |
+| 7. | AI Apps| [askLAYLA Trip Planner](https://justasklayla.com/)|
 |  | | [10 Website AI Terbaik Buat Kamu Gunakan di 2024](https://www.facebook.com/reel/671923085023778) |
 ||| [Mudah banget buat video cerita kartun animasi 3D pakai](https://www.youtube.com/watch?v=6IYBxbpKato)|
 ||| [10 Best AI Presentation Generators](https://www.unite.ai/best-ai-presentation-generators/)|
