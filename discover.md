@@ -66,7 +66,6 @@ Generative AI may seem simple to use, but behind the scenes, it's quite complex.
 |||[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
 |||[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
 | 7. | AI Apps| [askLAYLA Trip Planner](https://justasklayla.com/)|
-|  | | [10 Website AI Terbaik Buat Kamu Gunakan di 2024](https://www.facebook.com/reel/671923085023778) |
 ||| [Mudah banget buat video cerita kartun animasi 3D pakai](https://www.youtube.com/watch?v=6IYBxbpKato)|
 ||| [10 Best AI Presentation Generators](https://www.unite.ai/best-ai-presentation-generators/)|
 |||[Sora](https://openai.com/sora)|
