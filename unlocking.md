@@ -1,4 +1,4 @@
-Certainly! Here are some compelling topics related to AI-enhanced literature reviews that you can consider for your talk:
+AI-enhanced literature reviews:
 
 1. **Automating Literature Reviews with AI: Efficiency and Accuracy**
    - Discuss how AI tools can streamline the process of literature review by automating tasks such as searching, summarizing, and extracting relevant information.
