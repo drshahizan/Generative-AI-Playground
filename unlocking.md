@@ -20,8 +20,6 @@ AI-enhanced literature reviews:
    - Conduct a practical session where participants can explore and use AI tools for literature review.
    - Demonstrate how to leverage AI to enhance the review process, extract insights, and synthesize comprehensive reports.
 
-Remember to tailor the topic to your audience's level of expertise and interest. Good luck with your talk! 🎙️📚
-
 Source: Conversation with Bing, 30/03/2024
 (1) The best AI tools for research papers and academic research (Literature .... https://academiainsider.com/ai-tools-for-research-papers-and-academic-research/.
 (2) AI Tools for Academics. https://academicinsightlab.org/.
