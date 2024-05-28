@@ -69,7 +69,7 @@ Generative AI may seem simple to use, but behind the scenes, it's quite complex.
 | 7. | AI Apps| [askLAYLA Trip Planner](https://justasklayla.com/)|
 ||| [Mudah banget buat video cerita kartun animasi 3D pakai](https://www.youtube.com/watch?v=6IYBxbpKato)|
 ||| [10 Best AI Presentation Generators](https://www.unite.ai/best-ai-presentation-generators/)|
-|||[Sora](https://openai.com/sora)|
+|||[Sora: Sora is an AI model that can create realistic and imaginative scenes from text instructions.](https://openai.com/sora)|
 |||[Suno: Suno is building a future where anyone can make great music.](https://suno.com/)|
 
 ## Contribution 🛠️
