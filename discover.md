@@ -70,6 +70,7 @@ Generative AI may seem simple to use, but behind the scenes, it's quite complex.
 ||| [Mudah banget buat video cerita kartun animasi 3D pakai](https://www.youtube.com/watch?v=6IYBxbpKato)|
 ||| [10 Best AI Presentation Generators](https://www.unite.ai/best-ai-presentation-generators/)|
 |||[Sora](https://openai.com/sora)|
+|||[Suno](https://suno.com/)|
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
