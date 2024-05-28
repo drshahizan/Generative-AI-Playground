@@ -72,6 +72,7 @@ Generative AI may seem simple to use, but behind the scenes, it's quite complex.
 |||[Sora: Sora is an AI model that can create realistic and imaginative scenes from text instructions.](https://openai.com/sora)|
 |||[Suno: Suno is building a future where anyone can make great music.](https://suno.com/)|
 |||[Markmap: Markmap is a combination of Markdown and mindmap. It parses Markdown content and extracts its intrinsic hierarchical structure and renders an interactive mindmap, aka markmap.](https://github.com/drshahizan/ai-tools/blob/main/materials/markmap.md)|
+|||[TTSMaker: Free Text to Speech](https://ttsmaker.com/)|
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
