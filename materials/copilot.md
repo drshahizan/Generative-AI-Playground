@@ -12,7 +12,7 @@
    - Open the PDF file in the **Microsoft Edge browser**.
    - In the **Dev tools section**, click the **Microsoft Copilot button** located at the top right corner.
    - Select the **Chat option**.
-   - In the text field, enter a prompt telling Copilot to **summarize the PDF**¹³.
+   - In the text field, enter a prompt telling Copilot to **summarize the PDF**.
 
 2. **Manual Interaction**:
    - You can also **drag and drop** the PDF file into the Copilot chat box (or select the **'Add a file'** option).
