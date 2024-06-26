@@ -15,12 +15,12 @@ Seminar ini akan menyoroti penggunaan AI generatif dalam penulisan ilmiah. Dalam
 |--------|---------|---------|
 | 1.| Slaid |[Penulisan Artikel Ilmiah di Bidang Perbankan dengan Penerapan Kecerdasan Buatan](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/Ea4jHzBjWThBoiMKH93K5vQBWWfEFBIARMYtOUZf5sGs7Q?e=C5ZIoB)|
 | 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)|
-| 3. | Pemasangan & Login |[ChatGPT, Copilot, Gemini](../materials/untw/signin.md)|
-| 4. | Latihan | [Latihan 1: Penggunaan Instruksi Generatif AI](../materials/untw/fungsi.md)|
-|  |  | [Latihan 2: Analisis Dokumen Menggunakan Copilot](../materials/untw/dokumen_copilot.md)|
-|  |  | [Latihan 3: MarkMap](../materials/pimpin/markmap.md)|
-|  |  | [Latihan 4: Analisis Gambar Menggunakan ChatGPT](../materials/untw/dokumen_untw.md)|
-|  |  | [Latihan 5: Analisis File CSV Menggunakan ChatGPT](../materials/untw/dokumen_chatgpt.md)|
+| 3. | Pemasangan & Login |[ChatGPT, Copilot, Gemini](../materials/stie/signin.md)|
+| 4. | Latihan | [Latihan 1: Penggunaan Instruksi Generatif AI](../materials/stie/fungsi.md)|
+|  |  | [Latihan 2: Analisis Dokumen Menggunakan Copilot](../materials/stie/dokumen_copilot.md)|
+|  |  | [Latihan 3: MarkMap](../materials/stie/markmap.md)|
+|  |  | [Latihan 4: Analisis Gambar Menggunakan ChatGPT](../materials/stie/dokumen_untw.md)|
+|  |  | [Latihan 5: Analisis File CSV Menggunakan ChatGPT](../materials/stie/dokumen_chatgpt.md)|
 |  |  | [Latihan 6: Seni Budaya Malaysia](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
 |  |  | [Think Machine: Pemetaan Pikiran Multidimensi](https://thinkmachine.com/) |
 | 5. | Arahan | [Kerangka Kerja Rantai Pemikiran (CoT)](../materials/gen_frame/1cot.md)|
