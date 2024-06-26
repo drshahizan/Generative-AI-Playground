@@ -7,7 +7,7 @@
 
 # Penulisan Artikel Ilmiah di Bidang Perbankan dengan Penerapan Kecerdasan Buatan
 
-Seminar bertajuk "Penulisan Artikel Ilmiah di Bidang Perbankan dengan Penerapan Kecerdasan Buatan" akan menyoroti penggunaan AI generatif dalam penulisan ilmiah. Dalam seminar ini, peserta akan mempelajari bagaimana AI generatif dapat dimanfaatkan untuk menyusun artikel ilmiah dengan lebih efisien dan akurat. AI generatif akan membantu dalam berbagai aspek penulisan, seperti pengumpulan dan analisis data, penyusunan kerangka tulisan, serta pembuatan konten berdasarkan tren terkini di bidang perbankan. Selain itu, seminar ini juga akan menunjukkan cara-cara praktis menggunakan AI untuk mengoptimalkan gaya penulisan dan memastikan kualitas serta kredibilitas artikel ilmiah. Dengan demikian, para peneliti dan praktisi perbankan dapat menghasilkan karya ilmiah yang lebih bermutu dan relevan dengan perkembangan teknologi terkini.
+Seminar ini akan menyoroti penggunaan AI generatif dalam penulisan ilmiah. Dalam seminar ini, peserta akan mempelajari bagaimana AI generatif dapat dimanfaatkan untuk menyusun artikel ilmiah dengan lebih efisien dan akurat. AI generatif akan membantu dalam berbagai aspek penulisan, seperti pengumpulan dan analisis data, penyusunan kerangka tulisan, serta pembuatan konten berdasarkan tren terkini di bidang perbankan. Selain itu, seminar ini juga akan menunjukkan cara-cara praktis menggunakan AI untuk mengoptimalkan gaya penulisan dan memastikan kualitas serta kredibilitas artikel ilmiah. Dengan demikian, para peneliti dan praktisi perbankan dapat menghasilkan karya ilmiah yang lebih bermutu dan relevan dengan perkembangan teknologi terkini.
 
 
 ## Exploring Generative AI Ecosystems
