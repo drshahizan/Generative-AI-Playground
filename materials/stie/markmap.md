@@ -19,60 +19,78 @@ patterns, or insights for every major branch. Make sure the linkages and hierarc
 visualised in the mind map.
   ```
 
-### **Example:** Amanat Naib Canselor
+### Penulisan Artikel Ilmiah di Bidang Perbankan
 
   ```
-# Amanat Naib Canselor
-## Primary Concept
-- **Strategic Goals**
-  - Enhancing academic excellence
-  - Promoting research and innovation
-  - Fostering community engagement
+## 1. Pendahuluan
+   - Latar Belakang
+   - Tujuan Penelitian
+   - Pertanyaan Penelitian
+   - Hipotesis
 
-## Major Branches
-### Academic Excellence
-- **Curriculum Enhancement**
-  - Integration of new learning methodologies
-  - Focus on interdisciplinary studies
-- **Faculty Development**
-  - Continuous professional development programs
-  - Recruitment of distinguished scholars
+## 2. Tinjauan Pustaka
+   - Teori Dasar Perbankan
+     - Teori Ekonomi Makro
+     - Teori Manajemen Risiko
+     - Teori Keuangan
+   - Studi Empiris Terdahulu
+     - Penelitian di Negara Berkembang
+     - Penelitian di Negara Maju
+   - Kebijakan Perbankan
+     - Regulasi Nasional
+     - Regulasi Internasional
 
-### Research and Innovation
-- **Research Funding**
-  - Increase in grants and scholarships
-  - Partnerships with industry for applied research
-- **Innovation Ecosystem**
-  - Support for technology transfer
-  - Establishment of innovation hubs
+## 3. Metodologi Penelitian
+   - Desain Penelitian
+     - Pendekatan Kuantitatif
+     - Pendekatan Kualitatif
+   - Sumber Data
+     - Data Primer
+     - Data Sekunder
+   - Teknik Pengumpulan Data
+     - Wawancara
+     - Kuesioner
+     - Observasi
+   - Teknik Analisis Data
+     - Analisis Statistik
+     - Analisis Deskriptif
+     - Analisis Komparatif
 
-### Community Engagement
-- **Service Learning**
-  - Programs connecting students with community service
-  - Partnerships with local organizations
-- **Public Outreach**
-  - Hosting public lectures and forums
-  - Engaging with media to disseminate knowledge
+## 4. Hasil Penelitian
+   - Deskripsi Data
+     - Profil Responden
+     - Karakteristik Data
+   - Temuan Utama
+     - Analisis Univariate
+     - Analisis Bivariate
+     - Analisis Multivariate
+   - Diskusi Temuan
+     - Interpretasi Data
+     - Perbandingan dengan Studi Sebelumnya
 
-### Infrastructure and Facilities
-- **Campus Upgrades**
-  - Development of green spaces
-  - Modernization of learning spaces
-- **Technology Advancement**
-  - Upgrading digital infrastructure
-  - Implementing smart campus initiatives
+## 5. Kesimpulan dan Rekomendasi
+   - Kesimpulan
+     - Ringkasan Temuan
+     - Implikasi Teoritis
+   - Rekomendasi
+     - Implikasi Praktis
+     - Saran untuk Penelitian Selanjutnya
 
-### Global Outreach
-- **International Collaboration**
-  - Strategic partnerships with global institutions
-  - Joint research and exchange programs
-- **Cultural Exchange**
-  - Hosting international cultural events
-  - Support services for international students
+## 6. Daftar Pustaka
+   - Format Referensi
+   - Sumber Referensi
+     - Buku
+     - Artikel Jurnal
+     - Laporan Penelitian
+     - Sumber Daring
 
-This mind map provides a visual representation of the hierarchical structure of the primary theme and its related categories, ensuring that the linkages and hierarchies within the data are clearly illustrated.  ```
+## 7. Lampiran
+   - Kuesioner
+   - Transkrip Wawancara
+   - Tabel Tambahan
+  ```
 
-```
+
 ## 2. [MarkMap](https://markmap.js.org/repl)
 Paste the Markdown code into [MarkMap](https://markmap.js.org/repl): Open Markmap and paste your copied markdown content. Markmap will automatically generate an interactive mind map based on the markdown structure.
 
