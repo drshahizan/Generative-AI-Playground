@@ -97,7 +97,7 @@ Paste the Markdown code into [MarkMap](https://markmap.js.org/repl): Open Markma
 **Example**: Amanat Naib Canselor
 
 <p align="center">
-<img src="https://github.com/drshahizan/ai-tools/blob/main/images/amanatNC.png" height="500" />
+<img src="../../images/stie.png" height="500" />
 </p>
 
 ## 3. Interact with Your Mind Map
