@@ -1,15 +1,9 @@
-✨ **NEW UPDATE: Literature Review Generator**
-
-A Custom GPT for Literature Review Generator has been released. It efficiently parses PDF files of research publications, extracts key themes, and creates a literature review section for your academic publications.
-
-![customgpt](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing/assets/5254173/b36b7516-39ff-4752-be61-7b364db6d9dd)
-
-TRY NOW: https://chat.openai.com/g/g-G3U8pZGwC-literature-review-generator
-
-***
-
-<!--- ![Cover image](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing/blob/main/cover.jpg) --->
-
+<a href="https://github.com/drshahizan/Generative-AI-Playground/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/Generative-AI-Playground" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/Generative-AI-Playground/network/members"><img src="https://img.shields.io/github/forks/drshahizan/Generative-AI-Playground" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/Generative-AI-Playground/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/Generative-AI-Playground" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/Generative-AI-Playground"><img src="https://img.shields.io/github/issues/drshahizan/Generative-AI-Playground" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/Generative-AI-Playground/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Generative-AI-Playground?color=2b9348"></a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Generative-AI-Playground&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # ChatGPT Prompts for Academic Writing
 
