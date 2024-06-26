@@ -18,7 +18,7 @@ Seminar ini akan menyoroti penggunaan AI generatif dalam penulisan ilmiah. Dalam
 | 3. | Pemasangan & Login |[ChatGPT, Copilot, Gemini](../materials/stie/signin.md)|
 | 4. | Latihan | [Latihan 1: Penggunaan Instruksi Generatif AI](../materials/stie/fungsi.md)|
 |  |  | [Latihan 2: Analisis Dokumen Menggunakan Copilot](../materials/stie/dokumen_copilot.md)|
-|  |  | [Latihan 3: MarkMap](../materials/pimpin/markmap.md)|
+|  |  | [Latihan 3: MarkMap](../materials/stie/markmap.md)|
 |  |  | [Latihan 4: Analisis Gambar Menggunakan ChatGPT](../materials/stie/dokumen_untw.md)|
 |  |  | [Latihan 5: Analisis File CSV Menggunakan ChatGPT](../materials/stie/dokumen_chatgpt.md)|
 |  |  | [Latihan 6: Seni Budaya Malaysia](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
