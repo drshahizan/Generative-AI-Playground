@@ -6,11 +6,8 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Generative-AI-Playground&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # Penulisan Artikel Ilmiah di Bidang Perbankan dengan Penerapan Kecerdasan Buatan
-<img src="./images/play2.jpeg" style="width:240px;"  align="left">
 
-Generative-AI-Playground is an innovative platform dedicated to exploring and experimenting with a variety of generative models and techniques. It offers users the opportunity to engage with cutting-edge technologies like ChatGPT, Bing.AI, and Gemini in a practical and educational setting. The platform serves as a valuable resource for learning and honing skills in generative AI, providing tutorials, tips, and a supportive community for users to explore and create.
-
-At Generative-AI-Playground, users can dive into the world of generative AI to unleash their creativity. Whether you're interested in generating art, crafting text, or simply exploring the possibilities of these powerful models, the platform offers a welcoming space to learn and experiment. With its user-friendly interface and comprehensive resources, Generative-AI-Playground is a valuable tool for anyone looking to explore the exciting field of generative AI.
+Seminar bertajuk "Penulisan Artikel Ilmiah di Bidang Perbankan dengan Penerapan Kecerdasan Buatan" akan menyoroti penggunaan AI generatif dalam penulisan ilmiah. Dalam seminar ini, peserta akan mempelajari bagaimana AI generatif dapat dimanfaatkan untuk menyusun artikel ilmiah dengan lebih efisien dan akurat. AI generatif akan membantu dalam berbagai aspek penulisan, seperti pengumpulan dan analisis data, penyusunan kerangka tulisan, serta pembuatan konten berdasarkan tren terkini di bidang perbankan. Selain itu, seminar ini juga akan menunjukkan cara-cara praktis menggunakan AI untuk mengoptimalkan gaya penulisan dan memastikan kualitas serta kredibilitas artikel ilmiah. Dengan demikian, para peneliti dan praktisi perbankan dapat menghasilkan karya ilmiah yang lebih bermutu dan relevan dengan perkembangan teknologi terkini.
 
 
 ## Exploring Generative AI Ecosystems
