@@ -5,16 +5,12 @@
 <a href="https://github.com/drshahizan/Generative-AI-Playground/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Generative-AI-Playground?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Generative-AI-Playground&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# All Finance Prompts
+# Finance Prompts
 
-Here are 150+ ChatGPT prompts for anyone who works with money - either professionally or personally. They've been grouped together for your convenience.
-
-  
-
-In order to access these prompts, **click the triangular toggle button**.
+Here are 150+ ChatGPT prompts for anyone who works with money - either professionally or personally. 
 
   
-## Accountants
+## 1. Accountants
     
     1. "Discuss the role and importance of a professional accountant in maintaining the financial health of a \[specific type of business or industry\]."
     2. "Describe the process of preparing and interpreting a \[specific type of financial report, e.g., balance sheet, income statement, cash flow statement\] in a \[specific type of business or industry\]."
@@ -30,7 +26,7 @@ In order to access these prompts, **click the triangular toggle button**.
 
   
 
-## Banking
+## 2. Banking
     
     1. "Discuss the role and importance of banks in the financial ecosystem of a \[specific country or region\]."
     2. "Describe the process of \[specific banking operation such as loan approval, risk assessment, etc.\] in a typical commercial bank."
