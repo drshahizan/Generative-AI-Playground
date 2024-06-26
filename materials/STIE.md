@@ -32,8 +32,7 @@ Seminar ini akan menyoroti penggunaan AI generatif dalam penulisan ilmiah. Dalam
 |  |  | [ChatGPT Prompts untuk Makalah Penelitian](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)|
 |  |  | [ChatGPT Prompts untuk Penulisan Akademik](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md)|
 |  |  | [Prompts yang Efektif](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
-|  |  | [ChatGPT Prompts Pakar
-](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
+|  |  | [ChatGPT Prompts Pakar](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
 |  |  | [215+ ChatGPT Prompts & Cara Menulis Prompts Sendiri](https://writesonic.com/blog/chatgpt-prompts)|
 |  |  | [Berbicara dengan Copilot mengenai file PDF](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md)|
 
