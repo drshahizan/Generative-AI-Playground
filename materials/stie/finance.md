@@ -244,3 +244,12 @@ In order to access these prompts, **click the triangular toggle button**.
     8. "How does the concept of market liquidity affect trading strategies and outcomes in the \[specific financial market\]?"
     9. "Discuss the psychological aspects of trading, such as managing emotions and cognitive biases."
     10. "Describe the role of algorithmic trading in the \[specific financial market\] and how it shapes market trends and trading strategies."
+
+    ## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
