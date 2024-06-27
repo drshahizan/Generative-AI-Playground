@@ -20,6 +20,19 @@ Generative AI can be used to create prompts for Mermaid charts by automating the
 
 Here's an example of how generative AI might create a prompt for a Mermaid flowchart:
 
+Code:
+```
+graph TD;
+    A[Start] --> B{Is it a weekday?};
+    B -- Yes --> C[Go to work];
+    B -- No --> D[Relax];
+    C --> E{Is it before 5pm?};
+    E -- Yes --> F[Continue working];
+    E -- No --> G[Go home];
+    D --> H[Enjoy the weekend!];
+    F --> G;
+```
+
 ```mermaid
 graph TD;
     A[Start] --> B{Is it a weekday?};
