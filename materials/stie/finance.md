@@ -7,7 +7,7 @@
 
 # All Finance Prompts
 
-Here are 150+ ChatGPT prompts for anyone who works with money - either professionally or personally.
+150+ ChatGPT prompts for anyone who works with money - either professionally or personally.
 
   
 
