@@ -21,6 +21,20 @@
 “Discuss the significance of peer review and academic rigor in evaluating research conducted for a thesis.”
 “Provide tips for writing a compelling introduction and conclusion that frame the research questions and findings in a research thesis.”
 
+## Literature Review Thesis
+“Generate potential topics or research questions for a literature review thesis in [specific field or topic].”
+“Discuss the purpose and scope of a literature review thesis and its role in synthesizing existing research on a particular topic.”
+“Outline the structure of a literature review thesis, including the introduction, thematic sections, and conclusion.”
+“Explore strategies for conducting comprehensive literature searches and identifying relevant sources for inclusion in a literature review thesis.”
+“Discuss techniques for critically analyzing and evaluating the quality of literature reviewed in a literature review thesis.”
+“Provide examples of thematic organization and synthesis of literature in a literature review thesis, such as chronological or theoretical frameworks.”
+“Discuss the importance of identifying gaps or inconsistencies in existing literature and proposing areas for future research in a literature review thesis.”
+“Generate potential criteria for selecting and prioritizing literature to include in a literature review thesis.”
+“Explore different citation styles and formatting guidelines for referencing sources in a literature review thesis.”
+“Discuss strategies for writing concise and cohesive summaries of literature reviewed in a literature review thesis.”
+“Provide tips for integrating critical analysis and interpretation of literature into a literature review thesis.”
+“Discuss the significance of acknowledging and addressing conflicting viewpoints or controversies in a literature review thesis.”
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
 
