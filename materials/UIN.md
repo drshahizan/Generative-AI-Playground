@@ -5,9 +5,9 @@
 <a href="https://github.com/drshahizan/Generative-AI-Playground/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Generative-AI-Playground?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Generative-AI-Playground&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Penulisan Artikel Ilmiah di Bidang Perbankan dengan Penerapan Kecerdasan Buatan
+# Transformasi Penulisan Ilmiah dalam Bidang Ekonomi dan Perbankan melalui Generatif AI: Peluang dan Tantangan. 
 
-Seminar ini akan menyoroti penggunaan AI generatif dalam penulisan ilmiah. Dalam seminar ini, peserta akan mempelajari bagaimana AI generatif dapat dimanfaatkan untuk menyusun artikel ilmiah dengan lebih efisien dan akurat. AI generatif akan membantu dalam berbagai aspek penulisan, seperti pengumpulan dan analisis data, penyusunan kerangka tulisan, serta pembuatan konten berdasarkan tren terkini di bidang perbankan. Selain itu, seminar ini juga akan menunjukkan cara-cara praktis menggunakan AI untuk mengoptimalkan gaya penulisan dan memastikan kualitas serta kredibilitas artikel ilmiah. Dengan demikian, para peneliti dan praktisi perbankan dapat menghasilkan karya ilmiah yang lebih bermutu dan relevan dengan perkembangan teknologi terkini.
+Seminar ini bertujuan untuk mengeksplorasi bagaimana teknologi Kecerdasan Buatan Generatif dapat merevolusi penulisan ilmiah di bidang ekonomi dan perbankan.
 
 ## Bahan Pengajaran
 
