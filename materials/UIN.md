@@ -5,9 +5,9 @@
 <a href="https://github.com/drshahizan/Generative-AI-Playground/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Generative-AI-Playground?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Generative-AI-Playground&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Transformasi Penulisan Ilmiah dalam Bidang Ekonomi dan Perbankan melalui Generatif AI: Peluang dan Tantangan. 
+# Transformasi Penulisan Ilmiah dalam Bidang Ekonomi dan Perbankan melalui Generatif AI: Peluang dan Tantangan
 
-Seminar ini bertujuan untuk mengeksplorasi bagaimana teknologi Kecerdasan Buatan Generatif dapat merevolusi penulisan ilmiah di bidang ekonomi dan perbankan.
+Seminar ini akan mengeksplorasi bagaimana teknologi Generatif AI merevolusi metode penulisan ilmiah di bidang ekonomi dan perbankan. Teknologi ini mampu menganalisis data secara mendalam dan menghasilkan teks yang berkualitas tinggi, sehingga membuka peluang baru untuk peningkatan efisiensi dan akurasi dalam penelitian. Namun, di balik peluang tersebut, terdapat tantangan signifikan yang harus dihadapi, termasuk isu etika, bias algoritma, dan integrasi teknologi ini ke dalam metodologi penelitian tradisional. Seminar ini akan membahas secara mendalam peluang yang dapat dimanfaatkan serta tantangan yang perlu diatasi untuk memaksimalkan potensi Generatif AI dalam penulisan ilmiah di bidang ekonomi dan perbankan.
 
 ## Bahan Pengajaran
 
