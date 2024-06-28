@@ -339,25 +339,32 @@ Avatar dengan latar belakang hutan tropis Padang.
 ```
 
 ### Cartoon Movie Poster
+
+**Poster Film Kartun Malin Kundang**
 ```
-**Poster Film Kartun Malin Kundang**: Poster film dalam gaya Pixar tentang legenda Malin Kundang.
+Poster film dalam gaya Pixar tentang legenda Malin Kundang.
 ```
 
 ### Time Travel
 
+**Padang di Masa Kolonial**
+
 ```
-25. **Padang di Masa Kolonial**: Gambar Padang pada masa kolonial Belanda dengan detail sejarah.
+Gambar Padang pada masa kolonial Belanda dengan detail sejarah.
 ```
 
 
 ### Two-Dimensional Illustration in Japanese Cartoon Style
 
-```
-**Ilustrasi 2D Rumah Gadang**: Ilustrasi rumah tradisional Minangkabau dalam gaya kartun Jepang.
-```
+**Ilustrasi 2D Rumah Gadang**
 
 ```
-**Ilustrasi 2D Festival Tabuik**: Ilustrasi festival dengan gaya kartun Jepang yang ceria.
+Ilustrasi rumah tradisional Minangkabau dalam gaya kartun Jepang.
+```
+
+**Ilustrasi 2D Festival Tabuik**
+```
+Ilustrasi festival dengan gaya kartun Jepang yang ceria.
 ```
 
 ## Contribution 🛠️
