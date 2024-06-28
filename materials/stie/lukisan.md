@@ -45,34 +45,38 @@ Lukisan air terjun Lembah Anai di Padang.
 
 
 ### Poster
+
+```
 Poster acara musik tradisional Minangkabau di Padang.
+```
+
+```
 Poster kampanye kebersihan pantai di Padang.
+```
+
+```
 Poster promosi kuliner khas Padang.
+```
+
+```
 Poster edukasi tentang pelestarian terumbu karang di Padang.
+```
+
+```
 Poster kampanye pelestarian hutan di Padang.
+```
+
+```
 Poster festival budaya Minangkabau di Padang.
+```
+
+```
 Poster promosi pariwisata Padang dengan gambar ikon-ikon terkenal.
+```
+
+```
 Poster edukasi tentang pentingnya menjaga kebersihan sungai di Padang.
-
-### Anime
-Karakter anime yang sedang bersepeda di jalanan Padang.
-Karakter anime yang sedang menikmati festival budaya di Padang.
-Karakter anime yang sedang memancing di sungai Padang.
-Karakter anime yang sedang berkemah di hutan Padang.
-Karakter anime yang berpetualang di hutan tropis Padang.
-Karakter anime yang sedang menikmati makanan khas Padang di pasar malam.
-Karakter anime yang sedang berselancar di pantai Padang.
-Karakter anime yang sedang mendaki Gunung Padang.
-
-### Avatar
-Avatar dengan latar belakang sawah hijau di Padang.
-Avatar dengan pakaian tradisional Minangkabau.
-Avatar dengan latar belakang pantai Air Manis.
-Avatar dengan latar belakang pasar tradisional Padang.
-Avatar dengan latar belakang air terjun Lembah Anai.
-Avatar dengan pakaian adat Minangkabau saat upacara pernikahan.
-Avatar dengan latar belakang pasar terapung di Padang.
-Avatar dengan latar belakang hutan tropis Padang.
+```
 
 ### Fotografi
 Fotografi aktivitas petani di sawah Padang.
@@ -93,6 +97,26 @@ Ilustrasi rumah gadang tradisional Minangkabau.
 Ilustrasi flora dan fauna khas Padang.
 Ilustrasi kehidupan sehari-hari di desa Padang.
 Ilustrasi pasar tradisional Padang dengan berbagai aktivitas.
+
+### Anime
+Karakter anime yang sedang bersepeda di jalanan Padang.
+Karakter anime yang sedang menikmati festival budaya di Padang.
+Karakter anime yang sedang memancing di sungai Padang.
+Karakter anime yang sedang berkemah di hutan Padang.
+Karakter anime yang berpetualang di hutan tropis Padang.
+Karakter anime yang sedang menikmati makanan khas Padang di pasar malam.
+Karakter anime yang sedang berselancar di pantai Padang.
+Karakter anime yang sedang mendaki Gunung Padang.
+
+### Avatar
+Avatar dengan latar belakang sawah hijau di Padang.
+Avatar dengan pakaian tradisional Minangkabau.
+Avatar dengan latar belakang pantai Air Manis.
+Avatar dengan latar belakang pasar tradisional Padang.
+Avatar dengan latar belakang air terjun Lembah Anai.
+Avatar dengan pakaian adat Minangkabau saat upacara pernikahan.
+Avatar dengan latar belakang pasar terapung di Padang.
+Avatar dengan latar belakang hutan tropis Padang.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
