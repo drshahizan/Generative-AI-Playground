@@ -18,6 +18,8 @@ Lukisan pemandangan Gunung Padang saat matahari terbit.
 ```
 Lukisan sawah hijau di Padang dengan latar belakang pegunungan.
 ```
+
+```
 Lukisan pasar tradisional di Padang dengan aktivitas sehari-hari.
 ```
 
