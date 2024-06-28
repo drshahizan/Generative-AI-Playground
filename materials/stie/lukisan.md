@@ -6,9 +6,26 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Generative-AI-Playground&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Lukisan
+# Seni AI
 
-Prompt AI art ini berkaitan dengan persekitaran di Padang, Indonesia. Prompt ini mencakup berbagai jenis seni seperti lukisan, poster, anime, avatar, fotografi, ilustrasi, dan grafiti. Lukisan menggambarkan pemandangan alam seperti Gunung Padang, sawah hijau, dan pantai Air Manis. Poster berfokus pada kampanye pelestarian lingkungan, promosi pariwisata, dan edukasi kebersihan. Karakter anime berpetualang di hutan tropis, menikmati makanan khas, dan berkemah di alam Padang. Avatar menampilkan latar belakang alam dan budaya Padang, sementara fotografi menangkap momen indah seperti sunset di pantai dan aktivitas nelayan. Ilustrasi menggambarkan kehidupan sehari-hari, flora dan fauna, serta festival budaya. Grafiti bertema pelestarian lingkungan dan keindahan alam Padang. Semua prompt ini bertujuan untuk menonjolkan keindahan dan kekayaan budaya serta alam Padang, Indonesia.
+Seni AI memiliki berbagai genre dan gaya yang menarik. Berikut adalah beberapa di antaranya:
+
+1. **Surealisme**: Gaya ini menampilkan gambar-gambar yang aneh dan tidak realistis, sering kali menggabungkan elemen-elemen yang tidak mungkin ada bersama dalam kehidupan nyata. Contohnya, seekor gajah dengan sayap atau jam yang meleleh.
+
+2. **Kubisme**: Gaya ini menggunakan bentuk geometris dan sering kali memecah objek menjadi bagian-bagian yang lebih kecil. Ini memberikan tampilan yang abstrak dan terfragmentasi.
+
+3. **Impresionisme**: Gaya ini menekankan pada efek cahaya dan warna, sering kali dengan sapuan kuas yang terlihat. Ini memberikan kesan yang lebih lembut dan kabur pada gambar.
+
+4. **Art Deco**: Gaya ini dikenal dengan garis-garis yang bersih, bentuk geometris, dan penggunaan warna-warna metalik. Ini sering digunakan untuk menciptakan gambar yang elegan dan mewah.
+
+5. **Minimalisme**: Gaya ini menekankan pada kesederhanaan dan penggunaan elemen-elemen yang sangat sedikit. Gambar-gambar dalam gaya ini biasanya bersih dan tidak berlebihan.
+
+6. **Pop Art**: Gaya ini terinspirasi oleh budaya populer dan sering menggunakan warna-warna cerah serta gambar-gambar dari media massa seperti komik dan iklan.
+
+7. **Digital Art**: Gaya ini mencakup berbagai teknik yang dibuat menggunakan perangkat lunak komputer. Ini bisa mencakup ilustrasi digital, seni piksel, dan banyak lagi.
+
+Dengan menggunakan AI, seniman dapat dengan mudah bereksperimen dengan berbagai gaya ini dan menciptakan karya seni yang unik dan inovatif. 
+
 
 ### Lukisan
 ```
