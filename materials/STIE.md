@@ -22,7 +22,7 @@ Seminar ini akan menyoroti penggunaan AI generatif dalam penulisan ilmiah. Dalam
 |  |  | [Latihan 4: Analisis Gambar Menggunakan ChatGPT](../materials/stie/dokumen_untw.md)|
 |  |  | [Latihan 5: Penggunaan Mermaid Charts](../materials/stie/mermaid.md)|
 |  |  | [Latihan 6: Analisis File CSV Menggunakan ChatGPT](../materials/stie/dokumen_chatgpt.md)|
-|  |  | [Latihan 7: Seni AI](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/lukisan.md) |
+|  |  | [Latihan 7: Seni AI](../materials/stie/lukisan.md) |
 |  |  | [Think Machine: Pemetaan Pikiran Multidimensi](https://thinkmachine.com/) |
 | 5. | Arahan | [Kerangka Kerja Rantai Pemikiran (CoT)](../materials/gen_frame/1cot.md)|
 |  |  | [Kerangka Kerja RTF: _Role_, _Task_, dan _Format_](../materials/gen_frame/2rtf.md)|
