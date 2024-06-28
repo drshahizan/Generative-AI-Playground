@@ -23,25 +23,25 @@ Here's an example of how generative AI might create a prompt for a Mermaid flowc
 Code:
 ```
 graph TD;
-    A[Start] --> B{Is it a weekday?};
-    B -- Yes --> C[Go to work];
-    B -- No --> D[Relax];
-    C --> E{Is it before 5pm?};
-    E -- Yes --> F[Continue working];
-    E -- No --> G[Go home];
-    D --> H[Enjoy the weekend!];
+    A[Start] --> B{Hari kerja kah?};
+    B -- Iya --> C[Baok ka karajo];
+    B -- Indak --> D[Salamak];
+    C --> E{Masiah dek 5 surang?};
+    E -- Iya --> F[Lanjutkan karajo];
+    E -- Indak --> G[Pulang ka rumah];
+    D --> H[Nyaman-an liburan!];
     F --> G;
 ```
 
 ```mermaid
 graph TD;
-    A[Start] --> B{Is it a weekday?};
-    B -- Yes --> C[Go to work];
-    B -- No --> D[Relax];
-    C --> E{Is it before 5pm?};
-    E -- Yes --> F[Continue working];
-    E -- No --> G[Go home];
-    D --> H[Enjoy the weekend!];
+    A[Start] --> B{Hari kerja kah?};
+    B -- Iya --> C[Baok ka karajo];
+    B -- Indak --> D[Salamak];
+    C --> E{Masiah dek 5 surang?};
+    E -- Iya --> F[Lanjutkan karajo];
+    E -- Indak --> G[Pulang ka rumah];
+    D --> H[Nyaman-an liburan!];
     F --> G;
 ```
 
@@ -56,9 +56,6 @@ By using generative AI, you can create a wide range of prompts for Mermaid chart
 ```
 Find a research topic for a PhD in the area of [TOPIC]
 ```
-
-Certainly! Here are 25 prompt template sentences related to economy and banking that you can use to create Mermaid charts:
-
 1. "Illustrate the **flow of capital** in an international trade transaction using a flowchart."
 2. "Map out the **customer journey** in a bank loan application process with a sequence diagram."
 3. "Show the **relationship between different financial products** offered by a bank using a class diagram."
