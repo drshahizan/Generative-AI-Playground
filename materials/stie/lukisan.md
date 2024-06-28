@@ -232,52 +232,66 @@ Avatar dengan latar belakang hutan tropis Padang.
 ```
 
 ### 3D Avatar for Social Media
-```
-**3D Avatar Instagram**: Avatar dengan gaya fashion terkini.
-```
+
+**3D Avatar Instagram**
 
 ```
-**3D Avatar TikTok**: Avatar dengan pose menari yang dinamis.
+3D Avatar Instagram. Avatar dengan gaya fashion terkini.
 ```
 
-```
-**3D Avatar Twitter**: Avatar dengan ekspresi intelektual dan serius.
-```
+**3D Avatar TikTok**
 
 ```
-**3D Avatar Facebook**: Avatar dengan latar belakang keluarga atau teman.
+3D Avatar TikTok. Avatar dengan pose menari yang dinamis.
 ```
 
+**3D Avatar Twitter**
 ```
-**3D Avatar WhatsApp**: Avatar dengan gaya kasual dan ramah.
+3D Avatar Twitter. Avatar dengan ekspresi intelektual dan serius.
 ```
 
+**3D Avatar Facebook**
 ```
-**3D Avatar Snapchat**: Avatar dengan filter wajah yang lucu.
+3D Avatar Facebook. Avatar dengan latar belakang keluarga atau teman.
+```
+
+**3D Avatar WhatsApp**
+```
+3D Avatar WhatsApp. Avatar dengan gaya kasual dan ramah.
+```
+
+**3D Avatar Snapchat**
+```
+3D Avatar Snapchat. Avatar dengan filter wajah yang lucu.
 ```
 
 ### Realistic 3D Animation
 
+**Hutan Tropis Padang**
 ```
-**Hutan Tropis Padang**: Animasi realistis dari hutan tropis dengan flora dan fauna lokal.
-```
-
-```
-**Pasar Tradisional Padang**: Animasi realistis dari pasar dengan pedagang dan pembeli.
+Animasi realistis dari hutan tropis dengan flora dan fauna lokal di Padang.
 ```
 
+**Pasar Tradisional Padang**
 ```
-**Pantai Air Manis**: Animasi realistis dari pantai dengan ombak dan pasir putih.
+Animasi realistis dari pasar dengan pedagang dan pembeli di Pasar Tradisional Padang.
 ```
 
+**Pantai Pesisir Selatan**
 ```
-**Gunung Merapi**: Animasi realistis dari pemandangan gunung dengan kabut pagi.
+Animasi realistis dari pantai dengan ombak dan pasir putih di Pantai Pesisir Selatan.
+```
+
+**Gunung Merapi**
+```
+Animasi realistis dari pemandangan gunung dengan kabut pagi di Gunung Merapi.
 ```
 
 ### Pop Art
 
+**Rumah Gadang Pop Art**
 ```
-**Rumah Gadang Pop Art**: Ilustrasi rumah tradisional Minangkabau dalam gaya pop art.
+Ilustrasi rumah tradisional Minangkabau (rumah gadang) dalam gaya pop art.
 ```
 
 ```
