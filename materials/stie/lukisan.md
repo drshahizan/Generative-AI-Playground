@@ -231,6 +231,135 @@ Avatar dengan latar belakang pasar terapung di Padang.
 Avatar dengan latar belakang hutan tropis Padang.
 ```
 
+### 3D Avatar for Social Media
+```
+**3D Avatar Instagram**: Avatar dengan gaya fashion terkini.
+```
+
+```
+**3D Avatar TikTok**: Avatar dengan pose menari yang dinamis.
+```
+
+```
+**3D Avatar Twitter**: Avatar dengan ekspresi intelektual dan serius.
+```
+
+```
+**3D Avatar Facebook**: Avatar dengan latar belakang keluarga atau teman.
+```
+
+```
+**3D Avatar WhatsApp**: Avatar dengan gaya kasual dan ramah.
+```
+
+```
+**3D Avatar Snapchat**: Avatar dengan filter wajah yang lucu.
+```
+
+### Realistic 3D Animation
+
+```
+**Hutan Tropis Padang**: Animasi realistis dari hutan tropis dengan flora dan fauna lokal.
+```
+
+```
+**Pasar Tradisional Padang**: Animasi realistis dari pasar dengan pedagang dan pembeli.
+```
+
+```
+**Pantai Air Manis**: Animasi realistis dari pantai dengan ombak dan pasir putih.
+```
+
+```
+**Gunung Merapi**: Animasi realistis dari pemandangan gunung dengan kabut pagi.
+```
+
+### Pop Art
+
+```
+**Rumah Gadang Pop Art**: Ilustrasi rumah tradisional Minangkabau dalam gaya pop art.
+```
+
+```
+**Pasar Raya Padang Pop Art**: Ilustrasi pasar dengan warna-warna cerah dan kontras.
+```
+
+```
+**Festival Tabuik Pop Art**: Ilustrasi festival dengan elemen-elemen pop art yang mencolok.
+```
+
+### 3D Model Poster
+
+```
+**Poster Gunung Singgalang**: Poster 3D dari pemandangan gunung dengan detail yang mendalam.
+```
+
+```
+**Poster Danau Maninjau**: Poster 3D dari danau dengan refleksi air yang realistis.
+```
+
+### Strong Visual Illustration with Shades of Navy Blues and Violets
+
+```
+**Pemandangan Malam Padang**: Ilustrasi visual kuat dari kota Padang di malam hari dengan nuansa biru dan ungu.
+```
+
+```
+**Pantai Padang di Senja**: Ilustrasi pantai dengan langit senja yang berwarna biru dan ungu.
+```
+
+### 3D Art Toy
+
+```
+**Boneka 3D Malin Kundang**: Mainan seni 3D berdasarkan legenda Malin Kundang.
+```
+
+```
+**Boneka 3D Nelayan Padang**: Mainan seni 3D dari nelayan tradisional Padang.
+```
+
+### Business Logos
+
+```
+**Logo Restoran Padang**: Desain logo untuk restoran dengan tema masakan Padang.
+```
+
+```
+**Logo Toko Oleh-Oleh**: Desain logo untuk toko oleh-oleh khas Padang.
+```
+
+### Street Portrait Snapshots
+
+```
+**Potret Jalanan Pasar Padang**: Potret pedagang dan pembeli di pasar tradisional.
+```
+
+```
+**Potret Jalanan Nelayan**: Potret nelayan dengan latar belakang perahu dan laut.
+```
+
+### Cartoon Movie Poster
+```
+**Poster Film Kartun Malin Kundang**: Poster film dalam gaya Pixar tentang legenda Malin Kundang.
+```
+
+### Time Travel
+
+```
+25. **Padang di Masa Kolonial**: Gambar Padang pada masa kolonial Belanda dengan detail sejarah.
+```
+
+
+### Two-Dimensional Illustration in Japanese Cartoon Style
+
+```
+**Ilustrasi 2D Rumah Gadang**: Ilustrasi rumah tradisional Minangkabau dalam gaya kartun Jepang.
+```
+
+```
+**Ilustrasi 2D Festival Tabuik**: Ilustrasi festival dengan gaya kartun Jepang yang ceria.
+```
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
 
