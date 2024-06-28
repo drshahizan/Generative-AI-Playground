@@ -23,11 +23,11 @@ Here's an example of how generative AI might create a prompt for a Mermaid flowc
 Code:
 ```
 graph TD;
-    A[Start] --> B{Hari kerja kah?};
+    A[Start] --> B{Hari Karajo?};
     B -- Iya --> C[Baok ka karajo];
-    B -- Indak --> D[Salamak];
+    B -- Indak --> D[Selamat];
     C --> E{Masiah dek 5 surang?};
-    E -- Iya --> F[Lanjutkan karajo];
+    E -- Iyo --> F[Lanjutkan karajo];
     E -- Indak --> G[Pulang ka rumah];
     D --> H[Nyaman-an liburan!];
     F --> G;
@@ -35,11 +35,11 @@ graph TD;
 
 ```mermaid
 graph TD;
-    A[Start] --> B{Hari kerja kah?};
+    A[Start] --> B{Hari Karajo?};
     B -- Iya --> C[Baok ka karajo];
-    B -- Indak --> D[Salamak];
+    B -- Indak --> D[Selamat];
     C --> E{Masiah dek 5 surang?};
-    E -- Iya --> F[Lanjutkan karajo];
+    E -- Iyo --> F[Lanjutkan karajo];
     E -- Indak --> G[Pulang ka rumah];
     D --> H[Nyaman-an liburan!];
     F --> G;
