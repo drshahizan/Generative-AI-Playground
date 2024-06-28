@@ -314,42 +314,48 @@ Ilustrasi rumah tradisional Minangkabau (rumah gadang) dalam gaya pop art.
 
 ### Strong Visual Illustration with Shades of Navy Blues and Violets
 
+**Pemandangan Malam Padang**
 ```
-**Pemandangan Malam Padang**: Ilustrasi visual kuat dari kota Padang di malam hari dengan nuansa biru dan ungu.
+Ilustrasi visual kuat dari kota Padang di malam hari dengan nuansa biru dan ungu.
 ```
 
+**Pantai Padang di Senja**:
 ```
-**Pantai Padang di Senja**: Ilustrasi pantai dengan langit senja yang berwarna biru dan ungu.
+Ilustrasi pantai dengan langit senja yang berwarna biru dan ungu.
 ```
 
 ### 3D Art Toy
 
+**Boneka 3D Malin Kundang**
 ```
-**Boneka 3D Malin Kundang**: Mainan seni 3D berdasarkan legenda Malin Kundang.
+Mainan seni 3D berdasarkan legenda Malin Kundang.
 ```
-
+**Boneka 3D Nelayan Padang**
 ```
-**Boneka 3D Nelayan Padang**: Mainan seni 3D dari nelayan tradisional Padang.
+Mainan seni 3D dari nelayan tradisional Padang.
 ```
 
 ### Business Logos
 
+**Logo Restoran Padang**
 ```
-**Logo Restoran Padang**: Desain logo untuk restoran dengan tema masakan Padang.
+Desain logo untuk restoran dengan tema masakan Padang.
 ```
-
+**Logo Toko Oleh-Oleh**
 ```
-**Logo Toko Oleh-Oleh**: Desain logo untuk toko oleh-oleh khas Padang.
+Desain logo untuk toko oleh-oleh khas Padang.
 ```
 
 ### Street Portrait Snapshots
 
+**Potret Jalanan Pasar Padang**
 ```
-**Potret Jalanan Pasar Padang**: Potret pedagang dan pembeli di pasar tradisional.
+Potret pedagang dan pembeli di pasar tradisional Padang.
 ```
 
+**Potret Jalanan Nelayan**
 ```
-**Potret Jalanan Nelayan**: Potret nelayan dengan latar belakang perahu dan laut.
+Potret nelayan dengan latar belakang perahu dan laut.
 ```
 
 ### Cartoon Movie Poster
