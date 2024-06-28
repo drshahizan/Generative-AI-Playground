@@ -29,7 +29,7 @@ graph TD;
     C --> E{Masiah dek 5 surang?};
     E -- Iyo --> F[Lanjutkan karajo];
     E -- Indak --> G[Pulang ka rumah];
-    D --> H[Nyaman-an liburan!];
+    D --> H[Sanang pai libur!];
     F --> G;
 ```
 
@@ -41,7 +41,7 @@ graph TD;
     C --> E{Masiah dek 5 surang?};
     E -- Iyo --> F[Lanjutkan karajo];
     E -- Indak --> G[Pulang ka rumah];
-    D --> H[Nyaman-an liburan!];
+    D --> H[sanang pai libur!];
     F --> G;
 ```
 
