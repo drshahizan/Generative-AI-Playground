@@ -49,45 +49,107 @@ In this example, the AI has generated a simple flowchart that outlines a typical
 
 By using generative AI, you can create a wide range of prompts for Mermaid charts that are customized to your data and processes, making it a powerful tool for visualization.
 
-> **TIPS:** As there is a limit to the number of words that can be used in ChatGPT, you can input your text multiple times using the prompt "Read this [PARAPGRAPH]:" and then run your final prompt "Considering the above text...".
-
-## BRAINSTORMING
+## PROMPTS
 
 ```
-Find a research topic for a PhD in the area of [TOPIC]
+Illustrate the **flow of capital** in an international trade transaction using a flowchart.
 ```
-1. "Illustrate the **flow of capital** in an international trade transaction using a flowchart."
+
+```
 2. "Map out the **customer journey** in a bank loan application process with a sequence diagram."
+```
+
+```
 3. "Show the **relationship between different financial products** offered by a bank using a class diagram."
+```
+
+```
 4. "Create a Gantt chart detailing the **timeline for a financial audit**."
+```
+
+```
 5. "Design a state diagram that outlines the **various states of a mortgage application**."
+```
+
+```
 6. "Visualize the **distribution of investments** in a mutual fund with a pie chart."
+```
+
+```
 7. "Draft a mindmap that explores the concept of '**digital currencies**' and their impact on traditional banking."
+```
+
+```
 8. "Develop a component diagram that represents the **architecture of online banking systems**."
+```
+
+```
 9. "Compose a user journey map in Mermaid to visualize the steps a customer takes from **opening an account to investing**."
+```
+
+```
 10. "Assemble a network diagram that displays the **IT infrastructure of a multinational bank**."
+```
+
+```
 11. "Generate a flowchart that explains the **process of credit risk assessment**."
+```
+
+```
 12. "Create a sequence diagram showing the **interaction between a customer and an ATM** during a withdrawal."
+```
+
+```
 13. "Construct a class diagram for a **stock trading platform**, including entities like Trader, Stock, and TradeOrder."
+```
+
+```
 14. "Formulate a Gantt chart for the **rollout of a new banking service**, including key phases and milestones."
+```
+
+```
 15. "Sketch a state diagram for the **life cycle of a bank check** from issuance to clearance."
+```
+
+```
 16. "Illustrate the **allocation of a bank's assets** across different sectors using a pie chart."
+```
+
+```
 17. "Map out the **evolution of mobile banking** with a timeline diagram."
+```
+
+```
 18. "Show the **interdependencies between various departments** in a bank using a component diagram."
+```
+
+```
 19. "Visualize the **steps involved in international money transfer** with a flowchart."
+```
+
+```
 20. "Draft a mindmap that categorizes the **types of loans** offered by financial institutions."
+```
+
+```
 21. "Develop a sequence diagram that captures the **process of financial planning** with a client."
+```
+
+```
 22. "Compose a class diagram that models the **entities in a peer-to-peer lending system**."
+```
+
+```
 23. "Create a Gantt chart for the **implementation of a new banking regulation**."
+```
+
+```
 24. "Design a state diagram that depicts the **approval process for a business loan**."
+```
+
+```
 25. "Generate a network diagram that outlines the **communication channels within a financial market exchange**."
-
-These prompts can help you get started with creating informative and visually appealing diagrams that represent complex economic and banking concepts. If you need further assistance or more detailed examples, feel free to ask!
-
-Source: Conversation with Copilot, 28/06/2024
-(1) Mermaid Chart’s ChatGPT Plugin Combines Generative AI and Smart .... https://www.mermaidchart.com/blog/posts/mermaid-chart-chatgpt-plugin-combines-generative-ai-and-smart-diagramming.
-(2) Introduction to Prompt Templates in LangChain - Comet. https://www.comet.com/site/blog/introduction-to-prompt-templates-in-langchain/.
-(3) Mermaid Chart - Create complex, visual diagrams with text. A smarter .... https://www.mermaidchart.com/landing.
+```
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
