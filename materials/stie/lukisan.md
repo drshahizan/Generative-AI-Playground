@@ -11,14 +11,36 @@
 Prompt AI art ini berkaitan dengan persekitaran di Padang, Indonesia. Prompt ini mencakup berbagai jenis seni seperti lukisan, poster, anime, avatar, fotografi, ilustrasi, dan grafiti. Lukisan menggambarkan pemandangan alam seperti Gunung Padang, sawah hijau, dan pantai Air Manis. Poster berfokus pada kampanye pelestarian lingkungan, promosi pariwisata, dan edukasi kebersihan. Karakter anime berpetualang di hutan tropis, menikmati makanan khas, dan berkemah di alam Padang. Avatar menampilkan latar belakang alam dan budaya Padang, sementara fotografi menangkap momen indah seperti sunset di pantai dan aktivitas nelayan. Ilustrasi menggambarkan kehidupan sehari-hari, flora dan fauna, serta festival budaya. Grafiti bertema pelestarian lingkungan dan keindahan alam Padang. Semua prompt ini bertujuan untuk menonjolkan keindahan dan kekayaan budaya serta alam Padang, Indonesia.
 
 ### Lukisan
+```
 Lukisan pemandangan Gunung Padang saat matahari terbit.
+```
+
+```
 Lukisan sawah hijau di Padang dengan latar belakang pegunungan.
+```
 Lukisan pasar tradisional di Padang dengan aktivitas sehari-hari.
+```
+
+```
 Lukisan pantai Air Manis dengan batu Malin Kundang.
+```
+
+```
 Lukisan perahu nelayan di pantai Padang saat senja.
+```
+
+```
 Lukisan pasar terapung di Padang dengan aktivitas pedagang.
+```
+
+```
 Lukisan hutan tropis di Padang dengan berbagai flora dan fauna.
+```
+
+```
 Lukisan air terjun Lembah Anai di Padang.
+```
+
 
 ### Poster
 Poster acara musik tradisional Minangkabau di Padang.
