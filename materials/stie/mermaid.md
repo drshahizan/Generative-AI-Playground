@@ -18,6 +18,89 @@ Generative AI can be used to create prompts for Mermaid charts by automating the
 4. **Consistency**: When creating multiple diagrams, AI can help maintain a consistent style and level of detail across all charts.
 5. **Innovation**: AI can suggest creative ways to represent data that might not be immediately obvious to human users, leading to more insightful visualizations.
 
+
+## How to Create Mermaid Charts on ChatGPT
+
+Using Mermaid charts to create diagrams is a straightforward process that can enhance your visual presentations. Here’s how to use Mermaid charts from https://chatgpt.com/gpts:
+
+1. **Access the Platform:**
+   - Go to [https://chatgpt.com/gpts](https://chatgpt.com/gpts).
+
+2. **Create a New Chart:**
+   - Look for an option to create a new chart or diagram. This might be in the form of a button or a menu option labeled something like "New Chart" or "Create Diagram."
+
+3. **Select Mermaid as the Chart Type:**
+   - Once you are in the chart creation interface, select "Mermaid" as the type of chart you want to create. Mermaid is a popular syntax for creating diagrams using plain text.
+
+4. **Input Mermaid Syntax:**
+   - In the provided text area, input your Mermaid chart syntax. For example, to create a simple flowchart, you might write:
+     **Code:**
+     ```
+        graph TD;
+            A[Start] --> B{Hari Karajo?};
+            B -- Iya --> C[Baok ka karajo];
+            B -- Indak --> D[Selamat];
+            C --> E{Masiah dek 5 surang?};
+            E -- Iyo --> F[Lanjutkan karajo];
+            E -- Indak --> G[Pulang ka rumah];
+            D --> H[Sanang pai libur!];
+            F --> G;
+     ```
+     
+    **Output:**
+    ```mermaid
+        graph TD;
+            A[Start] --> B{Hari Karajo?};
+            B -- Iya --> C[Baok ka karajo];
+            B -- Indak --> D[Selamat];
+            C --> E{Masiah dek 5 surang?};
+            E -- Iyo --> F[Lanjutkan karajo];
+            E -- Indak --> G[Pulang ka rumah];
+            D --> H[Sanang pai libur!];
+            F --> G;
+     ```
+
+5. **Render the Chart:**
+   - After entering your Mermaid syntax, there should be a button or option to render the chart. This will convert your text-based diagram into a visual chart.
+
+6. **Edit and Save:**
+   - If necessary, make adjustments to the Mermaid syntax to fine-tune your diagram. Once you are satisfied with the chart, save it. There should be options to save or export the chart in various formats like PNG, SVG, or PDF.
+
+7. **Integrate the Chart:**
+   - Use the exported chart in your documents, presentations, or websites as needed. You might copy and paste the image or link to the file depending on your platform’s capabilities.
+
+### Example Process
+
+Here’s a step-by-step example of creating a Mermaid flowchart for a decision-making process:
+
+1. **Navigate to the platform and start a new chart:**
+   ![New Chart](https://path-to-screenshot1)
+
+2. **Select Mermaid as the chart type:**
+   ![Select Mermaid](https://path-to-screenshot2)
+
+3. **Enter the Mermaid syntax in the text area:**
+   ```mermaid
+   graph TD;
+       A[Mulai] --> B{Hari kerja kah?};
+       B -- Iya --> C[Baok ka karajo];
+       B -- Indak --> D[Salamak];
+       C --> E{Masiah dek 5 surang?};
+       E -- Iya --> F[Lanjutkan karajo];
+       E -- Indak --> G[Pulang ka rumah];
+       D --> H[Nyaman-an liburan!];
+       F --> G;
+   ```
+
+4. **Render and view the chart:**
+   ![Rendered Chart](https://path-to-screenshot3)
+
+5. **Save the chart:**
+   ![Save Chart](https://path-to-screenshot4)
+
+By following these steps, you can effectively create and utilize Mermaid charts for various purposes.
+
+===
 Here's an example of how generative AI might create a prompt for a Mermaid flowchart:
 
 Code:
@@ -41,7 +124,7 @@ graph TD;
     C --> E{Masiah dek 5 surang?};
     E -- Iyo --> F[Lanjutkan karajo];
     E -- Indak --> G[Pulang ka rumah];
-    D --> H[sanang pai libur!];
+    D --> H[Sanang pai libur!];
     F --> G;
 ```
 
