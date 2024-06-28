@@ -69,68 +69,7 @@ Using Mermaid charts to create diagrams is a straightforward process that can en
 7. **Integrate the Chart:**
    - Use the exported chart in your documents, presentations, or websites as needed. You might copy and paste the image or link to the file depending on your platform’s capabilities.
 
-### Example Process
-
-Here’s a step-by-step example of creating a Mermaid flowchart for a decision-making process:
-
-1. **Navigate to the platform and start a new chart:**
-   ![New Chart](https://path-to-screenshot1)
-
-2. **Select Mermaid as the chart type:**
-   ![Select Mermaid](https://path-to-screenshot2)
-
-3. **Enter the Mermaid syntax in the text area:**
-   ```mermaid
-   graph TD;
-       A[Mulai] --> B{Hari kerja kah?};
-       B -- Iya --> C[Baok ka karajo];
-       B -- Indak --> D[Salamak];
-       C --> E{Masiah dek 5 surang?};
-       E -- Iya --> F[Lanjutkan karajo];
-       E -- Indak --> G[Pulang ka rumah];
-       D --> H[Nyaman-an liburan!];
-       F --> G;
-   ```
-
-4. **Render and view the chart:**
-   ![Rendered Chart](https://path-to-screenshot3)
-
-5. **Save the chart:**
-   ![Save Chart](https://path-to-screenshot4)
-
-By following these steps, you can effectively create and utilize Mermaid charts for various purposes.
-
-===
-Here's an example of how generative AI might create a prompt for a Mermaid flowchart:
-
-Code:
-```
-graph TD;
-    A[Start] --> B{Hari Karajo?};
-    B -- Iya --> C[Baok ka karajo];
-    B -- Indak --> D[Selamat];
-    C --> E{Masiah dek 5 surang?};
-    E -- Iyo --> F[Lanjutkan karajo];
-    E -- Indak --> G[Pulang ka rumah];
-    D --> H[Sanang pai libur!];
-    F --> G;
-```
-
-```mermaid
-graph TD;
-    A[Start] --> B{Hari Karajo?};
-    B -- Iya --> C[Baok ka karajo];
-    B -- Indak --> D[Selamat];
-    C --> E{Masiah dek 5 surang?};
-    E -- Iyo --> F[Lanjutkan karajo];
-    E -- Indak --> G[Pulang ka rumah];
-    D --> H[Sanang pai libur!];
-    F --> G;
-```
-
-In this example, the AI has generated a simple flowchart that outlines a typical decision-making process for a person's daily routine. The AI uses logical conditions and outcomes to create a diagram that is easy to understand and visually appealing.
-
-By using generative AI, you can create a wide range of prompts for Mermaid charts that are customized to your data and processes, making it a powerful tool for visualization.
+In this example, the AI has generated a simple flowchart that outlines a typical decision-making process for a person's daily routine. The AI uses logical conditions and outcomes to create a diagram that is easy to understand and visually appealing. By using generative AI, you can create a wide range of prompts for Mermaid charts that are customized to your data and processes, making it a powerful tool for visualization.
 
 ## PROMPTS
 
