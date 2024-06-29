@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Generative-AI-Playground&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Analisis Imej: ChatGPT
+# Latihan 4: Analisis Gambar Menggunakan ChatGPT
 
 ## 1. Muat turun jadual UNTW
 Anda perlu memuat turun imej untuk membolehkan proses anlisis dokumen dilaksanakan. Dokumen tersebut ialah
