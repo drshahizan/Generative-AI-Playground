@@ -319,22 +319,25 @@ Animasi realistis dari pemandangan gunung dengan kabut pagi di Gunung Merapi.
 Ilustrasi rumah tradisional Minangkabau (rumah gadang) dalam gaya pop art.
 ```
 
+**Pasar Raya Padang Pop Art**
 ```
-**Pasar Raya Padang Pop Art**: Ilustrasi pasar dengan warna-warna cerah dan kontras.
+Ilustrasi Pasar Raya Padang dengan warna-warna cerah dan kontras.
 ```
 
+**Festival Tabuik Pop Art**
 ```
-**Festival Tabuik Pop Art**: Ilustrasi festival dengan elemen-elemen pop art yang mencolok.
+Ilustrasi festival Tabuik dengan elemen-elemen pop art yang mencolok.
 ```
 
 ### 3D Model Poster
 
+**Poster Gunung Singgalang**
 ```
-**Poster Gunung Singgalang**: Poster 3D dari pemandangan gunung dengan detail yang mendalam.
+Poster 3D dari pemandangan Gunung Singgalang dengan detail yang mendalam.
 ```
-
+**Poster Danau Maninjau**
 ```
-**Poster Danau Maninjau**: Poster 3D dari danau dengan refleksi air yang realistis.
+Poster 3D dari Danau Maninjau dengan refleksi air yang realistis.
 ```
 
 ### Strong Visual Illustration with Shades of Navy Blues and Violets
