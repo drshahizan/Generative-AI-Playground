@@ -48,6 +48,9 @@ Dengan mengikuti langkah-langkah ini, Anda bisa menghasilkan karya seni digital 
 Dengan menggunakan AI, seniman dapat dengan mudah bereksperimen dengan berbagai gaya ini dan menciptakan karya seni yang unik dan inovatif. 
 
 ## Prompt Seni AI
+<p align="center">
+ <img src="/images/wau1.jpeg"  height="300" /> <img src="/images/anime2.jpeg"  height="300" />  <img src="/images/cats1.jpeg"  height="300" /> 
+</p>
 
 ### Lukisan
 ```
