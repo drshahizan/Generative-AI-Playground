@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Generative-AI-Playground&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Penggunaan Instruksi Generatif AI
+# Latihan 1: Penggunaan Instruksi Generatif AI
 
 ## 1. Menjawab Pertanyaan
 Generatif AI dapat menjawab berbagai jenis pertanyaan, mulai dari pertanyaan umum hingga pertanyaan yang lebih spesifik. Berikut adalah soalan yang bisa Anda gunakan sebagai prompt untuk membahas perencanaan strategis:
