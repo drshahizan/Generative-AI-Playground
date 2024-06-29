@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Generative-AI-Playground&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# [Mermaid Charts](https://www.mermaidchart.com/)
+# Latihan 5: Penggunaan [Mermaid Charts](https://www.mermaidchart.com/)
 
 [Mermaid charts](https://www.mermaidchart.com/) are a type of diagram and charting tool that allows you to generate visual representations of data and processes using a simple, text-based syntax. They are particularly useful for creating flowcharts, sequence diagrams, class diagrams, state diagrams, Gantt charts, and more. The Mermaid syntax is designed to be human-readable and easy to write, making it accessible for both technical and non-technical users.
 
