@@ -19,7 +19,7 @@ Untuk membuka dokumen PDF yang bernama "paper1.pdf" di Microsoft Edge, sila ikut
 3. Jika dokumen tersebut sudah terbuka di pelayar web lain, Anda boleh **menyeret dan menjatuhkan** fail PDF tersebut ke dalam tetingkap Microsoft Edge untuk membukanya. Rajah di bawah menunjukkan fail PDF yang berjaya di buka di Microsoft Edge.
 
 <p align="center">
-<img src="../../images/paper1.png"  height="350" />
+<img src="https://github.com/drshahizan/ai-tools/blob/main/images/paper1.png"  height="350" />
 </p>
 
 Setelah dokumen terbuka di Microsoft Edge, anda dapat menggunakan bar alat yang terdapat di bahagian atas skrin untuk menavigasi dokumen, mengubah ukuran tampilan, dan mencari teks tertentu. Microsoft Edge juga menyediakan fungsi untuk mengedit, menyimpan, atau mencetak dokumen PDF tersebut.
@@ -41,14 +41,14 @@ Analisis dokumen PDF di Microsoft Edge boleh dilakukan dengan menggunakan fungsi
 6. **Terjemahan PDF**: Microsoft Edge membolehkan anda menterjemahkan teks dari dokumen PDF ke bahasa lain. Pilih teks yang ingin diterjemahkan, kemudian klik ikon terjemah di bar alat PDF.
 
 <p align="center">
-<img src="../../images/p1translate.png"  height="350" />
+<img src="https://github.com/drshahizan/ai-tools/blob/main/images/p1translate.png"  height="350" />
 </p>
 
 8. **Menggunakan Bing AI untuk Analisis**: Anda boleh menggunakan Bing AI untuk menganalisis dokumen PDF dengan membuka dokumen di Edge, klik ikon Bing AI, dan klik 'summarize this' untuk mendapatkan ringkasan dokumen.
 
 <p align="center">
-<img src="../../images/chat.png"  height="450" />
-  <img src="../../images/summary1.png"  height="450" />
+<img src="https://github.com/drshahizan/ai-tools/blob/main/images/chat.png"  height="450" />
+  <img src="https://github.com/drshahizan/ai-tools/blob/main/images/summary1.png"  height="450" />
 </p>
 
 Anda juga boleh klik pada 'Suggest questions about this document', hasilnya adalah seperti berikut:
