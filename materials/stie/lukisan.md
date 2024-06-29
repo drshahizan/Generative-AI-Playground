@@ -58,7 +58,7 @@ Lukisan pemandangan Gunung Padang saat matahari terbit.
 ```
 
 ```
-Lukisan sawah hijau di Padang dengan latar belakang pegunungan.
+Lukisan sawah hijau di Padang dengan latar belakang pergunungan.
 ```
 
 ```
