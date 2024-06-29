@@ -49,7 +49,7 @@ Dengan menggunakan AI, seniman dapat dengan mudah bereksperimen dengan berbagai 
 
 ## Prompt Seni AI
 <p align="center">
- <img src="/images/wau1.jpeg"  height="300" /> <img src="/images/anime2.jpeg"  height="300" />  <img src="/images/cats1.jpeg"  height="300" /> 
+ <img src="/images/wau1.jpeg"  height="300" /> <img src="/images/anai.jpeg"  height="300" />  <img src="/images/cats1.jpeg"  height="300" /> 
 </p>
 
 ### Lukisan
