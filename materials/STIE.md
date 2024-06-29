@@ -32,6 +32,7 @@ Seminar ini akan menyoroti penggunaan AI generatif dalam penulisan ilmiah. Dalam
 |  |  | [Kerangka Kerja RISE: _Role, Input, Steps, Expectation_](../materials/gen_frame/6rise.md)|
 |  |  | [ChatGPT Prompts untuk Makalah Penelitian](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)|
 |  |  | [ChatGPT Prompts untuk Penulisan Akademik](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md)|
+|||[All Finance Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/stie/finance.md)|
 |  |  | [Prompts yang Efektif](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
 |  |  | [ChatGPT Prompts Pakar](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
 |  |  | [215+ ChatGPT Prompts & Cara Menulis Prompts Sendiri](https://writesonic.com/blog/chatgpt-prompts)|
