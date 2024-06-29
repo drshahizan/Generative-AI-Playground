@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Generative-AI-Playground&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Seni AI
+# Latihan 7: Seni AI
 
 <p align="center">
  <img src="/images/batik1.jpeg"  height="300" />  <img src="/images/batik2.jpeg"  height="300" /> <img src="/images/cats2.jpeg"  height="300" /> 
