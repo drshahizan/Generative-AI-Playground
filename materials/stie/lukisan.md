@@ -7,6 +7,11 @@
 
 
 # Seni AI
+
+<p align="center">
+ <img src="/images/batik1.jpeg"  height="300" />  <img src="/images/batik2.jpeg"  height="300" /> <img src="/images/cats2.jpeg"  height="300" /> 
+</p>
+
 Seni AI menggunakan prompt Copilot adalah cara yang menarik untuk menciptakan karya seni digital dengan bantuan kecerdasan buatan. Berikut adalah beberapa langkah dan tips untuk menghasilkan seni AI yang menakjubkan:
 
 1. **Mulai dengan Konten yang Jelas**:
