@@ -13,9 +13,9 @@ Generatif AI dapat menjawab berbagai jenis pertanyaan, mulai dari pertanyaan umu
 
 | No. | Perkara                               | Arahan |
 |-----:|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | Tujuan dan Visi                       | Terangkan tujuan jangka panjang [Universitas anda] dan jelaskan bagaimana perencanaan strategis dapat membantu mencapai visi tersebut.                                 |
+| 1   | Tujuan dan Visi                       | Jelaskan tujuan jangka panjang [Universitas Anda] dan jelaskan bagaimana perencanaan strategis dapat membantu mencapai visi tersebut.                               |
 | 2   | Analisis SWOT                         | Jelaskan bagaimana analisis SWOT (Kekuatan, Kelemahan, Peluang, Ancaman) dapat membantu [Universitas anda] dalam merumuskan strategi.                                    |
-| 3   | Objektif SMART                        | Nyatakan objektif SMART (Khusus, Dapat diukur, Dapat dicapai, Relevan, Terikat waktu) yang ingin dicapai melalui perencanaan strategis ini.                 |
+| 3   | Objektif SMART                        | Nyatakan objektif SMART (Khusus, Dapat diukur, Dapat dicapai, Relevan, Terikat waktu) yang ingin anda capai melalui perencanaan strategis ini.                 |
 | 4   | Keterlibatan Pemangku Kepentingan     | Huraikan bagaimana [Universitas anda] bisa melibatkan pemangku kepentingan dalam proses perencanaan strategis.                                                            |
 | 5   | Pemantauan dan Penilaian              | Jelaskan mekanisme pemantauan dan penilaian yang akan digunakan untuk mengukur keberhasilan rencana strategis [Universitas anda].                                                 |
 | 6   | Perubahan dan Adaptasi                | Terangkan bagaimana organisasi [Universitas anda] akan menyesuaikan diri dengan perubahan dalam industri atau lingkungan makro.                                          |
