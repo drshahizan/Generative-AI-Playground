@@ -9,7 +9,7 @@
 # Latihan 1: Penggunaan Instruksi Generatif AI
 
 ## 1. Menjawab Pertanyaan
-Generatif AI dapat menjawab berbagai jenis pertanyaan, mulai dari pertanyaan umum hingga pertanyaan yang lebih spesifik. Berikut adalah soalan yang bisa Anda gunakan sebagai prompt untuk membahas perencanaan strategis:
+Generatif AI dapat menjawab berbagai jenis pertanyaan, mulai dari pertanyaan umum hingga pertanyaan yang lebih spesifik. Berikut adalah soalan yang bisa anda gunakan sebagai prompt untuk mendiskusikan perencanaan strategis:
 
 | No. | Perkara                               | Arahan |
 |-----:|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
