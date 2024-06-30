@@ -13,7 +13,7 @@ Seminar ini akan menyoroti penggunaan AI generatif dalam penulisan ilmiah. Dalam
 
 | No | Pelajaran | Topik |
 |--------|---------|---------|
-| 1.| Slaid |[Penulisan Artikel Ilmiah di Bidang Perbankan dengan Penerapan Kecerdasan Buatan](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/Ea4jHzBjWThBoiMKH93K5vQBWWfEFBIARMYtOUZf5sGs7Q?e=C5ZIoB)|
+| 1.| Slaid |[Penulisan Artikel Ilmiah di Bidang Perbankan dengan Penerapan Kecerdasan Buatan](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/ESfG6t7LHchPi4ZkYkc8wmkBIwJk60KZpsOHTPpF04gC3A?e=dQdMcP)|
 | 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)|
 | 3. | Pemasangan & Login |[ChatGPT, Copilot, Gemini](../materials/stie/signin.md)|
 | 4. | Latihan | [Latihan 1: Penggunaan Instruksi Generatif AI](../materials/stie/fungsi.md)|
