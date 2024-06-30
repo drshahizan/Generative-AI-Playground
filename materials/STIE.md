@@ -13,9 +13,9 @@ Seminar ini akan menyoroti penggunaan AI generatif dalam penulisan ilmiah. Dalam
 
 | No | Pelajaran | Topik |
 |--------|---------|---------|
-| 1.| Slaid |[Penulisan Artikel Ilmiah di Bidang Perbankan dengan Penerapan Kecerdasan Buatan](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/ESfG6t7LHchPi4ZkYkc8wmkBIwJk60KZpsOHTPpF04gC3A?e=dQdMcP)|
+| 1.| Slaide |[Penulisan Artikel Ilmiah Bidang Perbankan dengan Penerapan Kecerdasan Buatan](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/ESfG6t7LHchPi4ZkYkc8wmkBIwJk60KZpsOHTPpF04gC3A?e=dQdMcP)|
 | 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)|
-| 3. | Pemasangan & Login |[ChatGPT, Copilot, Gemini](../materials/stie/signin.md)|
+| 3. | Instalasi & Login |[ChatGPT, Copilot, Gemini](../materials/stie/signin.md)|
 | 4. | Latihan | [Latihan 1: Penggunaan Instruksi Generatif AI](../materials/stie/fungsi.md)|
 |  |  | [Latihan 2: Analisis Dokumen Menggunakan Copilot](../materials/stie/dokumen_copilot.md)|
 |  |  | [Latihan 3: MarkMap](../materials/stie/markmap.md)|
@@ -23,7 +23,7 @@ Seminar ini akan menyoroti penggunaan AI generatif dalam penulisan ilmiah. Dalam
 |  |  | [Latihan 5: Penggunaan Mermaid Charts](../materials/stie/mermaid.md)|
 |  |  | [Latihan 6: Analisis File CSV Menggunakan ChatGPT](../materials/stie/dokumen_chatgpt.md)|
 |  |  | [Latihan 7: Seni AI](../materials/stie/lukisan.md) |
-|  |  | [Think Machine: Pemetaan Pikiran Multidimensi](https://thinkmachine.com/) |
+|  |  | [Think Machine: Memetakan Pikiran Multidimensi](https://thinkmachine.com/) |
 | 5. | Arahan | [Kerangka Kerja Rantai Pemikiran (CoT)](../materials/gen_frame/1cot.md)|
 |  |  | [Kerangka Kerja RTF: _Role_, _Task_, dan _Format_](../materials/gen_frame/2rtf.md)|
 |  |  | [Kerangka Kerja BAB: _Before_, _After_, _Bridge_](../materials/gen_frame/3bab.md)|
@@ -32,7 +32,7 @@ Seminar ini akan menyoroti penggunaan AI generatif dalam penulisan ilmiah. Dalam
 |  |  | [Kerangka Kerja RISE: _Role, Input, Steps, Expectation_](../materials/gen_frame/6rise.md)|
 |  |  | [ChatGPT Prompts untuk Makalah Penelitian](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)|
 |  |  | [ChatGPT Prompts untuk Penulisan Akademik](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md)|
-|||[All Finance Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/stie/finance.md)|
+|||[Perintah Keuangan (prompts)](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/stie/finance.md)|
 |  |  | [Prompts yang Efektif](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
 |  |  | [ChatGPT Prompts Pakar](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
 |  |  | [215+ ChatGPT Prompts & Cara Menulis Prompts Sendiri](https://writesonic.com/blog/chatgpt-prompts)|
