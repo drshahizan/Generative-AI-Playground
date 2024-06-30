@@ -11,7 +11,7 @@ Seminar ini akan menyoroti penggunaan AI generatif dalam penulisan ilmiah. Dalam
 
 ## Materi Pembelajaran
 
-| No | Pelajaran | Topik |
+| No | Materi | Topik |
 |--------|---------|---------|
 | 1.| Slide |[Penulisan Artikel Ilmiah Bidang Perbankan dengan Penerapan Kecerdasan Buatan](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/ESfG6t7LHchPi4ZkYkc8wmkBIwJk60KZpsOHTPpF04gC3A?e=dQdMcP)|
 | 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)|
@@ -38,9 +38,9 @@ Seminar ini akan menyoroti penggunaan AI generatif dalam penulisan ilmiah. Dalam
 |  |  | [215+ ChatGPT Prompts & Cara Menulis Prompts Sendiri](https://writesonic.com/blog/chatgpt-prompts)|
 |  |  | [Berbicara dengan Copilot mengenai file PDF](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md)|
 
-## Maklumat Tambahan
+## Informasi Tambahan
 
-| No | Pelajaran | Topik |
+| No | Materi | Topik |
 |--------:|---------|---------|
 | 1. | Pengenalan AI | [Stunning AI Shows How It Would Kill 90%. with Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
 |  |  | [Artificial Intelligence: 60 Minutes](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
