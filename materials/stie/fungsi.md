@@ -59,7 +59,7 @@ Membantu untuk meringkas artikel, buku, atau dokumen lainnya. Berikut adalah beb
 |-----|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | Artikel Akademik    | Ringkas artikel ini yang membahas tentang inovasi teknologi di [Universitas anda] dan bagaimana itu mempengaruhi kualitas pendidikan serta penelitian universitas.         |
 | 2   | Laporan Penelitian  | Ringkas laporan ini yang mengkaji efektivitas program pelatihan industri yang diselenggarakan oleh [Universitas anda] dalam meningkatkan daya saing lulusan.                |
-| 3   | Buku                | Ringkas bab ini dalam buku tentang sejarah pendidikan tinggi di Indonesia yang khusus membahas peran [Universitas anda] dalam menyediakan akses pendidikan kepada Bumiputera. |
+| 3   | Buku                | Ringkas bab ini dalam buku tentang sejarah pendidikan tinggi di Indonesia yang khusus membahas peran [Universitas anda] dalam menyediakan akses pendidikan kepada semua golongan masyarakat. |
 | 4   | Artikel Berita      | Ringkas artikel ini yang melaporkan keberhasilan mahasiswa [Universitas anda] dalam kompetisi internasional dan dampak keberhasilan tersebut pada reputasi universitas.           |
 | 5   | Laporan Tahunan     | Ringkas bagian ini dari laporan tahunan [Universitas anda] yang mencakup pencapaian akademik, penelitian, dan layanan komunitas pada tahun lalu.                 |
 | 6   | Wawancara           | Ringkas wawancara ini dengan seorang dosen senior [Universitas anda] yang membahas perubahan kurikulum dan pendekatan pengajaran dalam era digital.                |
