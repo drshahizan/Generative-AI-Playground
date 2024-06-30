@@ -9,7 +9,7 @@
 
 Seminar ini akan menyoroti penggunaan AI generatif dalam penulisan ilmiah. Dalam seminar ini, peserta akan mempelajari bagaimana AI generatif dapat digunakan untuk menyusun artikel ilmiah dengan lebih efisien dan akurat. AI Generatif akan membantu dalam berbagai aspek penulisan, seperti pengumpulan dan analisis data, penyusunan kerangka penulisan, serta pembuatan konten berdasarkan tren terkini di bidang perbankan. Selain itu, seminar ini juga akan menunjukkan cara praktis penggunaan AI untuk mengoptimalkan gaya penulisan dan menjamin kualitas dan kredibilitas artikel ilmiah. Dengan demikian, para peneliti dan praktisi perbankan dapat menghasilkan karya ilmiah yang lebih berkualitas dan relevan dengan perkembangan teknologi terkini.
 
-## Bahan Pengajaran
+## Materi Pembelajaran
 
 | No | Pelajaran | Topik |
 |--------|---------|---------|
