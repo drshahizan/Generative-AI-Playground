@@ -19,6 +19,8 @@ Anda perlu memuat turun dokumen untuk membolehkan proses anlisis dokumen dilaksa
 4. [Khairati, R., Hakimi, R., & Azriani, Z. (2023). Factors that affect the rice farmer’s income in West Sumatra, Indonesia. *IOP Conference Series: Earth and Environmental Science*, 1160(1), 012066. DOI: 10.1088/1755-1315/1160/1/012066](https://iopscience.iop.org/article/10.1088/1755-1315/1160/1/012066/pdf).
 
 5. [Fauzia, K. R., Salimb, A., & Satriac, D. (2023). Eksplorasi Harga Bahan Pokok sebagai Indikator Dini Pengendalian Inflasi di Sumatera Barat. *Ecosains: Jurnal Ilmiah Ekonomi dan Pembangunan*, 12(1), 33-47. Retrieved from http://ejournal.unp.ac.id/index.php/ekosains](https://typeset.io/pdf/eksplorasi-harga-bahan-pokok-sebagai-indikator-dini-1fdm9dpm.pdf).
+
+6. [Aldillah, R., Rachmawati, R. R., Muslim, C., & Yaumidin, U. K. (2023). Potential for Development Beef Cattle in the Agro Techno Park Guguak, West Sumatra-Indonesia. *IOP Conference Series: Earth and Environmental Science*, 1180, 012014. DOI: 10.1088/1755-1315/1180/1/012014](https://iopscience.iop.org/article/10.1088/1755-1315/1180/1/012014/pdf)
   
 ## 2. Cara untuk membuka fail di Microsoft Edge
 Untuk membuka dokumen PDF yang bernama "paper1.pdf" di Microsoft Edge, sila ikuti langkah-langkah ini:
