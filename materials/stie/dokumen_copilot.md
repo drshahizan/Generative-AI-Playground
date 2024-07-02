@@ -12,7 +12,7 @@ Anda perlu memuat turun dokumen untuk membolehkan proses anlisis dokumen dilaksa
 
 1. [Li, J., **Othman, M. S.**, Chen, H., & Yusuf, L. M. (2024). Optimizing IoT intrusion detection system: feature selection versus feature extraction in machine learning. *Journal of Big Data, 11*, Article 36. https://doi.org/10.1186/s40537-024-00892-y](../../images/paper1.pdf)
 
-2. Zulkifli, Z. (2022). Indonesian Economic Democracy: Debates, Challenges and Opportunities. *Tatar Pasundan: Jurnal Diklat Keagamaan*, 16(2), 190-204. DOI: 10.38075/tp.v16i2.303.
+2. [Zulkifli, Z. (2022). Indonesian Economic Democracy: Debates, Challenges and Opportunities. *Tatar Pasundan: Jurnal Diklat Keagamaan*, 16(2), 190-204. DOI: 10.38075/tp.v16i2.303](https://bdkbandung.id/tatarpasundan/jurnal/index.php/tp/article/view/303).
 
 3. [Hidayat, T., & Amir, Y. (2022). Keunikan Tradisi Pertunangan Masyarakat Padang Pariaman. *Turast: Jurnal Penelitian dan Pengabdian*, 10(1), 1-15. DOI: 10.15548/turast.v10i1.4436](https://ejournal.uinib.ac.id/jurnal/index.php/turast/article/view/4436/3117).
 
