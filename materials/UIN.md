@@ -9,20 +9,21 @@
 
 Seminar ini akan mengeksplorasi bagaimana teknologi Generatif AI merevolusi metode penulisan ilmiah di bidang ekonomi dan perbankan. Teknologi ini mampu menganalisis data secara mendalam dan menghasilkan teks yang berkualitas tinggi, sehingga membuka peluang baru untuk peningkatan efisiensi dan akurasi dalam penelitian. Namun, di balik peluang tersebut, terdapat tantangan signifikan yang harus dihadapi, termasuk isu etika, bias algoritma, dan integrasi teknologi ini ke dalam metodologi penelitian tradisional. Seminar ini akan membahas secara mendalam peluang yang dapat dimanfaatkan serta tantangan yang perlu diatasi untuk memaksimalkan potensi Generatif AI dalam penulisan ilmiah di bidang ekonomi dan perbankan.
 
-## Bahan Pengajaran
+## Materi Pembelajaran
 
-| No | Pelajaran | Topik |
+| No | Materi | Topik |
 |--------|---------|---------|
-| 1.| Slaid |[Penulisan Artikel Ilmiah di Bidang Perbankan dengan Penerapan Kecerdasan Buatan](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/Ea4jHzBjWThBoiMKH93K5vQBWWfEFBIARMYtOUZf5sGs7Q?e=C5ZIoB)|
+| 1.| Slide |[Penulisan Artikel Ilmiah Bidang Perbankan dengan Penerapan Kecerdasan Buatan](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/ESfG6t7LHchPi4ZkYkc8wmkBIwJk60KZpsOHTPpF04gC3A?e=dQdMcP)|
 | 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)|
-| 3. | Pemasangan & Login |[ChatGPT, Copilot, Gemini](../materials/stie/signin.md)|
+| 3. | Instalasi & Login |[ChatGPT, Copilot, Gemini](../materials/stie/signin.md)|
 | 4. | Latihan | [Latihan 1: Penggunaan Instruksi Generatif AI](../materials/stie/fungsi.md)|
 |  |  | [Latihan 2: Analisis Dokumen Menggunakan Copilot](../materials/stie/dokumen_copilot.md)|
 |  |  | [Latihan 3: MarkMap](../materials/stie/markmap.md)|
 |  |  | [Latihan 4: Analisis Gambar Menggunakan ChatGPT](../materials/stie/dokumen_untw.md)|
-|  |  | [Latihan 5: Analisis File CSV Menggunakan ChatGPT](../materials/stie/dokumen_chatgpt.md)|
-|  |  | [Latihan 6: Seni Budaya Malaysia](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
-|  |  | [Think Machine: Pemetaan Pikiran Multidimensi](https://thinkmachine.com/) |
+|  |  | [Latihan 5: Penggunaan Mermaid Charts](../materials/stie/mermaid.md)|
+|  |  | [Latihan 6: Analisis File CSV Menggunakan ChatGPT](../materials/stie/dokumen_chatgpt.md)|
+|  |  | [Latihan 7: Seni AI](../materials/stie/lukisan.md) |
+|  |  | [Think Machine: Memetakan Pikiran Multidimensi](https://thinkmachine.com/) |
 | 5. | Arahan | [Kerangka Kerja Rantai Pemikiran (CoT)](../materials/gen_frame/1cot.md)|
 |  |  | [Kerangka Kerja RTF: _Role_, _Task_, dan _Format_](../materials/gen_frame/2rtf.md)|
 |  |  | [Kerangka Kerja BAB: _Before_, _After_, _Bridge_](../materials/gen_frame/3bab.md)|
@@ -31,14 +32,15 @@ Seminar ini akan mengeksplorasi bagaimana teknologi Generatif AI merevolusi meto
 |  |  | [Kerangka Kerja RISE: _Role, Input, Steps, Expectation_](../materials/gen_frame/6rise.md)|
 |  |  | [ChatGPT Prompts untuk Makalah Penelitian](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)|
 |  |  | [ChatGPT Prompts untuk Penulisan Akademik](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md)|
+|||[Perintah Keuangan (prompts)](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/stie/finance.md)|
 |  |  | [Prompts yang Efektif](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
 |  |  | [ChatGPT Prompts Pakar](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
 |  |  | [215+ ChatGPT Prompts & Cara Menulis Prompts Sendiri](https://writesonic.com/blog/chatgpt-prompts)|
 |  |  | [Berbicara dengan Copilot mengenai file PDF](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md)|
 
-## Maklumat Tambahan
+## Informasi Tambahan
 
-| No | Pelajaran | Topik |
+| No | Materi | Topik |
 |--------:|---------|---------|
 | 1. | Pengenalan AI | [Stunning AI Shows How It Would Kill 90%. with Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
 |  |  | [Artificial Intelligence: 60 Minutes](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
