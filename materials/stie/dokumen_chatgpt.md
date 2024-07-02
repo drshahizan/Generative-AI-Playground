@@ -20,7 +20,7 @@ Anda perlu memuat turun dokumen untuk membolehkan proses anlisis dokumen dilaksa
 1. Sila muat naik fail population_malaysia.csv di kotak input chatgpt dan masukkan arahan 'huraikan berkaitan data ini' (sila rujuk Rajah berikut). 
 
 <p align="center">
-<img src="../../images/chatgpt1.png"  height="150" />
+<img src="https://github.com/drshahizan/ai-tools/tree/main/images/chatgpt1.png"  height="150" />
 </p>
 
 2. Hasil perlaksanaan adalah:
