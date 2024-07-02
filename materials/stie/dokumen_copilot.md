@@ -16,8 +16,9 @@ Anda perlu memuat turun dokumen untuk membolehkan proses anlisis dokumen dilaksa
 
 3. [Hidayat, T., & Amir, Y. (2022). Keunikan Tradisi Pertunangan Masyarakat Padang Pariaman. *Turast: Jurnal Penelitian dan Pengabdian*, 10(1), 1-15. DOI: 10.15548/turast.v10i1.4436](https://ejournal.uinib.ac.id/jurnal/index.php/turast/article/view/4436/3117).
 
+4. [Khairati, R., Hakimi, R., & Azriani, Z. (2023). Factors that affect the rice farmer’s income in West Sumatra, Indonesia. *IOP Conference Series: Earth and Environmental Science*, 1160(1), 012066. DOI: 10.1088/1755-1315/1160/1/012066](https://iopscience.iop.org/article/10.1088/1755-1315/1160/1/012066/pdf).
 
-   
+  
 ## 2. Cara untuk membuka fail di Microsoft Edge
 Untuk membuka dokumen PDF yang bernama "paper1.pdf" di Microsoft Edge, sila ikuti langkah-langkah ini:
 1. Sila muat turun dokumen tersebut. Setelah itu **Cari dokumen PDF** yang ingin anda buka di komputer anda.
