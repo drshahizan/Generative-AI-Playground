@@ -7,7 +7,7 @@
 
 # Transformasi Penulisan Ilmiah dalam Bidang Ekonomi dan Perbankan melalui Generatif AI: Peluang dan Tantangan
 
-Kuliah umum ini akan mengeksplorasi bagaimana teknologi Generatif AI merevolusi metode penulisan ilmiah di bidang ekonomi dan perbankan. Teknologi ini mampu menganalisis data secara mendalam dan menghasilkan teks yang berkualitas tinggi, sehingga membuka peluang baru untuk peningkatan efisiensi dan akurasi dalam penelitian. Namun, di balik peluang tersebut, terdapat tantangan signifikan yang harus dihadapi, termasuk isu etika, bias algoritma, dan integrasi teknologi ini ke dalam metodologi penelitian tradisional. Kuliah ini akan membahas secara mendalam peluang yang dapat dimanfaatkan serta tantangan yang perlu diatasi untuk memaksimalkan potensi Generatif AI dalam penulisan ilmiah di bidang ekonomi dan perbankan.
+Kuliah ini menyoroti bagaimana teknologi kecerdasan buatan (AI) dapat digunakan untuk mempercepat dan memperbaiki proses penulisan artikel. Dalam kuliah ini, akan dibincangkan pelbagai alat AI yang tersedia, seperti pemproses bahasa semula jadi (NLP) yang membantu dalam menghasilkan idea, menyusun draf, dan menyunting artikel. Kuliah ini juga akan menerangkan cara menggunakan AI untuk memastikan keaslian dan kualiti penulisan, serta bagaimana AI dapat berfungsi sebagai alat sokongan kepada penulis untuk mengatasi kebuntuan kreatif dan meningkatkan produktiviti. Selain itu, perbincangan juga akan menyentuh tentang etika dan tanggungjawab dalam menggunakan AI untuk penulisan, memastikan hasil kerja adalah sahih dan tidak melanggar hak cipta.
 
 ## Materi Pembelajaran
 
