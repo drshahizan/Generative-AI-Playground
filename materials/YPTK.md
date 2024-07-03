@@ -13,7 +13,7 @@ Kuliah ini menyoroti bagaimana teknologi kecerdasan buatan (AI) dapat digunakan 
 
 | No | Materi | Topik |
 |--------|---------|---------|
-| 1.| Slide |[Menulis Artikel dengan Bantuan Kecerdasan Buatan](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EVgeHPHLMLNFm_35UJSwxH8BgOSt4Rugw12g8cHHKFTm-Q?e=BHS6Hl)|
+| 1.| Slide |[Menulis Artikel dengan Bantuan Kecerdasan Buatan](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EW0MhpQ4VEJIgrnWWiPpLF0BZGkRGpxQ7yyzZGtrJMtv0A?e=H8S4bg)|
 | 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)|
 | 3. | Instalasi & Login |[ChatGPT, Copilot, Gemini](../materials/stie/signin.md)|
 | 4. | Latihan | [Latihan 1: Penggunaan Instruksi Generatif AI](../materials/stie/fungsi.md)|
