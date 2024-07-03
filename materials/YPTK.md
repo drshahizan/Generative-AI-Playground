@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/Generative-AI-Playground/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Generative-AI-Playground?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Generative-AI-Playground&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Transformasi Penulisan Ilmiah dalam Bidang Ekonomi dan Perbankan melalui Generatif AI: Peluang dan Tantangan
+#  Menulis Artikel dengan Bantuan Kecerdasan Buatan
 
 Kuliah ini menyoroti bagaimana teknologi kecerdasan buatan (AI) dapat digunakan untuk mempercepat dan memperbaiki proses penulisan artikel. Dalam kuliah ini, akan dibincangkan pelbagai alat AI yang tersedia, seperti pemproses bahasa semula jadi (NLP) yang membantu dalam menghasilkan idea, menyusun draf, dan menyunting artikel. Kuliah ini juga akan menerangkan cara menggunakan AI untuk memastikan keaslian dan kualiti penulisan, serta bagaimana AI dapat berfungsi sebagai alat sokongan kepada penulis untuk mengatasi kebuntuan kreatif dan meningkatkan produktiviti. Selain itu, perbincangan juga akan menyentuh tentang etika dan tanggungjawab dalam menggunakan AI untuk penulisan, memastikan hasil kerja adalah sahih dan tidak melanggar hak cipta.
 
