@@ -55,11 +55,6 @@ Seminar ini akan membahas bagaimana teknologi AI Generatif mengubah metode penul
 | 3.   | Penemuan Makalah | Temukan makalah penelitian yang relevan menggunakan alat ini. Alat ini membantu menemukan artikel ilmiah yang terkait dengan topik tertentu.| <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d2-ELR.md" ><img src="https://raw.githubusercontent.com/drshahizan/ai-tools/main/images/brave-ai.png" width="24px" height="24px" ></a> |
 | 4.   | Visualisasi Makalah | Visualisasikan makalah penelitian dan koneksinya. Alat ini membantu memahami hubungan kompleks antara karya akademik.| <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-visualization.md" ><img src="https://raw.githubusercontent.com/drshahizan/ai-tools/main/images/brave-ai.png" width="24px" height="24px" ></a> |
 
-## Informasi Tambahan
-
-1. [Useful AI Tools](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/aitools1.md)
-2. [AI Tools for Various Tasks](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/aitools1.md)
-
 | No | Materi | Topik |
 |--------:|---------|---------|
 | 1. | Pengenalan AI | [Stunning AI Shows How It Would Kill 90%. with Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
