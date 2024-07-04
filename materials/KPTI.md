@@ -22,9 +22,10 @@ Seminar ini akan membahas bagaimana teknologi AI Generatif mengubah metode penul
 | No | Materi | Topik |
 |--------|---------|---------|
 | 1.| Slide |[Menulis Artikel dengan Bantuan Kecerdasan Buatan](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EW0MhpQ4VEJIgrnWWiPpLF0BZGkRGpxQ7yyzZGtrJMtv0A?e=H8S4bg)|
-| 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)|
-| 3. | Instalasi & Login |[ChatGPT, Copilot, Gemini](../materials/stie/signin.md)|
-| 4. | Latihan | [Latihan 1: Penggunaan Instruksi Generatif AI](../materials/stie/fungsi.md)|
+| 2.| Slide |[Menulis Artikel dengan Bantuan Kecerdasan Buatan](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EW0MhpQ4VEJIgrnWWiPpLF0BZGkRGpxQ7yyzZGtrJMtv0A?e=H8S4bg)|
+| 3.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)|
+| 4. | Instalasi & Login |[ChatGPT, Copilot, Gemini](../materials/stie/signin.md)|
+| 5. | Latihan | [Latihan 1: Penggunaan Instruksi Generatif AI](../materials/stie/fungsi.md)|
 |  |  | [Latihan 2: Analisis Dokumen Menggunakan Copilot](../materials/stie/dokumen_copilot.md)|
 |  |  | [Latihan 3: MarkMap](../materials/stie/markmap.md)|
 |  |  | [Latihan 4: Analisis Gambar Menggunakan ChatGPT](../materials/stie/dokumen_untw.md)|
@@ -32,7 +33,7 @@ Seminar ini akan membahas bagaimana teknologi AI Generatif mengubah metode penul
 |  |  | [Latihan 6: Analisis File CSV Menggunakan ChatGPT](../materials/stie/dokumen_chatgpt.md)|
 |  |  | [Latihan 7: Seni AI](../materials/stie/lukisan.md) |
 |  |  | [Think Machine: Memetakan Pikiran Multidimensi](https://thinkmachine.com/) |
-| 5. | Arahan | [Kerangka Kerja Rantai Pemikiran (CoT)](../materials/gen_frame/1cot.md)|
+| 6. | Arahan | [Kerangka Kerja Rantai Pemikiran (CoT)](../materials/gen_frame/1cot.md)|
 |  |  | [Kerangka Kerja RTF: _Role_, _Task_, dan _Format_](../materials/gen_frame/2rtf.md)|
 |  |  | [Kerangka Kerja BAB: _Before_, _After_, _Bridge_](../materials/gen_frame/3bab.md)|
 |  |  | [Kerangka Kerja TAG: _Task, Action, Goal_](../materials/gen_frame/4tag.md)|
