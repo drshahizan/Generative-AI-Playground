@@ -11,6 +11,21 @@ Kuliah ini menyoroti bagaimana teknologi kecerdasan buatan (AI) dapat digunakan 
 
 ## Materi Pembelajaran
 
+### 1. AI Tools
+
+| No. | Topic                                             | Content | File | 
+|----: |----------------------------------------------------|------|------|
+| 1.   | Top Computer Science Literature Databases | This tool provides access to prominent databases containing computer science literature. Researchers and academics can explore relevant papers, articles, and research findings in the field of computer science. | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d2-LR.md" ><img src="../../images/brave-ai.png" width="24px" height="24px" ></a> |
+| 2.   | Research Gaps | This tool helps identify gaps in existing research. Researchers can use it to pinpoint areas where further investigation is needed. | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d1-gaps.md" ><img src="../../images/brave-ai.png" width="24px" height="24px" ></a> |
+| 3.   | Paper Discovery | Discover relevant research papers using this tool. It assists in finding scholarly articles related to specific topics.| <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d2-ELR.md" ><img src="../../images/brave-ai.png" width="24px" height="24px" ></a> |
+| 4.   | Paper Visualization | Visualize research papers and their connections. This tool aids in understanding complex relationships between academic works.| <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-visualization.md" ><img src="../../images/brave-ai.png" width="24px" height="24px" ></a> |
+
+#### Additional Notes
+2. [Useful AI Tools](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/aitools1.md)
+3. [AI Tools for Various Tasks](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/aitools1.md)
+
+### 2. Generative AI
+
 | No | Materi | Topik |
 |--------|---------|---------|
 | 1.| Slide |[Menulis Artikel dengan Bantuan Kecerdasan Buatan](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EW0MhpQ4VEJIgrnWWiPpLF0BZGkRGpxQ7yyzZGtrJMtv0A?e=H8S4bg)|
