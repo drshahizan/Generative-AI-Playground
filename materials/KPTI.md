@@ -10,9 +10,10 @@
 Seminar ini akan membahas bagaimana teknologi AI Generatif mengubah metode penulisan dan penelitian dalam bidang ilmu sosial. Dengan kemampuan AI Generatif untuk menganalisis data skala besar dan menghasilkan teks yang mendalam serta relevan, teknologi ini menawarkan peluang baru bagi para peneliti untuk menciptakan konten yang lebih inovatif dan informatif. Seminar ini akan mengeksplorasi aplikasi praktis AI Generatif dalam penulisan ilmiah, mengidentifikasi tantangan etis dan metodologis yang mungkin timbul, serta menyediakan platform diskusi bagi akademisi untuk berbagi pengalaman dan strategi dalam memanfaatkan teknologi ini guna mendorong batas-batas penelitian tradisional.
 
 <p align="center">
-  <img src="/images/KPTI.jpeg"  height="200" />
+  <img src="../../images/KPTI.jpeg"  height="200" />
 
 </p>
+
 **✨ Forum Kerjasama & Stadium General PTKIS Se-Sumatera Barat dengan Fakultas Komputasi UTM ✨**
 
 📅 **Hari/Tanggal**: Jumat, 05 Juli 2024  
