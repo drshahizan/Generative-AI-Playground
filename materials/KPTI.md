@@ -5,20 +5,20 @@
 <a href="https://github.com/drshahizan/Generative-AI-Playground/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Generative-AI-Playground?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Generative-AI-Playground&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Revolusi Penulisan Ilmu Sosial: Integrasi AI Generatif untuk Konten yang Inovatif
-
-Seminar ini akan membahas bagaimana teknologi AI Generatif mengubah metode penulisan dan penelitian dalam bidang ilmu sosial. Dengan kemampuan AI Generatif untuk menganalisis data skala besar dan menghasilkan teks yang mendalam serta relevan, teknologi ini menawarkan peluang baru bagi para peneliti untuk menciptakan konten yang lebih inovatif dan informatif. Seminar ini akan mengeksplorasi aplikasi praktis AI Generatif dalam penulisan ilmiah, mengidentifikasi tantangan etis dan metodologis yang mungkin timbul, serta menyediakan platform diskusi bagi akademisi untuk berbagi pengalaman dan strategi dalam memanfaatkan teknologi ini guna mendorong batas-batas penelitian tradisional.
+# ✨ Forum Kerjasama & Stadium General PTKIS Se-Sumatera Barat dengan Fakultas Komputasi UTM ✨
 
 <p align="center">
   <img src="../images/KPTIbanner.jpeg"  height="200" />
 
 </p>
 
-**✨ Forum Kerjasama & Stadium General PTKIS Se-Sumatera Barat dengan Fakultas Komputasi UTM ✨**
-
 📅 **Hari/Tanggal**: Jumat, 05 Juli 2024  
 🕗 **Waktu**: 08.00 - 17.00  
 🏨 **Tempat**: Hotel ZHM Premiere, Kota Padang
+
+## Revolusi Penulisan Ilmu Sosial: Integrasi AI Generatif untuk Konten yang Inovatif
+
+Seminar ini akan membahas bagaimana teknologi AI Generatif mengubah metode penulisan dan penelitian dalam bidang ilmu sosial. Dengan kemampuan AI Generatif untuk menganalisis data skala besar dan menghasilkan teks yang mendalam serta relevan, teknologi ini menawarkan peluang baru bagi para peneliti untuk menciptakan konten yang lebih inovatif dan informatif. Seminar ini akan mengeksplorasi aplikasi praktis AI Generatif dalam penulisan ilmiah, mengidentifikasi tantangan etis dan metodologis yang mungkin timbul, serta menyediakan platform diskusi bagi akademisi untuk berbagi pengalaman dan strategi dalam memanfaatkan teknologi ini guna mendorong batas-batas penelitian tradisional.
 
 ## Materi Pembelajaran
 
