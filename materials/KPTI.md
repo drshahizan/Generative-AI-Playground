@@ -21,8 +21,8 @@ Seminar ini akan membahas bagaimana teknologi AI Generatif mengubah metode penul
 
 | No | Materi | Topik |
 |--------|---------|---------|
-| 1.| Slide |[Integrasi AI Generatif untuk Konten yang Inovatif](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EW0MhpQ4VEJIgrnWWiPpLF0BZGkRGpxQ7yyzZGtrJMtv0A?e=H8S4bg)|
-| 2.| Slide |[Menulis Artikel dengan Bantuan Kecerdasan Buatan](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EW0MhpQ4VEJIgrnWWiPpLF0BZGkRGpxQ7yyzZGtrJMtv0A?e=H8S4bg)|
+| 1.| Slide |[Integrasi AI Generatif untuk Konten yang Inovatif](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EWU3QtS9mhtBtdtK2ESnpEkB4FG_Zt7SoWHzqFdjs02mow?e=bCkyQz)|
+| 2.| Slide |[Menulis Artikel dengan Bantuan Kecerdasan Buatan](https://liveutm-my.sharepoint.com/:p:/g/personal/shahizan_live_utm_my/Ef2aJ2ydkUpHqRX1RCSKdCsBPfQTBpbjJB_RGaOOSZSLbQ?e=EQww3t)|
 | 3.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)|
 | 4. | Instalasi & Login |[ChatGPT, Copilot, Gemini](../materials/stie/signin.md)|
 | 5. | Latihan | [Latihan 1: Penggunaan Instruksi Generatif AI](../materials/stie/fungsi.md)|
