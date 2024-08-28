@@ -12,7 +12,10 @@ A single master prompt is a comprehensive guide for research proposal.
 
 #### Prompt:
 ```
-Provide a detailed and comprehensive guide to [Your Topic], covering all essential stages and components of a research proposal. Include information on [title creation], [executive summary], [problem statement], [hypothesis development], [research questions], [literature review], [methodology], [milestones], [expected results and benefits], and [potential applications of findings].
+Provide a detailed and comprehensive guide to [Your Topic], covering all essential stages and components of a
+research proposal. Include information on [title creation], [executive summary], [problem statement],
+[hypothesis development], [research questions], [literature review], [methodology], [milestones],
+[expected results and benefits], and [potential applications of findings].
 ```
 
 (Note: This prompt is structured to guide the user through the process of developing a research proposal for any topic by simply replacing **"[Your Topic]"** with the specific subject matter they are working on.)
