@@ -19,11 +19,6 @@ Provide a detailed and comprehensive guide to [Your Topic], covering all essenti
 
 ## Prompts for Research Papers
 
-Here’s how you can format the AI prompts using Markdown for inclusion in your GitHub repository:
-
-
-# AI Prompts for Research Proposals
-
 This document contains AI-generated prompts that can be used for developing research proposals on any topic. Replace `[Your Topic]` with your specific research topic.
 
 ## 1. Title of Proposed Research Project
