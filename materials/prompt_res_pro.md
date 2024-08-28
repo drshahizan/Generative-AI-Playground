@@ -18,7 +18,7 @@ research proposal. Include information on [title creation], [executive summary],
 [expected results and benefits], and [potential applications of findings].
 ```
 
-(Note: This prompt is structured to guide the user through the process of developing a research proposal for any topic by simply replacing **"[Your Topic]"** with the specific subject matter they are working on.)
+(Note: This prompt is structured to guide the user through the process of developing a research proposal for any topic by simply replacing **[Your Topic]** with the specific subject matter they are working on.)
 
 ## Prompts for Research Papers
 
