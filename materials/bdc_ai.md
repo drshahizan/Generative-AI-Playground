@@ -5,11 +5,9 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Managing Change as a Leader in Digital Transformative Era
-## Slot 3 & 4: Understanding AI, Data Science and Its Use in Universities & How AI tools can be used by University Academic Managers
+# Generative AI (Artificial Intelligence) in Administration
 
-
-<img src="https://github.com/drshahizan/ai-tools/blob/main/images/Gambar.webp" style="width:250px;"  align="left">
+<img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/BDC_AI.jpeg" style="width:250px;"  align="left">
 
 **Synopsis:**<br>
 This workshop is designed to demystify the concepts of Artificial Intelligence (AI) and Data Science, particularly in the context of higher education. Participants will gain a comprehensive understanding of how these technologies are reshaping the landscape of academia, from enhancing teaching and learning experiences to streamlining administrative functions.
