@@ -7,16 +7,12 @@
 
 # Generative AI (Artificial Intelligence) in Administration
 
-<img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/BDC_AI.jpeg" style="width:250px;"  align="left">
+<img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/BDC_AI.jpeg" style="width:270px;"  align="left">
 
 **Synopsis:**<br>
-This workshop is designed to demystify the concepts of Artificial Intelligence (AI) and Data Science, particularly in the context of higher education. Participants will gain a comprehensive understanding of how these technologies are reshaping the landscape of academia, from enhancing teaching and learning experiences to streamlining administrative functions.
+The **Generative AI in Administration** course is designed to provide participants with a comprehensive understanding of how AI tools, such as **Gemini Co-pilot** and **ChatGPT**, can transform administrative tasks. The course will cover key concepts of generative AI and its potential applications in the workplace, focusing on how it can be used to improve efficiency, productivity, and collaboration within teams. Participants will gain practical experience through hands-on exercises, learning how to draft documents, structure reports, and manage administrative workflows more effectively using AI-powered tools. The integration of AI into routine tasks will also be explored, demonstrating how it can streamline operations and reduce manual efforts.
 
-The workshop will begin with an introduction to the fundamentals of AI and Data Science, exploring their core principles, current applications, and future potential. This will be followed by a deep dive into how these technologies are being integrated into university settings, including examples of successful implementations worldwide.
-
-A key focus will be on the practical use of AI tools by university academic managers. Participants will learn how AI can assist in decision-making processes, optimize resource allocation, and improve student outcomes. Through interactive sessions, attendees will explore case studies and participate in hands-on activities, demonstrating how AI tools can be leveraged for curriculum design, student performance analysis, and operational efficiency.
-
-By the end of the workshop, academic managers will be equipped with the knowledge and skills to effectively incorporate AI and Data Science into their institutions, driving innovation and maintaining a competitive edge in the rapidly evolving educational landscape.
+In addition to document handling, the course will delve into the use of generative AI for data management and analysis. Participants will learn how to generate reports, analyze data in real-time, and automate repetitive administrative processes, enhancing overall productivity. The final session will focus on best practices for utilizing AI in collaborative settings, allowing participants to understand how these tools can improve teamwork and communication. By the end of the course, participants will have a strong grasp of how to incorporate AI technologies into their daily administrative tasks to enhance efficiency and drive results.
 
 ### Teaching Materials
 
