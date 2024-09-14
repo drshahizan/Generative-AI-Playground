@@ -20,20 +20,16 @@ In addition to document handling, the course will delve into the use of generati
 |-------------------|----------------------------------------------------------------------------------------------------------------|
 | 8:00 – 8:30 AM    | Registration                                                                                                   |
 | 8:30 – 10:30 AM   | Introduction to Generative AI in Administration                                                                |
-|                   | A brief introduction to the role of Generative AI in administration and how tools like Gemini Co-pilot and      |
-|                   | ChatGPT can improve productivity.                                                                              |
+|                   | A brief introduction to the role of Generative AI in administration and how tools like Gemini Co-pilot and ChatGPT can improve productivity.                                                                              |
 | 10:30 – 11:00 AM  | Break                                                                                                          |
 | 11:00 – 1:00 PM   | Using Generative AI for Document Structuring                                                                   |
-|                   | Demonstration and hands-on exercises on how ChatGPT can be used to quickly and efficiently organize official    |
-|                   | letters, reports, and other administrative documents.                                                          |
+|                   | Demonstration and hands-on exercises on how ChatGPT can be used to quickly and efficiently organize official letters, reports, and other administrative documents.                                                          |
 | 1:00 – 2:00 PM    | Lunch Break                                                                                                    |
 | 2:00 – 3:30 PM    | Data Management and Analysis                                                                                   |
-|                   | Explanation and hands-on training on how Generative AI tools can be used for data management, report generation,|
-|                   | and real-time data analysis.                                                                                   |
+|                   | Explanation and hands-on training on how Generative AI tools can be used for data management, report generation, and real-time data analysis. |
 | 3:30 – 3:40 PM    | Break                                                                                                          |
 | 3:40 – 5:00 PM    | Collaboration and Automation                                                                                   |
-|                   | Hands-on session where participants learn how to use Generative AI tools to improve team collaboration and      |
-|                   | automate daily administrative tasks.                                                                          |
+|                   | Hands-on session where participants learn how to use Generative AI tools to improve team collaboration and automate daily administrative tasks.                                                                          |
 | 5:00 PM           | End                                                                                                            |
 
 ### Teaching Materials
