@@ -19,8 +19,7 @@ In addition to document handling, the course will delve into the use of generati
 | Time              | Activity                                                                                                        |
 |-------------------|----------------------------------------------------------------------------------------------------------------|
 | 8:00 – 8:30 AM    | Registration                                                                                                   |
-| 8:30 – 10:30 AM   | Introduction to Generative AI in Administration                                                                |
-|                   | A brief introduction to the role of Generative AI in administration and how tools like Gemini Co-pilot and ChatGPT can improve productivity.                                                                              |
+| 8:30 – 10:30 AM   | Introduction to Generative AI in Administration <br>A brief introduction to the role of Generative AI in administration and how tools like Gemini Co-pilot and ChatGPT can improve productivity.                                                                              |
 | 10:30 – 11:00 AM  | Break                                                                                                          |
 | 11:00 – 1:00 PM   | Using Generative AI for Document Structuring                                                                   |
 |                   | Demonstration and hands-on exercises on how ChatGPT can be used to quickly and efficiently organize official letters, reports, and other administrative documents.                                                          |
