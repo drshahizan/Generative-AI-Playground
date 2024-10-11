@@ -94,7 +94,7 @@ visualised in the mind map.
 ## 2. [MarkMap](https://markmap.js.org/repl)
 Paste the Markdown code into [MarkMap](https://markmap.js.org/repl): Open Markmap and paste your copied markdown content. Markmap will automatically generate an interactive mind map based on the markdown structure.
 
-**Example**: Amanat Naib Canselor
+**Example**: Penulisan Artikel Ilmiah di Bidang Perbankan
 
 <p align="center">
 <img src="../../images/stie.png" height="600" />
