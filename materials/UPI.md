@@ -15,6 +15,21 @@ Kuliah ini menyoroti bagaimana teknologi kecerdasan buatan (AI) dapat digunakan 
 
 ## Materi Pembelajaran
 
+# Literature Search
+
+| No.  | Name | Description | Info | Tools |
+|------: | ------------------|-----|:--------:|:--------:|
+| 1. |Zeta Alpha| Zeta Alpha is the best Neural Discovery Platform for AI and beyond. Use state-of-the-art Neural Search and Generative AI to improve how you and your team discover, organize and share internal knowledge. Make better decisions, avoid reinventing the wheel, make staying in the know effortless, and make an impact with your work faster.|<a href="https://drshahizan.gitbook.io/ai-tools/ai-tools/lit-search/zeta-alpha" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="https://search.zeta-alpha.com/" ><img src="../images/download.gif" width="24px" height="24px" ></a> |
+| 2. | Publish or Perish | Publish or Perish is a software program that retrieves and analyzes academic citations. It uses various publicly available data sources to obtain the raw citations, then analyzes these and calculates a series of citation metrics. The results are available on-screen and can also be copied to the Windows clipboard (for pasting into other applications) or saved to a text file (for future reference or further analysis). |<a href="https://drshahizan.gitbook.io/ai-tools/ai-tools/lit-search/publish-or-perish" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="https://harzing.com/resources/publish-or-perish" ><img src="../images/download.gif" width="24px" height="24px" ></a> |
+| 8. |Zeta Alpha| Zeta Alpha is the best Neural Discovery Platform for AI and beyond. Use state-of-the-art Neural Search and Generative AI to improve how you and your team discover, organize and share internal knowledge. Make better decisions, avoid reinventing the wheel, make staying in the know effortless, and make an impact with your work faster.|<a href="https://drshahizan.gitbook.io/ai-tools/ai-tools/lit-search/zeta-alpha" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="https://search.zeta-alpha.com/" ><img src="../images/download.gif" width="24px" height="24px" ></a> |
+| 11. | scite.ai | Scite.ai is a AI-powered platform that helps researchers evaluate the credibility of research papers. It does this by analyzing the citations of a paper and comparing them to other papers in the same field. This allows researchers to see how a paper has been received by the scientific community and to identify potential problems with the paper's methodology or conclusions.|<a href="https://drshahizan.gitbook.io/ai-tools/ai-tools/lit-search/scite-ai" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="https://scite.ai/" ><img src="../images/download.gif" width="24px" height="24px" ></a> |
+
+
+
+
+
+
+
 ### 1. AI Tools
 
 | No. | Topik                                             | Konten | File | 
