@@ -32,9 +32,6 @@ Here is the table translated into Bahasa Indonesia:
 | 9. | **[SciSpace](https://typeset.io/)** | SciSpace (sebelumnya Typeset.io) adalah platform berbasis AI yang dirancang untuk menyederhanakan proses membaca, menulis, dan berkolaborasi dalam makalah akademis. Ini menyediakan template untuk naskah penelitian, mendukung berbagai gaya sitasi, dan menawarkan manajemen sitasi terintegrasi. SciSpace membantu memastikan bahwa makalah diformat dengan benar untuk pengajuan ke jurnal, menghemat waktu dan usaha peneliti. |
 | 10. | **[Humata AI](https://www.humata.ai)** | Humata AI adalah alat berbasis AI yang membantu peneliti dan profesional membaca dan menganalisis dokumen dengan lebih cepat. Alat ini dapat meringkas, menyoroti wawasan kunci, dan menghasilkan jawaban berdasarkan konten dokumen, menjadikannya alat yang kuat untuk mempercepat alur kerja penelitian, meningkatkan pemahaman dokumen, dan meningkatkan produktivitas. |
 
-Let me know if you need further adjustments!
-
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
 
