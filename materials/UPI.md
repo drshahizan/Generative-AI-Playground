@@ -19,21 +19,12 @@ Kuliah ini menyoroti bagaimana teknologi kecerdasan buatan (AI) dapat digunakan 
 
 | No.  | Name | Description | 
 |------: | ------------------|-----|
-| 1. |[Zeta Alpha](https://search.zeta-alpha.com/)| Zeta Alpha is the best Neural Discovery Platform for AI and beyond. Use state-of-the-art Neural Search and Generative AI to improve how you and your team discover, organize and share internal knowledge. Make better decisions, avoid reinventing the wheel, make staying in the know effortless, and make an impact with your work faster.
-| 2. | [Publish or Perish](https://harzing.com/resources/publish-or-perish) | Publish or Perish is a software program that retrieves and analyzes academic citations. It uses various publicly available data sources to obtain the raw citations, then analyzes these and calculates a series of citation metrics. The results are available on-screen and can also be copied to the Windows clipboard (for pasting into other applications) or saved to a text file (for future reference or further analysis). 
-| 8. | [scite.ai](https://scite.ai/) | Scite.ai is a AI-powered platform that helps researchers evaluate the credibility of research papers. It does this by analyzing the citations of a paper and comparing them to other papers in the same field. This allows researchers to see how a paper has been received by the scientific community and to identify potential problems with the paper's methodology or conclusions.|
-| 8. | **[MarkMap](https://github.com/drshahizan/ai-tools/blob/main/materials/markmap.md)** | Markmap is a tool that visualizes markdown documents as interactive mind maps. It's useful for organizing and navigating complex information, making it easier to understand and explore the content. |
-| 8.| **[SciSpace](https://typeset.io/)** | Offers AI tools for literature review, including finding new, connected papers using a visual graph. |
-| 8.| **[Research Rabbit](https://www.researchrabbit.ai/)** | Research Rabbit is a research discovery tool that helps you find new, connected papers using a visual graph. You can essentially create maps around metadata, which helps you not only explore similar papers but also connections between them.  |
-| 8.| **[Consensus.app](https://consensus.app/)** | Consensus.app works by first extracting the key information from research papers. This information includes the paper's title, abstract, keywords, and main findings. The platform then uses AI to summarize this information into a concise and easy-to-understand format. |
-| 8.| **[Scite](https://scite.ai/partners/publishers)** | Analyzes the quality and credibility of research papers. While not directly identifying gaps, Scite's analysis of existing research limitations can point researchers towards areas needing more information or investigation. |
-| 8.|**[LitMaps](https://www.litmaps.com/)**|This tool creates visual maps of research topics based on AI analysis of scholarly articles. These maps can reveal under-explored areas within the topic.|
-| 8.| **[Semantic Scholar](https://www.semanticscholar.org/)** | Offers AI-powered "augmented reader" to analyze research paper structure, highlight key information, and connect to relevant articles, revealing potential areas for further study. | 
-
-
-
-
-
+| 1. |**[Zeta Alpha](https://search.zeta-alpha.com/)**| Zeta Alpha is the best Neural Discovery Platform for AI and beyond. Use state-of-the-art Neural Search and Generative AI to improve how you and your team discover, organize and share internal knowledge. Make better decisions, avoid reinventing the wheel, make staying in the know effortless, and make an impact with your work faster.
+| 2. | **[Publish or Perish](https://harzing.com/resources/publish-or-perish)** | Publish or Perish is a software program that retrieves and analyzes academic citations. It uses various publicly available data sources to obtain the raw citations, then analyzes these and calculates a series of citation metrics. The results are available on-screen and can also be copied to the Windows clipboard (for pasting into other applications) or saved to a text file (for future reference or further analysis). 
+| 6.|**[LitMaps](https://www.litmaps.com/)**|This tool creates visual maps of research topics based on AI analysis of scholarly articles. These maps can reveal under-explored areas within the topic.|
+| 7. | **[MarkMap](https://github.com/drshahizan/ai-tools/blob/main/materials/markmap.md)** | Markmap is a tool that visualizes markdown documents as interactive mind maps. It's useful for organizing and navigating complex information, making it easier to understand and explore the content. |
+| 8. | **[scite.ai](https://scite.ai/)** | Scite.ai is a AI-powered platform that helps researchers evaluate the credibility of research papers. It does this by analyzing the citations of a paper and comparing them to other papers in the same field. This allows researchers to see how a paper has been received by the scientific community and to identify potential problems with the paper's methodology or conclusions.|
+| 9.| **[SciSpace](https://typeset.io/)** | Offers AI tools for literature review, including finding new, connected papers using a visual graph. |
 
 ### 1. AI Tools
 
