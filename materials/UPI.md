@@ -9,9 +9,9 @@
 
 Kuliah ini menyoroti bagaimana teknologi kecerdasan buatan (AI) dapat digunakan untuk mempercepat dan memperbaiki proses penulisan artikel. Dalam kuliah ini, akan dibincangkan pelbagai alat AI yang tersedia, seperti pemproses bahasa semula jadi (NLP) yang membantu dalam menghasilkan idea, menyusun draf, dan menyunting artikel. Kuliah ini juga akan menerangkan cara menggunakan AI untuk memastikan keaslian dan kualiti penulisan, serta bagaimana AI dapat berfungsi sebagai alat sokongan kepada penulis untuk mengatasi kebuntuan kreatif dan meningkatkan produktiviti. Selain itu, perbincangan juga akan menyentuh tentang etika dan tanggungjawab dalam menggunakan AI untuk penulisan, memastikan hasil kerja adalah sahih dan tidak melanggar hak cipta.
 
-<a href="https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UPI.md">
- <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/Upi_ai_tools.jpeg" alt="Image Alt Text"  height="200">
-</a>
+<p align="center">
+ <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/Upi_ai_tools.jpeg" alt="Image Alt Text"  height="500">
+</p>
 
 ## Materi Pembelajaran
 
