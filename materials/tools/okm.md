@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/Generative-AI-Playground/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Generative-AI-Playground?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# [Open Knowledge Maps]()
+# [Open Knowledge Maps](https://openknowledgemaps.org/)
 
 **Open Knowledge Maps** adalah platform web yang memungkinkan para peneliti, akademisi, dan mahasiswa untuk menjelajahi dan memvisualisasikan hasil pencarian literatur ilmiah secara lebih intuitif. Platform ini berfokus pada penyajian literatur ilmiah dalam bentuk peta visual, yang memudahkan pengguna untuk memahami keterkaitan antar-topik penelitian dan menemukan makalah-makalah penting yang relevan dengan bidang studi mereka. 
 
