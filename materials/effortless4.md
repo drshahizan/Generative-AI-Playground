@@ -7,12 +7,44 @@
 
 #  Model 4: The Effortless AI Literature Review
 
-**The Effortless AI Literature Review** merujuk pada proses tinjauan literatur yang memanfaatkan teknologi kecerdasan buatan (AI) untuk mempercepat dan menyederhanakan alur kerja penelitian. Dengan bantuan berbagai alat AI, proses ini memungkinkan peneliti untuk menemukan, membaca, menganalisis, dan menyusun literatur ilmiah secara lebih efisien, mulai dari pencarian sumber hingga penyusunan naskah akhir.
-
 <p align="center">
  <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/effortless4.jpg"  height="500">
 </p>
 
+### Tahapan dalam Alur Kerja "AI-Assisted Literature Review":
+
+1. **Menemukan Artikel Bibit (Seed Papers)**:
+   - Langkah awal adalah menemukan artikel bibit atau artikel kunci menggunakan platform AI seperti *SciSpace*, *Connected Papers*, atau *Google Scholar*. Artikel ini berfungsi sebagai dasar untuk memperluas pencarian literatur yang lebih luas.
+
+2. **Mengeksplorasi Sitasi**:
+   - Setelah menemukan artikel bibit, peneliti mengeksplorasi sitasi menggunakan alat seperti *Litmaps* untuk memahami bagaimana artikel tersebut terhubung dengan penelitian lain. Ini membantu dalam melihat jaringan referensi dan memastikan relevansi literatur.
+
+3. **Menemukan Celah Penelitian (Finding Gaps)**:
+   - Dalam tahap ini, AI digunakan untuk membantu menemukan celah penelitian yang belum banyak diteliti. Ini membantu peneliti mengidentifikasi area penelitian baru yang bisa diambil sebagai fokus.
+
+4. **Pembacaan Mendalam (Deep Reading) Artikel Kunci**:
+   - Menggunakan *Obsidian*, peneliti dapat melakukan pembacaan mendalam dari artikel kunci untuk merangkum ide-ide utama dan konsep penting dalam penelitian tersebut.
+
+5. **Pembuatan Daftar Bacaan Terkurasi (Curated Reading List)**:
+   - Dengan bantuan AI (seperti ChatGPT atau alat serupa), daftar bacaan terkurasi dibuat, yang merupakan kumpulan literatur yang dipilih berdasarkan relevansi dan kualitas. Ini memungkinkan peneliti untuk fokus pada sumber yang paling penting.
+
+6. **Koleksi Artikel Besar (Big Paper Collection)**:
+   - Setelah daftar bacaan terkurasi selesai, semua literatur yang relevan disusun menjadi koleksi besar menggunakan alat seperti *Zotero*. Ini berfungsi sebagai basis data untuk referensi lebih lanjut.
+
+7. **Skim dan Pemindaian Artikel**:
+   - Tahap ini menggunakan alat AI untuk men-skim dan memindai artikel secara cepat (misalnya melalui *AI PDF*). Alat ini memudahkan peneliti untuk mengekstrak informasi penting dari artikel yang lebih panjang tanpa harus membaca secara manual keseluruhan teks.
+
+8. **Catatan Konseptual (Conceptual Notes)**:
+   - Peneliti dapat membuat catatan konseptual dari artikel-artikel yang telah dianalisis, menggunakan *Obsidian* untuk menyusun ide-ide utama dan membantu dalam pengembangan kerangka berpikir yang jelas.
+
+9. **Bantuan Sitasi AI (AI Citation Assistance)**:
+   - Alat AI membantu dalam membuat sitasi secara otomatis dengan menghubungkan artikel yang relevan ke dalam naskah penelitian. Ini memastikan bahwa setiap rujukan yang digunakan akurat dan sesuai dengan standar akademik.
+
+10. **Outline Kerja (Working Outline)**:
+   - Kerangka tulisan dibuat menggunakan *Microsoft Word* berdasarkan catatan konseptual dan literatur yang telah diproses. Tahap ini penting untuk mengatur alur tulisan sebelum memasuki tahap penulisan penuh.
+
+11. **Bantuan Penulisan AI (AI Writing Assistance)**:
+   - Pada tahap ini, alat bantu penulisan AI membantu menyusun kalimat, memperbaiki tata bahasa, serta memberikan saran gaya penulisan untuk meningkatkan kualitas manuskrip yang sedang disusun.
 
 
 ## Contribution 🛠️
