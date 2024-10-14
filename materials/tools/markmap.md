@@ -53,9 +53,10 @@ Berikut adalah beberapa fitur utama **MarkMap**:
 - **Dukungan Markdown**: Sangat berguna bagi pengguna yang sudah terbiasa menggunakan format Markdown dalam pekerjaan sehari-hari.
 
 ## Latihan
-## 1. Prompt to create a mind map
-Please type this prompt in tools like Copilot, Gemini, and ChatGPT.
 
+1. Prompt untuk membuat peta pikiran
+
+Silakan ketik prompt ini di alat seperti Copilot, Gemini, dan ChatGPT.
   ```
 a mind map with a structured list that is centred on [Your Topic]. Create a Markdown version of the mind map.
 Start with the primary concept that embodies the primary theme found in the data. Create primary branches based on
@@ -100,8 +101,8 @@ visualised in the mind map.
 - **Symptoms**: Galls or knots on roots, stunted growth
 - **Management**: Nematicides, crop rotation
 ```
-## 2. [MarkMap](https://markmap.js.org/repl)
-Paste the Markdown code into [MarkMap](https://markmap.js.org/repl): Open Markmap and paste your copied markdown content. Markmap will automatically generate an interactive mind map based on the markdown structure.
+2. [MarkMap](https://markmap.js.org/repl)
+Tempel kode Markdown ke dalam [MarkMap](https://markmap.js.org/repl): Buka Markmap dan tempelkan konten markdown yang sudah disalin. Markmap akan secara otomatis menghasilkan peta pikiran interaktif berdasarkan struktur markdown.
 
 **Example**: Rice Disease
 
@@ -109,16 +110,16 @@ Paste the Markdown code into [MarkMap](https://markmap.js.org/repl): Open Markma
 <img src="https://github.com/drshahizan/ai-tools/blob/main/images/markmap.png" height="250" />
 </p>
 
-## 3. Interact with Your Mind Map
-You can expand or collapse branches, zoom in and out, and pan around to explore different parts of the mind map.
+## 3. Berinteraksi dengan Peta Pikiran Anda
+Anda dapat memperluas atau menyembunyikan cabang, memperbesar dan memperkecil, serta menggeser untuk menjelajahi bagian-bagian berbeda dari peta pikiran.
 
-Remember, Markmap supports various markdown features such as:
-- **Styling**: Apply bold, italic, strikethrough, and highlights to text.
-- **Code Blocks**: Include code snippets or formulas.
-- **Images and Links**: Embed images and create hyperlinks.
+Ingat, Markmap mendukung berbagai fitur markdown seperti:
 
-For a detailed guide and advanced features, you can refer to the [Markmap documentation](https://mindmapexpert.com/review/how-to-create-a-mind-map-using-markmap-js/) or visit the [Markmap GitHub repository](https://github.com/dundalek/markmap). Enjoy creating and navigating your mind maps
+- **Pemformatan**: Terapkan teks tebal, miring, coret, dan sorotan.
+- **Blok Kode**: Sertakan cuplikan kode atau rumus.
+- **Gambar dan Tautan**: Sematkan gambar dan buat tautan.
 
+Untuk panduan lebih rinci dan fitur lanjutan, Anda dapat merujuk ke [dokumentasi Markmap](https://mindmapexpert.com/review/how-to-create-a-mind-map-using-markmap-js/) atau kunjungi [repositori GitHub Markmap](https://github.com/dundalek/markmap). Selamat membuat dan menjelajahi peta pikiran Anda!
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
