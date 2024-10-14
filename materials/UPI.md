@@ -21,6 +21,9 @@ Bengkel ini menyoroti penggunaan teknologi kecerdasan buatan (AI) dalam memperce
 AI dapat membantu dalam beberapa aspek tinjauan literatur, seperti pencarian dokumen yang relevan, penemuan pola dan tema kunci, serta penyusunan ringkasan informasi yang paling signifikan. Melalui proses ini, peneliti bisa mendapatkan pemahaman yang lebih mendalam terhadap topik mereka tanpa harus tersesat dalam kompleksitas data yang berlebihan.
 
 Selain itu, AI juga memungkinkan identifikasi celah penelitian dengan lebih cepat, sehingga peneliti dapat dengan lebih mudah menentukan arah penelitian yang berpotensi untuk dieksplorasi lebih lanjut. Dengan begitu, "The Effortless AI Literature Review" memberikan manfaat signifikan bagi peneliti, baik dari segi efisiensi waktu maupun ketepatan informasi, sehingga memungkinkan mereka untuk lebih fokus pada penemuan dan pengembangan ide-ide baru yang relevan.
+
+[Model 1](effortless.md)
+
 ### 10 Alat AI Terbaik untuk Mendukung Penelitian Akademik dan Pengelolaan Pengetahuan
 
 
