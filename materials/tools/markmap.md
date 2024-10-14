@@ -65,7 +65,7 @@ patterns, or insights for every major branch. Make sure the linkages and hierarc
 visualised in the mind map.
   ```
 
-**Example**: Rice Disease
+**Contoh**: Rice Disease
   ```
 # Rice Disease Mind Map
 ## Bacterial Diseases
