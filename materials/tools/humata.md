@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/Generative-AI-Playground/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Generative-AI-Playground?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# [Humata AI]()
+# [Humata AI](https://www.humata.ai/)
 
 **Humata AI** adalah platform berbasis kecerdasan buatan (AI) yang dirancang untuk membantu pengguna dalam membaca, memahami, dan menganalisis dokumen secara lebih cepat dan efisien. Humata AI memungkinkan pengguna untuk mengunggah berbagai jenis dokumen (seperti PDF atau Word) dan menggunakan AI untuk mengekstrak informasi penting, menjawab pertanyaan terkait isi dokumen, serta merangkum konten secara otomatis. Alat ini sangat berguna bagi peneliti, profesional, dan akademisi yang sering harus meninjau atau mengolah dokumen yang kompleks.
 
