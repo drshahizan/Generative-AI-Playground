@@ -10,7 +10,7 @@
 **Publish or Perish** adalah perangkat lunak gratis yang dirancang untuk membantu akademisi dan peneliti menganalisis dampak dari penelitian yang dipublikasikan berdasarkan jumlah kutipan. Dikembangkan oleh Anne-Wil Harzing, perangkat ini sangat berguna untuk menemukan kutipan dari berbagai sumber, terutama Google Scholar, dan membantu pengguna memahami pengaruh penelitian dalam konteks akademis. 
 
 <p align="center">
- <img src="https://zav-release-notes.s3.eu-central-1.amazonaws.com/assets/new-design.jpg"  height="400">
+ <img src="https://harzing.com/popbook/img/image001.png"  height="400">
 </p>
 
 Berikut adalah beberapa fitur utama **Publish or Perish**:
