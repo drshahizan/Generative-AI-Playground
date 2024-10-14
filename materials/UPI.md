@@ -22,8 +22,12 @@ AI dapat membantu dalam beberapa aspek tinjauan literatur, seperti pencarian dok
 
 Selain itu, AI juga memungkinkan identifikasi celah penelitian dengan lebih cepat, sehingga peneliti dapat dengan lebih mudah menentukan arah penelitian yang berpotensi untuk dieksplorasi lebih lanjut. Dengan begitu, "The Effortless AI Literature Review" memberikan manfaat signifikan bagi peneliti, baik dari segi efisiensi waktu maupun ketepatan informasi, sehingga memungkinkan mereka untuk lebih fokus pada penemuan dan pengembangan ide-ide baru yang relevan.
 
-[Model 1](effortless.md)
-
+1. [**Model 1**](effortless1.md)
+2. [**Model 2**](effortless2.md)
+3. [**Model 3**](effortless3.md)
+4. [**Model 4**](effortless4.md)
+5. [**Model 5**](effortless5.md)
+   
 ### 10 Alat AI Terbaik untuk Mendukung Penelitian Akademik dan Pengelolaan Pengetahuan
 
 
