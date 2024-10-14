@@ -7,13 +7,37 @@
 
 #  Model 3: The Effortless AI Literature Review
 
-**The Effortless AI Literature Review** merujuk pada proses tinjauan literatur yang memanfaatkan teknologi kecerdasan buatan (AI) untuk mempercepat dan menyederhanakan alur kerja penelitian. Dengan bantuan berbagai alat AI, proses ini memungkinkan peneliti untuk menemukan, membaca, menganalisis, dan menyusun literatur ilmiah secara lebih efisien, mulai dari pencarian sumber hingga penyusunan naskah akhir.
+Alur kerja ini menggunakan kombinasi alat-alat berbasis AI seperti *Google Scholar*, *scite.ai*, *ArxivGPT*, *Zotero*, dan *Obsidian* untuk menyederhanakan dan mempercepat proses penelitian literatur akademik. Dari menemukan artikel bibit hingga menyusun catatan dan menulis, AI berperan penting dalam meningkatkan efisiensi dan kualitas penelitian.
 
 <p align="center">
  <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/effortless3.webp"  height="500">
 </p>
 
+### Alur Kerja AI-Assisted Literature Review:
 
+1. **Menemukan "Seeds" (Artikel Bibit)**:
+   - Langkah pertama adalah menemukan artikel bibit menggunakan alat seperti *Google Scholar* dan *scite.ai*. Artikel bibit ini merupakan dasar penelitian yang akan digunakan untuk memperluas eksplorasi literatur di kemudian hari.
+
+2. **Analisis AI**:
+   - Setelah menemukan artikel bibit, tahap berikutnya adalah menggunakan AI seperti *ArxivGPT* untuk melakukan analisis lebih mendalam terhadap artikel tersebut. Analisis ini membantu untuk memahami isi artikel dan relevansinya dengan topik penelitian.
+
+3. **Koleksi Literatur**:
+   - Artikel yang relevan dikumpulkan menggunakan *Zotero*, yang berfungsi sebagai manajemen referensi. Alat ini membantu dalam menyimpan dan mengorganisir literatur penelitian yang akan digunakan.
+
+4. **Penemuan dan Pengembangan Koleksi (Discovery and Growing Collection)**:
+   - Dengan bantuan alat seperti *Litmaps*, peneliti dapat mengeksplorasi sitasi dari artikel yang telah dikumpulkan untuk menemukan lebih banyak artikel yang relevan dan memperluas koleksi literatur.
+
+5. **Filter Relevansi**:
+   - Setelah literatur terkumpul, dilakukan penyaringan relevansi untuk memprioritaskan artikel-artikel yang paling sesuai dengan topik penelitian. Tahap ini memastikan bahwa literatur yang digunakan adalah yang paling relevan.
+
+6. **Pembacaan Mendalam (Reading)**:
+   - Artikel yang lolos penyaringan relevansi akan dibaca secara mendalam. Ini adalah proses kritis untuk memahami informasi yang disediakan oleh artikel dan relevansinya dengan penelitian yang sedang dikerjakan.
+
+7. **Pencatatan**:
+   - Setelah pembacaan mendalam, peneliti menggunakan *Obsidian* untuk mencatat ide-ide utama dan informasi penting dari artikel tersebut. Catatan ini akan membantu dalam menyusun argumen dan kerangka penelitian.
+
+8. **Penulisan (Writing)**:
+   - Setelah semua langkah sebelumnya selesai, peneliti memulai tahap penulisan. Pada tahap ini, semua literatur, analisis, dan catatan yang telah dikumpulkan digunakan untuk menyusun draf tulisan akademik.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
