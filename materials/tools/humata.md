@@ -7,31 +7,44 @@
 
 # [Humata AI]()
 
-**Zeta Alpha** adalah platform riset berbasis kecerdasan buatan (AI) yang dirancang untuk membantu para peneliti, profesional, dan akademisi dalam menelusuri, menganalisis, serta memahami literatur ilmiah dengan lebih efektif dan efisien. Web ini memanfaatkan teknologi AI canggih untuk mengelola informasi yang luas dan kompleks, membuat pencarian dan analisis makalah ilmiah menjadi lebih cepat, tepat sasaran, dan relevan dengan topik yang dicari.
+**Humata AI** adalah platform berbasis kecerdasan buatan (AI) yang dirancang untuk membantu pengguna dalam membaca, memahami, dan menganalisis dokumen secara lebih cepat dan efisien. Humata AI memungkinkan pengguna untuk mengunggah berbagai jenis dokumen (seperti PDF atau Word) dan menggunakan AI untuk mengekstrak informasi penting, menjawab pertanyaan terkait isi dokumen, serta merangkum konten secara otomatis. Alat ini sangat berguna bagi peneliti, profesional, dan akademisi yang sering harus meninjau atau mengolah dokumen yang kompleks.
 
 <p align="center">
- <img src="https://zav-release-notes.s3.eu-central-1.amazonaws.com/assets/new-design.jpg"  height="400">
+ <img src="https://blog.invgate.com/hs-fs/hubfs/humata.webp?width=2048&height=1050&name=humata.webp"  height="400">
 </p>
 
-Berikut adalah beberapa fitur utama yang ditawarkan oleh Zeta Alpha:
+Berikut adalah fitur utama **Humata AI**:
 
-1. **Pencarian Cerdas Berbasis AI**  
-   Zeta Alpha menggunakan algoritma pencarian berbasis AI yang memungkinkan pengguna menemukan literatur ilmiah yang relevan dengan lebih akurat. Dengan menggunakan kata kunci atau pertanyaan penelitian, AI Zeta Alpha akan menyaring dan mengurutkan makalah ilmiah yang sesuai, membantu pengguna menemukan informasi paling penting di tengah jutaan publikasi yang ada.
+### 1. **Penjawab Pertanyaan Berbasis Dokumen**
+   - Salah satu fitur unggulan Humata AI adalah kemampuannya untuk **menjawab pertanyaan** yang diajukan oleh pengguna terkait isi dokumen. Pengguna dapat mengunggah dokumen dan kemudian mengetik pertanyaan, seperti "Apa poin utama dari bagian ini?" atau "Bagaimana metodologi penelitian yang digunakan?" Humata AI akan mengekstrak dan memberikan jawaban dari konten dokumen tersebut, membantu pengguna memahami bagian penting tanpa harus membaca seluruh teks.
 
-2. **Analisis Tren Riset**  
-   Selain sekadar mencari makalah, Zeta Alpha juga menyediakan alat analisis yang dapat membantu pengguna memahami tren riset terkini dalam suatu bidang. AI di platform ini menganalisis pola publikasi, membantu menemukan topik yang sedang naik daun atau yang mendapatkan perhatian lebih besar dari komunitas ilmiah.
+### 2. **Pembuatan Ringkasan Otomatis**
+   - **Humata AI** memiliki kemampuan untuk **merangkum dokumen** secara otomatis. Ini sangat berguna jika Anda memiliki dokumen yang panjang dan ingin mendapatkan ringkasan singkat dari isi utamanya. Fitur ini membantu pengguna mendapatkan pemahaman cepat mengenai dokumen tanpa harus membaca semuanya secara mendalam, terutama untuk makalah ilmiah, laporan bisnis, atau studi kasus yang kompleks.
 
-3. **Sistem Rekomendasi yang Dipersonalisasi**  
-   Zeta Alpha dapat memberikan rekomendasi makalah berdasarkan preferensi dan riwayat pencarian pengguna. Sistem ini mempelajari pola pencarian dan ketertarikan pengguna, lalu menyarankan artikel yang relevan atau terkait secara langsung dengan penelitian sebelumnya.
+### 3. **Analisis Dokumen yang Mendalam**
+   - Humata AI tidak hanya menyediakan jawaban atas pertanyaan langsung, tetapi juga memungkinkan pengguna untuk melakukan **analisis mendalam** terhadap dokumen yang diunggah. AI ini dapat menyoroti bagian-bagian penting dari teks, memberikan penjelasan lebih lanjut, dan membantu pengguna memahami konteks atau detail yang kompleks dengan lebih cepat.
 
-4. **Visualisasi Data dan Jaringan Pengetahuan**  
-   Platform ini memiliki fitur visualisasi jaringan pengetahuan yang memungkinkan pengguna untuk melihat bagaimana artikel-artikel ilmiah terkait satu sama lain. Dengan peta visual ini, pengguna dapat mengidentifikasi hubungan antara konsep, penulis, dan makalah, sehingga lebih mudah dalam menyusun tinjauan literatur atau menemukan celah dalam riset.
+### 4. **Pengunggahan Berbagai Jenis Dokumen**
+   - Pengguna dapat mengunggah berbagai jenis dokumen ke dalam platform, termasuk **PDF, Word, PPT**, dan format lainnya. Ini memudahkan integrasi dokumen dari berbagai sumber, baik itu artikel jurnal, laporan teknis, slide presentasi, maupun buku teks. Dengan mendukung berbagai format, Humata AI memberikan fleksibilitas bagi pengguna yang bekerja dengan dokumen dalam format berbeda.
 
-5. **Penelusuran Lintas Disiplin**  
-   Zeta Alpha sangat berguna bagi pengguna dari berbagai disiplin ilmu, termasuk ilmu komputer, manajemen, ilmu sosial, dan teknik. Dengan kemampuan pencarian lintas disiplin, platform ini membantu menghubungkan ide-ide dari berbagai bidang untuk mendorong penelitian interdisipliner.
+### 5. **Peningkatan Efisiensi Riset**
+   - Untuk peneliti, akademisi, atau profesional yang sering bekerja dengan makalah atau laporan yang panjang, Humata AI sangat berguna dalam meningkatkan efisiensi riset. Pengguna dapat **mengajukan pertanyaan yang sangat spesifik** kepada AI terkait dengan isi dokumen, seperti metode penelitian, hasil, atau temuan, tanpa harus membaca seluruh makalah. Ini mempercepat proses pencarian informasi penting dalam literatur yang panjang dan kompleks.
 
-6. **Alat Kolaborasi**  
-   Platform ini juga mendukung kolaborasi antar-peneliti dengan fitur-fitur yang memungkinkan pengguna untuk berbagi temuan dan literatur dengan rekan tim, serta berdiskusi melalui anotasi pada makalah yang ditemukan.
+### 6. **Akses yang Mudah dan Cepat**
+   - Humata AI dirancang agar mudah digunakan. Pengguna hanya perlu mengunggah dokumen dan bisa langsung mulai menggunakan fitur seperti penjawab pertanyaan atau pembuatan ringkasan. Platform ini tidak memerlukan pengaturan teknis yang rumit, menjadikannya sangat cocok untuk pengguna dari berbagai latar belakang tanpa pengalaman teknis yang mendalam.
+
+### 7. **Analisis Kolaboratif**
+   - Humata AI juga mendukung kolaborasi dalam tim. Pengguna dapat membagikan dokumen dan hasil analisis dengan rekan satu tim, sehingga memudahkan kolaborasi antar-peneliti atau antar-profesional dalam memproses informasi bersama-sama. Hal ini membuat proses penelitian atau analisis dokumen besar menjadi lebih efisien saat dikerjakan oleh beberapa orang.
+
+### 8. **Keamanan Data**
+   - Platform ini juga menjamin **keamanan data** dengan menjaga dokumen yang diunggah pengguna. Humata AI biasanya menggunakan protokol keamanan standar untuk memastikan bahwa dokumen yang diunggah dan diproses tetap aman dan tidak diakses oleh pihak ketiga yang tidak berwenang.
+
+### Keunggulan **Humata AI**:
+- **Efisiensi Riset**: Meningkatkan kecepatan memahami dokumen yang panjang dengan menjawab pertanyaan secara langsung dan membuat ringkasan otomatis.
+- **Fleksibilitas Format**: Mendukung berbagai format dokumen, dari PDF hingga Word dan PPT.
+- **Penggunaan yang Mudah**: Tidak memerlukan konfigurasi teknis yang rumit dan dapat langsung digunakan setelah mengunggah dokumen.
+- **Kolaborasi**: Memungkinkan kerja tim dalam menganalisis dan memahami dokumen secara lebih efisien.
+- **Keamanan Data**: Menjamin dokumen yang diunggah tetap aman dan tidak disebarluaskan tanpa izin.
 
 ## Latihan
 
