@@ -80,8 +80,6 @@ Berikut adalah beberapa fitur utama yang ditawarkan oleh Zeta Alpha:
    - **Langkah 6**: Diskusikan hasil dengan dosen dan kelompok.
    - **Tujuan**: Memahami bagaimana blockchain dapat meningkatkan transparansi dalam pengelolaan keuangan perusahaan.
 
-Latihan hands-on ini memberikan kesempatan kepada mahasiswa untuk secara langsung mengeksplorasi topik riset yang relevan dengan studi mereka, sambil melatih keterampilan analisis dan pemecahan masalah berbasis data.
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
 
