@@ -5,80 +5,53 @@
 <a href="https://github.com/drshahizan/Generative-AI-Playground/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Generative-AI-Playground?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# [Inciteful]()
+# [MarkMap](https://markmap.js.org/)
 
-**Zeta Alpha** adalah platform riset berbasis kecerdasan buatan (AI) yang dirancang untuk membantu para peneliti, profesional, dan akademisi dalam menelusuri, menganalisis, serta memahami literatur ilmiah dengan lebih efektif dan efisien. Web ini memanfaatkan teknologi AI canggih untuk mengelola informasi yang luas dan kompleks, membuat pencarian dan analisis makalah ilmiah menjadi lebih cepat, tepat sasaran, dan relevan dengan topik yang dicari.
+**MarkMap** adalah alat berbasis web yang memungkinkan pengguna membuat peta pikiran (mind maps) interaktif dari teks Markdown. Ini adalah solusi yang sangat efisien untuk mengonversi dokumen teks biasa yang ditulis dalam format Markdown menjadi visualisasi peta konsep yang mudah dipahami. MarkMap cocok digunakan untuk berbagai keperluan seperti penyusunan ide, presentasi, dokumentasi, atau perencanaan proyek.
 
 <p align="center">
- <img src="https://zav-release-notes.s3.eu-central-1.amazonaws.com/assets/new-design.jpg"  height="400">
+ <img src="https://easyaibeginner.com/wp-content/uploads/markmap_example_mind_map-1024x471.png"  height="400">
 </p>
 
-Berikut adalah beberapa fitur utama yang ditawarkan oleh Zeta Alpha:
+Berikut adalah beberapa fitur utama **MarkMap**:
 
-1. **Pencarian Cerdas Berbasis AI**  
-   Zeta Alpha menggunakan algoritma pencarian berbasis AI yang memungkinkan pengguna menemukan literatur ilmiah yang relevan dengan lebih akurat. Dengan menggunakan kata kunci atau pertanyaan penelitian, AI Zeta Alpha akan menyaring dan mengurutkan makalah ilmiah yang sesuai, membantu pengguna menemukan informasi paling penting di tengah jutaan publikasi yang ada.
+### 1. **Konversi Markdown ke Peta Pikiran**
+   - MarkMap secara otomatis mengonversi dokumen yang ditulis dalam format **Markdown** menjadi **peta pikiran** yang visual. Pengguna dapat membuat daftar, subdaftar, dan hierarki konten di dalam Markdown, dan MarkMap akan mengubahnya menjadi struktur peta pikiran yang jelas dan interaktif.
 
-2. **Analisis Tren Riset**  
-   Selain sekadar mencari makalah, Zeta Alpha juga menyediakan alat analisis yang dapat membantu pengguna memahami tren riset terkini dalam suatu bidang. AI di platform ini menganalisis pola publikasi, membantu menemukan topik yang sedang naik daun atau yang mendapatkan perhatian lebih besar dari komunitas ilmiah.
+### 2. **Visualisasi Hierarki yang Jelas**
+   - Peta pikiran yang dihasilkan oleh MarkMap menampilkan struktur hierarki yang jelas, dengan cabang-cabang yang mewakili subtopik atau poin-poin kunci. Ini sangat membantu pengguna dalam menyusun atau menganalisis ide-ide yang kompleks, karena visualisasi hierarki mempermudah pemahaman bagaimana berbagai ide atau konsep saling terhubung.
 
-3. **Sistem Rekomendasi yang Dipersonalisasi**  
-   Zeta Alpha dapat memberikan rekomendasi makalah berdasarkan preferensi dan riwayat pencarian pengguna. Sistem ini mempelajari pola pencarian dan ketertarikan pengguna, lalu menyarankan artikel yang relevan atau terkait secara langsung dengan penelitian sebelumnya.
+### 3. **Interaktivitas**
+   - Peta pikiran yang dihasilkan bersifat **interaktif**, memungkinkan pengguna untuk memperbesar atau memperkecil cabang tertentu dengan mengkliknya. Ini berguna untuk menjelajahi ide-ide yang lebih spesifik atau memperluas topik besar tanpa kehilangan gambaran keseluruhan.
 
-4. **Visualisasi Data dan Jaringan Pengetahuan**  
-   Platform ini memiliki fitur visualisasi jaringan pengetahuan yang memungkinkan pengguna untuk melihat bagaimana artikel-artikel ilmiah terkait satu sama lain. Dengan peta visual ini, pengguna dapat mengidentifikasi hubungan antara konsep, penulis, dan makalah, sehingga lebih mudah dalam menyusun tinjauan literatur atau menemukan celah dalam riset.
+### 4. **Kemudahan Penggunaan**
+   - MarkMap menyediakan antarmuka yang sangat mudah digunakan. Pengguna hanya perlu menulis atau menempelkan teks dalam format Markdown ke dalam editor yang disediakan, dan peta pikiran akan dihasilkan secara otomatis. Tidak diperlukan pengaturan atau konfigurasi yang rumit, menjadikannya alat yang ramah bagi pengguna dari berbagai tingkat keterampilan teknis.
 
-5. **Penelusuran Lintas Disiplin**  
-   Zeta Alpha sangat berguna bagi pengguna dari berbagai disiplin ilmu, termasuk ilmu komputer, manajemen, ilmu sosial, dan teknik. Dengan kemampuan pencarian lintas disiplin, platform ini membantu menghubungkan ide-ide dari berbagai bidang untuk mendorong penelitian interdisipliner.
+### 5. **Integrasi dengan Tools Lain**
+   - Karena MarkMap mendukung **Markdown**, pengguna dapat dengan mudah mengintegrasikan peta pikiran ini dengan alat lain yang mendukung atau menghasilkan teks Markdown, seperti GitHub, VSCode, atau platform blogging. Ini memudahkan pengguna untuk membuat peta pikiran dari catatan, dokumentasi proyek, atau bahkan artikel langsung dari platform yang mereka gunakan sehari-hari.
 
-6. **Alat Kolaborasi**  
-   Platform ini juga mendukung kolaborasi antar-peneliti dengan fitur-fitur yang memungkinkan pengguna untuk berbagi temuan dan literatur dengan rekan tim, serta berdiskusi melalui anotasi pada makalah yang ditemukan.
+### 6. **Embed Peta Pikiran ke Web**
+   - Peta pikiran yang dihasilkan oleh MarkMap dapat disematkan (embed) ke halaman web atau blog. Pengguna dapat mengekspor peta dalam format HTML atau menyalin kode yang dihasilkan untuk digunakan di platform lain. Ini berguna untuk berbagi peta pikiran dengan tim atau audiens yang lebih luas secara online.
 
-## Latihan
+### 7. **Kustomisasi Tampilan**
+   - MarkMap memungkinkan beberapa tingkat kustomisasi visual, seperti mengubah warna cabang atau gaya visual peta pikiran. Ini memberikan fleksibilitas kepada pengguna untuk menyesuaikan tampilan peta pikiran sesuai dengan kebutuhan atau preferensi mereka.
 
-### 1. **Kajian Kes: Analisis Tren AI dalam Dunia Perusahaan Teknologi**
-   - **Langkah 1**: Buka Zeta Alpha dan login ke platform.
-   - **Langkah 2**: Cari kata kunci "Artificial Intelligence in corporate technology" atau "AI adoption in tech companies."
-   - **Langkah 3**: Pilih lima makalah atau artikel ilmiah terbaru yang membahas penerapan AI di perusahaan teknologi besar.
-   - **Langkah 4**: Baca dan analisis masing-masing makalah, fokuskan pada aspek implementasi AI dan hasil yang dicapai.
-   - **Langkah 5**: Buat ringkasan dari masing-masing artikel dan temukan pola umum dalam penerapan AI di perusahaan tersebut.
-   - **Langkah 6**: Diskusikan tren tersebut dengan kelompok dan buat presentasi mengenai prediksi tren AI ke depan dalam konteks perusahaan teknologi.
-   - **Tujuan**: Memahami tren dan dampak adopsi AI dalam dunia korporasi teknologi.
+### 8. **Alat Produktivitas**
+   - Sebagai alat visual, MarkMap sangat berguna untuk **penyusunan ide, brainstorming, perencanaan proyek, atau penyusunan dokumen**. Peta pikiran membantu pengguna menyusun ide-ide besar secara lebih terstruktur dan mendorong mereka untuk berpikir secara terorganisir. Ini adalah alat yang baik untuk menyusun rencana atau membuat ringkasan yang dapat dibagikan.
 
-### 2. **Kajian Kes: Optimalisasi Proses Manajemen Rantai Pasok dengan IoT**
-   - **Langkah 1**: Buka Zeta Alpha dan cari kata kunci "IoT in supply chain management" atau "Optimizing supply chain with IoT."
-   - **Langkah 2**: Pilih tiga studi kasus yang berfokus pada penggunaan IoT untuk mengoptimalkan rantai pasok di sektor manufaktur.
-   - **Langkah 3**: Identifikasi tantangan yang dihadapi sebelum penerapan IoT dan hasil setelah penerapan.
-   - **Langkah 4**: Buat laporan perbandingan dari tiga studi kasus tersebut, mencatat kesamaan dan perbedaan dalam penggunaan IoT.
-   - **Langkah 5**: Analisis bagaimana IoT membantu meningkatkan efisiensi dan mengurangi biaya.
-   - **Langkah 6**: Presentasikan temuan Anda dalam bentuk dokumen analisis dan diskusikan dengan dosen.
-   - **Tujuan**: Mengetahui bagaimana IoT dapat digunakan untuk meningkatkan proses rantai pasok.
+### Cara Menggunakan **MarkMap**:
+   1. **Tulis Markdown**: Buat dokumen teks biasa menggunakan sintaks Markdown. Gunakan daftar (bullet points) untuk menyusun hierarki ide.
+   2. **Paste ke Editor MarkMap**: Masukkan teks Markdown Anda ke dalam editor MarkMap di [MarkMap Repl](https://markmap.js.org/repl).
+   3. **Hasilkan Peta Pikiran**: MarkMap akan secara otomatis menghasilkan peta pikiran dari teks yang Anda masukkan. Anda bisa langsung menggunakannya secara interaktif.
+   4. **Simpan atau Bagikan**: Setelah selesai, Anda dapat menyimpan atau mengekspor peta pikiran tersebut, atau menyematkannya ke halaman web.
 
-### 3. **Kajian Kes: Strategi Pemasaran Berbasis Data di E-commerce**
-   - **Langkah 1**: Login ke Zeta Alpha dan cari kata kunci "Data-driven marketing in e-commerce" atau "Marketing strategies using big data."
-   - **Langkah 2**: Pilih lima artikel yang membahas implementasi strategi pemasaran berbasis data di platform e-commerce besar seperti Amazon atau Alibaba.
-   - **Langkah 3**: Analisis setiap strategi yang dibahas dalam artikel-artikel tersebut, khususnya bagaimana data digunakan untuk menarik pelanggan.
-   - **Langkah 4**: Identifikasi teknik analisis data yang digunakan dalam meningkatkan personalisasi dan targeting iklan.
-   - **Langkah 5**: Susun sebuah laporan mengenai bagaimana perusahaan e-commerce memanfaatkan data besar untuk memperbaiki strategi pemasaran mereka.
-   - **Langkah 6**: Buat proposal untuk model pemasaran berbasis data yang bisa diterapkan pada startup e-commerce lokal.
-   - **Tujuan**: Memahami penerapan big data dalam strategi pemasaran dan dampaknya pada bisnis e-commerce.
+### Keunggulan **MarkMap**:
+- **Konversi Instan**: Markdown ke peta pikiran secara otomatis dan cepat.
+- **Visualisasi yang Jelas**: Membantu menyusun ide-ide besar dengan mudah dan interaktif.
+- **Sederhana dan Ringkas**: Tidak membutuhkan keterampilan teknis tinggi untuk digunakan.
+- **Fleksibel**: Dapat digunakan untuk berbagai keperluan, dari brainstorming hingga dokumentasi teknis.
+- **Dukungan Markdown**: Sangat berguna bagi pengguna yang sudah terbiasa menggunakan format Markdown dalam pekerjaan sehari-hari.
 
-### 4. **Kajian Kes: Analisis Sentimen Pasar Saham dengan Pembelajaran Mesin**
-   - **Langkah 1**: Login ke Zeta Alpha dan lakukan pencarian dengan kata kunci "Stock market sentiment analysis using machine learning" atau "Machine learning in financial market prediction."
-   - **Langkah 2**: Pilih beberapa penelitian yang menggunakan model pembelajaran mesin untuk menganalisis sentimen di pasar saham.
-   - **Langkah 3**: Identifikasi model pembelajaran mesin yang digunakan dalam analisis sentimen tersebut (misalnya, SVM, Random Forest, atau Neural Networks).
-   - **Langkah 4**: Evaluasi hasil prediksi dari masing-masing penelitian, dengan fokus pada akurasi prediksi dan keandalan model.
-   - **Langkah 5**: Gunakan hasil dari studi untuk merancang strategi investasi hipotetis berdasarkan prediksi sentimen.
-   - **Langkah 6**: Diskusikan hasil riset dan strategi investasi yang Anda kembangkan dalam sebuah diskusi kelompok.
-   - **Tujuan**: Memahami penggunaan pembelajaran mesin dalam memprediksi sentimen pasar dan potensinya dalam strategi investasi.
-
-### 5. **Kajian Kes: Dampak Blockchain terhadap Transparansi Keuangan di Perusahaan**
-   - **Langkah 1**: Cari topik di Zeta Alpha dengan kata kunci "Blockchain in financial transparency" atau "Blockchain for corporate transparency."
-   - **Langkah 2**: Pilih studi kasus tentang penggunaan blockchain di perusahaan untuk meningkatkan transparansi dalam laporan keuangan.
-   - **Langkah 3**: Analisis bagaimana blockchain digunakan untuk memperbaiki keandalan dan akurasi data keuangan perusahaan.
-   - **Langkah 4**: Identifikasi manfaat dan tantangan utama dalam mengimplementasikan blockchain di perusahaan-perusahaan ini.
-   - **Langkah 5**: Buat presentasi yang merangkum hasil riset dan mencakup rekomendasi untuk perusahaan lain yang ingin menerapkan blockchain untuk transparansi keuangan.
-   - **Langkah 6**: Diskusikan hasil dengan dosen dan kelompok.
-   - **Tujuan**: Memahami bagaimana blockchain dapat meningkatkan transparansi dalam pengelolaan keuangan perusahaan.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
