@@ -10,7 +10,7 @@
 **Open Knowledge Maps** adalah platform web yang memungkinkan para peneliti, akademisi, dan mahasiswa untuk menjelajahi dan memvisualisasikan hasil pencarian literatur ilmiah secara lebih intuitif. Platform ini berfokus pada penyajian literatur ilmiah dalam bentuk peta visual, yang memudahkan pengguna untuk memahami keterkaitan antar-topik penelitian dan menemukan makalah-makalah penting yang relevan dengan bidang studi mereka. 
 
 <p align="center">
- <img src="https://zav-release-notes.s3.eu-central-1.amazonaws.com/assets/new-design.jpg"  height="400">
+ <img src="https://cdn.creati.ai/ai-tools/product-image/openknowledgemaps-org.webp"  height="400">
 </p>
 
 
