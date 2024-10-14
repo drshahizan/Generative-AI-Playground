@@ -18,6 +18,10 @@ Bengkel ini menyoroti penggunaan teknologi kecerdasan buatan (AI) dalam memperce
 ### The Effortless AI Literature Review
 "The Effortless AI Literature Review" adalah pendekatan baru dalam melakukan tinjauan literatur yang memanfaatkan kecerdasan buatan (AI) untuk menyederhanakan dan mempercepat proses penelusuran dan analisis literatur ilmiah. Dengan menggunakan alat-alat AI, peneliti dapat dengan mudah mengakses, menyortir, dan menganalisis sejumlah besar artikel, jurnal, dan sumber ilmiah lainnya hanya dalam waktu yang relatif singkat, yang biasanya memakan waktu berhari-hari atau bahkan berminggu-minggu jika dilakukan secara manual.
 
+<p align="center">
+ <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/effortless5.jpg"  height="500">
+</p>
+
 AI dapat membantu dalam beberapa aspek tinjauan literatur, seperti pencarian dokumen yang relevan, penemuan pola dan tema kunci, serta penyusunan ringkasan informasi yang paling signifikan. Melalui proses ini, peneliti bisa mendapatkan pemahaman yang lebih mendalam terhadap topik mereka tanpa harus tersesat dalam kompleksitas data yang berlebihan.
 
 Selain itu, AI juga memungkinkan identifikasi celah penelitian dengan lebih cepat, sehingga peneliti dapat dengan lebih mudah menentukan arah penelitian yang berpotensi untuk dieksplorasi lebih lanjut. Dengan begitu, "The Effortless AI Literature Review" memberikan manfaat signifikan bagi peneliti, baik dari segi efisiensi waktu maupun ketepatan informasi, sehingga memungkinkan mereka untuk lebih fokus pada penemuan dan pengembangan ide-ide baru yang relevan.
