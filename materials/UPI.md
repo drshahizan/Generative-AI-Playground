@@ -17,7 +17,6 @@ Bengkel ini menyoroti penggunaan teknologi kecerdasan buatan (AI) dalam memperce
 
 ### 10 Alat AI Terbaik untuk Mendukung Penelitian Akademik dan Pengelolaan Pengetahuan
 
-Here is the table translated into Bahasa Indonesia:
 
 | No.  | Nama | Deskripsi | 
 |------: | ------------------|-----|
