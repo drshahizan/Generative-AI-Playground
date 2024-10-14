@@ -7,13 +7,40 @@
 
 #  Model 5: The Effortless AI Literature Review
 
-**The Effortless AI Literature Review** merujuk pada proses tinjauan literatur yang memanfaatkan teknologi kecerdasan buatan (AI) untuk mempercepat dan menyederhanakan alur kerja penelitian. Dengan bantuan berbagai alat AI, proses ini memungkinkan peneliti untuk menemukan, membaca, menganalisis, dan menyusun literatur ilmiah secara lebih efisien, mulai dari pencarian sumber hingga penyusunan naskah akhir.
+**Effortless Literature Review - v2.0** adalah pendekatan yang menggunakan alat-alat berbasis AI untuk membantu peneliti menyusun tinjauan literatur secara efisien dan efektif. Dengan menggunakan berbagai alat seperti *Perplexity.ai*, *Obsidian*, *Litmaps*, dan *scite.ai*, alur kerja ini memungkinkan peneliti untuk menemukan, menganalisis, mengorganisir, dan menyusun literatur dengan lebih mudah, meningkatkan produktivitas dan kualitas hasil penelitian.
 
 <p align="center">
  <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/effortless5.jpg"  height="500">
 </p>
 
+### Tahapan dalam "Effortless Literature Review - v2.0":
 
+1. **Menemukan Tinjauan Pertama** menggunakan *Perplexity.ai*:
+   - Langkah pertama adalah menemukan tinjauan literatur atau artikel awal yang relevan dengan topik penelitian. *Perplexity.ai* digunakan untuk membantu proses pencarian informasi secara cepat dan efisien.
+
+2. **Pembacaan Mendalam**:
+   - Setelah mendapatkan literatur yang sesuai, dilakukan pembacaan lebih mendalam untuk memahami isi dan konteks penelitian secara terperinci.
+
+3. **Catatan Konseptual** menggunakan *Obsidian*:
+   - Pada tahap ini, peneliti membuat catatan konseptual dengan menggunakan *Obsidian* untuk merangkum ide-ide utama dari literatur yang telah dibaca.
+
+4. **Jaringan Sitasi** menggunakan *Litmaps*:
+   - *Litmaps* digunakan untuk membuat peta jaringan sitasi dari artikel yang telah dianalisis. Ini membantu peneliti melihat bagaimana artikel terkait satu sama lain dan menemukan literatur tambahan yang relevan.
+
+5. **Mengidentifikasi Opini** menggunakan *scite.ai*:
+   - Pada tahap ini, *scite.ai* digunakan untuk menemukan pandangan atau tanggapan dari penelitian lain terhadap artikel yang sedang dikaji. Ini penting untuk mengevaluasi kredibilitas dan pengaruh artikel tersebut dalam komunitas ilmiah.
+
+6. **Daftar Bacaan** menggunakan *Obsidian*:
+   - Literatur yang telah dibaca dan dianalisis disusun dalam daftar bacaan di *Obsidian*. Hal ini menjaga literatur tetap terorganisir dengan baik untuk referensi lebih lanjut.
+
+7. **Pengembangan Ide dan Pertanyaan**:
+   - Setelah menganalisis literatur, peneliti mulai mengembangkan ide-ide baru dan menyusun pertanyaan penelitian untuk eksplorasi lebih lanjut dalam topik yang sedang dipelajari.
+
+8. **Penulisan Bebas**:
+   - Pada tahap ini, peneliti mulai menulis secara bebas berdasarkan catatan dan ide yang telah dikumpulkan. Ini adalah tahap awal sebelum penulisan manuskrip akhir.
+
+9. **Manuskrip Pertama** menggunakan *Microsoft Word*:
+   - Langkah terakhir adalah menyusun draf manuskrip pertama menggunakan *Microsoft Word*. Manuskrip ini lebih terstruktur dan siap untuk diulas atau dipublikasikan.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
