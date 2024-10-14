@@ -10,7 +10,7 @@
 **Zeta Alpha** adalah platform riset berbasis kecerdasan buatan (AI) yang dirancang untuk membantu para peneliti, profesional, dan akademisi dalam menelusuri, menganalisis, serta memahami literatur ilmiah dengan lebih efektif dan efisien. Web ini memanfaatkan teknologi AI canggih untuk mengelola informasi yang luas dan kompleks, membuat pencarian dan analisis makalah ilmiah menjadi lebih cepat, tepat sasaran, dan relevan dengan topik yang dicari.
 
 <p align="center">
- <img src="https://zav-release-notes.s3.eu-central-1.amazonaws.com/assets/new-design.jpg"  height="500">
+ <img src="https://zav-release-notes.s3.eu-central-1.amazonaws.com/assets/new-design.jpg"  height="400">
 </p>
 
 Berikut adalah beberapa fitur utama yang ditawarkan oleh Zeta Alpha:
