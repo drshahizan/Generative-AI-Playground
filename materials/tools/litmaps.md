@@ -46,7 +46,6 @@ Berikut adalah beberapa fitur utama **LitMaps**:
 - **Kolaborasi**: Alat ini mendukung kolaborasi penelitian dengan memungkinkan berbagi peta kutipan dengan rekan satu tim.
 - **Fokus pada Penemuan Baru**: Menyederhanakan proses menemukan literatur baru yang relevan dan penting bagi topik penelitian tertentu.
 
-Secara keseluruhan, **LitMaps** adalah alat yang sangat berguna bagi peneliti yang ingin menjelajahi dan memvisualisasikan jaringan kutipan dalam literatur ilmiah. Dengan pendekatan dinamis dan fitur pelacakan otomatis, LitMaps tidak hanya memudahkan proses tinjauan literatur tetapi juga memastikan peneliti tetap mendapatkan informasi terbaru mengenai makalah yang relevan di bidang studi mereka.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
