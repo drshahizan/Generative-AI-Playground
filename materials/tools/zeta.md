@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/Generative-AI-Playground/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Generative-AI-Playground?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Zeta Alpha
+# [Zeta Alpha](https://search.zeta-alpha.com/)
 
 **Zeta Alpha** adalah platform riset berbasis kecerdasan buatan (AI) yang dirancang untuk membantu para peneliti, profesional, dan akademisi dalam menelusuri, menganalisis, serta memahami literatur ilmiah dengan lebih efektif dan efisien. Web ini memanfaatkan teknologi AI canggih untuk mengelola informasi yang luas dan kompleks, membuat pencarian dan analisis makalah ilmiah menjadi lebih cepat, tepat sasaran, dan relevan dengan topik yang dicari.
 
