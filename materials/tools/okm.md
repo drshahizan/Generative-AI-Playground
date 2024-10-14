@@ -5,80 +5,48 @@
 <a href="https://github.com/drshahizan/Generative-AI-Playground/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Generative-AI-Playground?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# [Inciteful]()
+# [Open Knowledge Maps]()
 
-**Zeta Alpha** adalah platform riset berbasis kecerdasan buatan (AI) yang dirancang untuk membantu para peneliti, profesional, dan akademisi dalam menelusuri, menganalisis, serta memahami literatur ilmiah dengan lebih efektif dan efisien. Web ini memanfaatkan teknologi AI canggih untuk mengelola informasi yang luas dan kompleks, membuat pencarian dan analisis makalah ilmiah menjadi lebih cepat, tepat sasaran, dan relevan dengan topik yang dicari.
+**Open Knowledge Maps** adalah platform web yang memungkinkan para peneliti, akademisi, dan mahasiswa untuk menjelajahi dan memvisualisasikan hasil pencarian literatur ilmiah secara lebih intuitif. Platform ini berfokus pada penyajian literatur ilmiah dalam bentuk peta visual, yang memudahkan pengguna untuk memahami keterkaitan antar-topik penelitian dan menemukan makalah-makalah penting yang relevan dengan bidang studi mereka. 
 
 <p align="center">
  <img src="https://zav-release-notes.s3.eu-central-1.amazonaws.com/assets/new-design.jpg"  height="400">
 </p>
 
-Berikut adalah beberapa fitur utama yang ditawarkan oleh Zeta Alpha:
 
-1. **Pencarian Cerdas Berbasis AI**  
-   Zeta Alpha menggunakan algoritma pencarian berbasis AI yang memungkinkan pengguna menemukan literatur ilmiah yang relevan dengan lebih akurat. Dengan menggunakan kata kunci atau pertanyaan penelitian, AI Zeta Alpha akan menyaring dan mengurutkan makalah ilmiah yang sesuai, membantu pengguna menemukan informasi paling penting di tengah jutaan publikasi yang ada.
+Berikut adalah beberapa fitur utama **Open Knowledge Maps**:
 
-2. **Analisis Tren Riset**  
-   Selain sekadar mencari makalah, Zeta Alpha juga menyediakan alat analisis yang dapat membantu pengguna memahami tren riset terkini dalam suatu bidang. AI di platform ini menganalisis pola publikasi, membantu menemukan topik yang sedang naik daun atau yang mendapatkan perhatian lebih besar dari komunitas ilmiah.
+1. **Peta Pengetahuan Visual**  
+   Open Knowledge Maps menghasilkan peta visual yang mengelompokkan makalah-makalah ilmiah berdasarkan keterkaitannya. Peta ini memudahkan pengguna untuk melihat topik-topik utama dalam sebuah bidang dan menemukan artikel yang paling relevan dengan topik penelitian mereka. Setiap kluster di peta menunjukkan topik tertentu dan mengandung sejumlah makalah terkait.
 
-3. **Sistem Rekomendasi yang Dipersonalisasi**  
-   Zeta Alpha dapat memberikan rekomendasi makalah berdasarkan preferensi dan riwayat pencarian pengguna. Sistem ini mempelajari pola pencarian dan ketertarikan pengguna, lalu menyarankan artikel yang relevan atau terkait secara langsung dengan penelitian sebelumnya.
+2. **Pencarian Berbasis Kata Kunci**  
+   Pengguna dapat memasukkan kata kunci atau topik penelitian tertentu, dan Open Knowledge Maps akan menampilkan peta literatur yang relevan. Hasil ini mencakup makalah dari berbagai database ilmiah, seperti PubMed dan BASE, yang merupakan salah satu keunggulan platform ini karena menyatukan berbagai sumber literatur dalam satu peta visual.
 
-4. **Visualisasi Data dan Jaringan Pengetahuan**  
-   Platform ini memiliki fitur visualisasi jaringan pengetahuan yang memungkinkan pengguna untuk melihat bagaimana artikel-artikel ilmiah terkait satu sama lain. Dengan peta visual ini, pengguna dapat mengidentifikasi hubungan antara konsep, penulis, dan makalah, sehingga lebih mudah dalam menyusun tinjauan literatur atau menemukan celah dalam riset.
+3. **Keterkaitan Topik yang Jelas**  
+   Peta yang dihasilkan oleh Open Knowledge Maps memberikan gambaran jelas tentang bagaimana topik-topik penelitian saling berhubungan. Hal ini memudahkan pengguna untuk melihat keterkaitan antara berbagai subtopik dalam bidang tertentu, serta untuk menemukan topik yang mungkin belum mereka pertimbangkan dalam pencarian sebelumnya.
 
-5. **Penelusuran Lintas Disiplin**  
-   Zeta Alpha sangat berguna bagi pengguna dari berbagai disiplin ilmu, termasuk ilmu komputer, manajemen, ilmu sosial, dan teknik. Dengan kemampuan pencarian lintas disiplin, platform ini membantu menghubungkan ide-ide dari berbagai bidang untuk mendorong penelitian interdisipliner.
+4. **Navigasi yang Mudah**  
+   Pengguna dapat dengan mudah menjelajahi peta pengetahuan, memperbesar atau memperkecil kluster, serta mengeklik artikel untuk mendapatkan informasi lebih lanjut seperti abstrak, penulis, dan tautan ke teks lengkap jika tersedia. Platform ini sangat interaktif dan mudah digunakan, sehingga memudahkan proses eksplorasi literatur ilmiah.
 
-6. **Alat Kolaborasi**  
-   Platform ini juga mendukung kolaborasi antar-peneliti dengan fitur-fitur yang memungkinkan pengguna untuk berbagi temuan dan literatur dengan rekan tim, serta berdiskusi melalui anotasi pada makalah yang ditemukan.
+5. **Penemuan Penelitian Baru**  
+   Salah satu kelebihan Open Knowledge Maps adalah kemampuannya untuk membantu pengguna menemukan penelitian yang mungkin belum mereka temukan dengan pencarian tradisional. Karena platform ini memvisualisasikan makalah berdasarkan tema yang terkait, pengguna dapat dengan cepat menemukan karya yang relevan dan penting yang mungkin tidak muncul di halaman pertama pencarian biasa.
 
-## Latihan
+6. **Fokus pada Akses Terbuka (Open Access)**  
+   Open Knowledge Maps sebagian besar berfokus pada artikel yang dapat diakses secara terbuka (open access). Hal ini memungkinkan pengguna untuk menemukan artikel yang tersedia secara bebas tanpa harus berlangganan jurnal ilmiah berbayar. Ini sangat bermanfaat bagi peneliti yang ingin mendapatkan literatur yang bebas diakses oleh semua orang.
 
-### 1. **Kajian Kes: Analisis Tren AI dalam Dunia Perusahaan Teknologi**
-   - **Langkah 1**: Buka Zeta Alpha dan login ke platform.
-   - **Langkah 2**: Cari kata kunci "Artificial Intelligence in corporate technology" atau "AI adoption in tech companies."
-   - **Langkah 3**: Pilih lima makalah atau artikel ilmiah terbaru yang membahas penerapan AI di perusahaan teknologi besar.
-   - **Langkah 4**: Baca dan analisis masing-masing makalah, fokuskan pada aspek implementasi AI dan hasil yang dicapai.
-   - **Langkah 5**: Buat ringkasan dari masing-masing artikel dan temukan pola umum dalam penerapan AI di perusahaan tersebut.
-   - **Langkah 6**: Diskusikan tren tersebut dengan kelompok dan buat presentasi mengenai prediksi tren AI ke depan dalam konteks perusahaan teknologi.
-   - **Tujuan**: Memahami tren dan dampak adopsi AI dalam dunia korporasi teknologi.
+7. **Interdisipliner**  
+   Platform ini mencakup berbagai disiplin ilmu, dari sains, teknologi, hingga ilmu sosial dan humaniora. Ini memudahkan peneliti dari berbagai bidang untuk menemukan literatur yang sesuai dengan kebutuhan mereka, dan juga untuk mengeksplorasi penelitian lintas disiplin.
 
-### 2. **Kajian Kes: Optimalisasi Proses Manajemen Rantai Pasok dengan IoT**
-   - **Langkah 1**: Buka Zeta Alpha dan cari kata kunci "IoT in supply chain management" atau "Optimizing supply chain with IoT."
-   - **Langkah 2**: Pilih tiga studi kasus yang berfokus pada penggunaan IoT untuk mengoptimalkan rantai pasok di sektor manufaktur.
-   - **Langkah 3**: Identifikasi tantangan yang dihadapi sebelum penerapan IoT dan hasil setelah penerapan.
-   - **Langkah 4**: Buat laporan perbandingan dari tiga studi kasus tersebut, mencatat kesamaan dan perbedaan dalam penggunaan IoT.
-   - **Langkah 5**: Analisis bagaimana IoT membantu meningkatkan efisiensi dan mengurangi biaya.
-   - **Langkah 6**: Presentasikan temuan Anda dalam bentuk dokumen analisis dan diskusikan dengan dosen.
-   - **Tujuan**: Mengetahui bagaimana IoT dapat digunakan untuk meningkatkan proses rantai pasok.
+8. **Mendukung Kolaborasi Penelitian**  
+   Open Knowledge Maps juga berguna untuk kolaborasi antar-peneliti, karena peta pengetahuan dapat dibagikan dengan rekan satu tim atau publik. Peneliti dapat menggunakan platform ini sebagai alat diskusi atau pengorganisasian sumber daya dalam proyek penelitian bersama.
 
-### 3. **Kajian Kes: Strategi Pemasaran Berbasis Data di E-commerce**
-   - **Langkah 1**: Login ke Zeta Alpha dan cari kata kunci "Data-driven marketing in e-commerce" atau "Marketing strategies using big data."
-   - **Langkah 2**: Pilih lima artikel yang membahas implementasi strategi pemasaran berbasis data di platform e-commerce besar seperti Amazon atau Alibaba.
-   - **Langkah 3**: Analisis setiap strategi yang dibahas dalam artikel-artikel tersebut, khususnya bagaimana data digunakan untuk menarik pelanggan.
-   - **Langkah 4**: Identifikasi teknik analisis data yang digunakan dalam meningkatkan personalisasi dan targeting iklan.
-   - **Langkah 5**: Susun sebuah laporan mengenai bagaimana perusahaan e-commerce memanfaatkan data besar untuk memperbaiki strategi pemasaran mereka.
-   - **Langkah 6**: Buat proposal untuk model pemasaran berbasis data yang bisa diterapkan pada startup e-commerce lokal.
-   - **Tujuan**: Memahami penerapan big data dalam strategi pemasaran dan dampaknya pada bisnis e-commerce.
+**Keunggulan Open Knowledge Maps:**
+- **Visualisasi Interaktif**: Alat ini menawarkan pendekatan visual yang memudahkan pengguna untuk menjelajahi topik penelitian dengan cara yang lebih cepat dan efisien.
+- **Menyatukan Sumber Terbuka**: Menggabungkan sumber daya dari beberapa basis data ilmiah sehingga pengguna dapat mengakses penelitian secara lebih luas.
+- **Pencarian yang Mempercepat Tinjauan Literatur**: Memungkinkan peneliti melakukan tinjauan literatur dengan lebih cepat karena struktur visualnya memudahkan identifikasi topik-topik kunci.
+- **Mendukung Akses Terbuka**: Fokus pada penelitian yang dapat diakses secara terbuka mempermudah peneliti menemukan artikel yang bisa dibaca langsung tanpa batasan.
 
-### 4. **Kajian Kes: Analisis Sentimen Pasar Saham dengan Pembelajaran Mesin**
-   - **Langkah 1**: Login ke Zeta Alpha dan lakukan pencarian dengan kata kunci "Stock market sentiment analysis using machine learning" atau "Machine learning in financial market prediction."
-   - **Langkah 2**: Pilih beberapa penelitian yang menggunakan model pembelajaran mesin untuk menganalisis sentimen di pasar saham.
-   - **Langkah 3**: Identifikasi model pembelajaran mesin yang digunakan dalam analisis sentimen tersebut (misalnya, SVM, Random Forest, atau Neural Networks).
-   - **Langkah 4**: Evaluasi hasil prediksi dari masing-masing penelitian, dengan fokus pada akurasi prediksi dan keandalan model.
-   - **Langkah 5**: Gunakan hasil dari studi untuk merancang strategi investasi hipotetis berdasarkan prediksi sentimen.
-   - **Langkah 6**: Diskusikan hasil riset dan strategi investasi yang Anda kembangkan dalam sebuah diskusi kelompok.
-   - **Tujuan**: Memahami penggunaan pembelajaran mesin dalam memprediksi sentimen pasar dan potensinya dalam strategi investasi.
-
-### 5. **Kajian Kes: Dampak Blockchain terhadap Transparansi Keuangan di Perusahaan**
-   - **Langkah 1**: Cari topik di Zeta Alpha dengan kata kunci "Blockchain in financial transparency" atau "Blockchain for corporate transparency."
-   - **Langkah 2**: Pilih studi kasus tentang penggunaan blockchain di perusahaan untuk meningkatkan transparansi dalam laporan keuangan.
-   - **Langkah 3**: Analisis bagaimana blockchain digunakan untuk memperbaiki keandalan dan akurasi data keuangan perusahaan.
-   - **Langkah 4**: Identifikasi manfaat dan tantangan utama dalam mengimplementasikan blockchain di perusahaan-perusahaan ini.
-   - **Langkah 5**: Buat presentasi yang merangkum hasil riset dan mencakup rekomendasi untuk perusahaan lain yang ingin menerapkan blockchain untuk transparansi keuangan.
-   - **Langkah 6**: Diskusikan hasil dengan dosen dan kelompok.
-   - **Tujuan**: Memahami bagaimana blockchain dapat meningkatkan transparansi dalam pengelolaan keuangan perusahaan.
+Secara keseluruhan, **Open Knowledge Maps** adalah alat yang sangat bermanfaat bagi para peneliti yang ingin mengeksplorasi dan memahami jaringan literatur ilmiah secara lebih visual. Ini mempercepat proses tinjauan literatur, membantu menemukan artikel-artikel penting yang mungkin terlewatkan, dan menyediakan akses ke sumber daya terbuka di berbagai disiplin ilmu.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
