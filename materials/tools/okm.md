@@ -46,7 +46,6 @@ Berikut adalah beberapa fitur utama **Open Knowledge Maps**:
 - **Pencarian yang Mempercepat Tinjauan Literatur**: Memungkinkan peneliti melakukan tinjauan literatur dengan lebih cepat karena struktur visualnya memudahkan identifikasi topik-topik kunci.
 - **Mendukung Akses Terbuka**: Fokus pada penelitian yang dapat diakses secara terbuka mempermudah peneliti menemukan artikel yang bisa dibaca langsung tanpa batasan.
 
-Secara keseluruhan, **Open Knowledge Maps** adalah alat yang sangat bermanfaat bagi para peneliti yang ingin mengeksplorasi dan memahami jaringan literatur ilmiah secara lebih visual. Ini mempercepat proses tinjauan literatur, membantu menemukan artikel-artikel penting yang mungkin terlewatkan, dan menyediakan akses ke sumber daya terbuka di berbagai disiplin ilmu.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/Generative-AI-Playground/issues) for any improvements, suggestions or errors in the content.
