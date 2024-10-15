@@ -15,7 +15,10 @@ Bengkel ini menyoroti penggunaan teknologi kecerdasan buatan (AI) dalam memperce
 
 ## Informasi Peserta Workshop
 <p align="center">
- <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/upi%20_analisis.png"  height="400">
+ <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/workshopUpi.jpeg"  height="400">
+</p>
+<p align="center">
+ <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/upi%20_analisis.png"  height="300">
 </p>
 
 ## Materi Pembelajaran
