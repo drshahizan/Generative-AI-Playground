@@ -7,7 +7,7 @@
 
 # Generative AI (Artificial Intelligence) in Administration
 
-<img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/BDC_AI.jpeg" style="width:270px;"  align="left">
+<img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/BDC_AI_nov.png" style="width:270px;"  align="left">
 
 **Synopsis:**<br>
 The **Generative AI in Administration** course is designed to provide participants with a comprehensive understanding of how AI tools, such as **Gemini Co-pilot** and **ChatGPT**, can transform administrative tasks. The course will cover key concepts of generative AI and its potential applications in the workplace, focusing on how it can be used to improve efficiency, productivity, and collaboration within teams. Participants will gain practical experience through hands-on exercises, learning how to draft documents, structure reports, and manage administrative workflows more effectively using AI-powered tools. The integration of AI into routine tasks will also be explored, demonstrating how it can streamline operations and reduce manual efforts.
