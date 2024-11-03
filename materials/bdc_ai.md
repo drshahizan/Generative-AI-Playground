@@ -54,7 +54,7 @@ In addition to document handling, the course will delve into the use of generati
 |  |  | [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md) |
 |  |  | [215+ ChatGPT Prompts & How to Write Your Own](https://writesonic.com/blog/chatgpt-prompts) |
 |  |  | [Chat with Copilot Regarding the PDF File](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md) |
-| 6. | [Generative Pre-trained Transformers (GPTs)](https://github.com/drshahizan/ai-tools/blob/main/materials/gpts/readme.md) | [Trending](../materials/gpts/trending.md) |
+| 6. | [Generative Pre-trained Transformers (GPTs)](https://github.com/drshahizan/ai-tools/blob/main/materials/gpts/readme.md) | [Trending](https://github.com/drshahizan/ai-tools/blob/main/materials/gpts/trending.md) |
 |  |  | [By ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/gpts/bychatgpt.md) |
 |  |  | [Writing](https://github.com/drshahizan/ai-tools/blob/main/materials/gpts/writing.md) |
 |  |  | [Productivity](https://github.com/drshahizan/ai-tools/blob/main/materials/gpts/productivity.md) |
