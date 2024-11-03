@@ -7,11 +7,11 @@
 
 # [Napkin.ai: Empowering Creative Thinking Through AI ✨📝](https://www.napkin.ai/)
 
+Napkin.ai is an innovative note-taking and idea-management tool designed to facilitate spontaneous creativity and efficient thought development. By leveraging artificial intelligence, Napkin.ai offers a seamless way to capture, organize, and expand on your ideas, serving as a dynamic "digital whiteboard" for creative professionals.
+
 <p align="center">
  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*tMv1aDafvnz8ZUl_caHdCw.png"  height="400">
 </p>
-
-Napkin.ai is an innovative note-taking and idea-management tool designed to facilitate spontaneous creativity and efficient thought development. By leveraging artificial intelligence, Napkin.ai offers a seamless way to capture, organize, and expand on your ideas, serving as a dynamic "digital whiteboard" for creative professionals.
 
 #### Key Features
 
