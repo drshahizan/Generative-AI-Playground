@@ -41,6 +41,7 @@ In addition to document handling, the course will delve into the use of generati
 |  |  | [Exercise 4: Image Analysis Using ChatGPT](../materials/untw/dokumen_untw.md) |
 |  |  | [Exercise 5: CSV File Analysis Using ChatGPT](../materials/untw/dokumen_chatgpt.md) |
 |  |  | [Exercise 6: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
+|  |  | [Exercise 7: Napkin.ai](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/tools/napkin.md)|
 |  |  | [Think Machine: Multidimensional Mind Mapping](https://thinkmachine.com/) |
 | 5. | Instructions | [Chain of Thought Framework (CoT)](../materials/gen_frame/1cot.md) |
 |  |  | [RTF Framework: Role, Task, and Format](../materials/gen_frame/2rtf.md) |
