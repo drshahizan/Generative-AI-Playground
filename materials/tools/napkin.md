@@ -10,7 +10,7 @@
 **Open Knowledge Maps** adalah platform web yang memungkinkan para peneliti, akademisi, dan mahasiswa untuk menjelajahi dan memvisualisasikan hasil pencarian literatur ilmiah secara lebih intuitif. Platform ini berfokus pada penyajian literatur ilmiah dalam bentuk peta visual, yang memudahkan pengguna untuk memahami keterkaitan antar-topik penelitian dan menemukan makalah-makalah penting yang relevan dengan bidang studi mereka. 
 
 <p align="center">
- <img src="https://www.napkin.ai/assets/og-image-v5-1280.png?v=2"  height="400">
+ <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*tMv1aDafvnz8ZUl_caHdCw.png"  height="400">
 </p>
 
 
