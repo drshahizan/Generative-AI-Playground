@@ -55,13 +55,13 @@ In addition to document handling, the course will delve into the use of generati
 |  |  | [215+ ChatGPT Prompts & How to Write Your Own](https://writesonic.com/blog/chatgpt-prompts) |
 |  |  | [Chat with Copilot Regarding the PDF File](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md) |
 | 6. | [Generative Pre-trained Transformers (GPTs)](https://github.com/drshahizan/ai-tools/blob/main/materials/gpts/readme.md) | [Trending](../materials/gpts/trending.md) |
-|  |  | [By ChatGPT](../materials/gpts/bychatgpt.md) |
-|  |  | [Writing](../materials/gpts/writing.md) |
-|  |  | [Productivity](../materials/gpts/productivity.md) |
-|  |  | [Research & Analysis](../materials/gpts/research.md) |
-|  |  | [Education](../materials/gpts/education.md) |
-|  |  | [Lifestyle](../materials/gpts/lifestyle.md) |
-|  |  | [Programming](../materials/gpts/programming.md) |
+|  |  | [By ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/gpts/bychatgpt.md) |
+|  |  | [Writing](https://github.com/drshahizan/ai-tools/blob/main/materials/gpts/writing.md) |
+|  |  | [Productivity](https://github.com/drshahizan/ai-tools/blob/main/materials/gpts/productivity.md) |
+|  |  | [Research & Analysis](https://github.com/drshahizan/ai-tools/blob/main/materials/gpts/research.md) |
+|  |  | [Education](https://github.com/drshahizan/ai-tools/blob/main/materials/gpts/education.md) |
+|  |  | [Lifestyle](https://github.com/drshahizan/ai-tools/blob/main/materials/gpts/lifestyle.md) |
+|  |  | [Programming](https://github.com/drshahizan/ai-tools/blob/main/materials/gpts/programming.md) |
 
 ### Additional Information
 
