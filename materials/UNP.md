@@ -5,9 +5,14 @@
 <a href="https://github.com/drshahizan/Generative-AI-Playground/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Generative-AI-Playground?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-#  Workshop Penulisan Artikel Ilmiah: Pengenalan AI Tools (Seri 1)
+#  Pemanfaatan Teknologi AI dalam Penulisan Karya Ilmiah
 
-Bengkel ini menyoroti penggunaan teknologi kecerdasan buatan (AI) dalam mempercepat dan meningkatkan proses penelitian akademik. Melalui berbagai alat AI yang tersedia, seperti Zeta Alpha, Publish or Perish, dan scite.ai, peserta akan diperkenalkan kepada platform yang membantu menemukan dan menganalisis literatur secara lebih efisien. Bengkel ini juga akan membahas bagaimana alat visualisasi seperti Connected Papers dan LitMaps dapat memetakan hubungan antar artikel ilmiah untuk membantu peneliti mengeksplorasi bidang penelitian mereka. Selain itu, alat seperti Humata AI dan MarkMap akan menunjukkan cara untuk menyusun, menyunting, dan mengelola informasi dengan lebih efektif. Peserta juga akan belajar tentang etika dalam penggunaan AI untuk memastikan keaslian, kredibilitas, dan kepatuhan terhadap hak cipta dalam karya akademik mereka.
+Workshop bertajuk "Pemanfaatan Teknologi AI dalam Penulisan Karya Ilmiah" diselenggarakan oleh Program Studi Doktor Ilmu Keguruan Bahasa, Fakultas Bahasa dan Seni, Universitas Negeri Padang. Kegiatan ini bertujuan untuk memberikan pemahaman dan keterampilan kepada para peserta dalam memanfaatkan teknologi kecerdasan buatan (AI) guna meningkatkan efektivitas dan efisiensi dalam penulisan karya ilmiah. Narasumber dalam workshop ini adalah Assoc. Prof. Dr. Mohd Shahizan bin Othman dari Fakultas Komputasi, Universiti Teknologi Malaysia, serta Apri Junaidi, S. Kom., M. Kom., MCS.
+
+Dalam workshop ini, para peserta akan diperkenalkan pada berbagai alat dan aplikasi AI yang dapat digunakan untuk mendukung proses penulisan ilmiah, seperti membantu dalam pencarian literatur, penyusunan argumen, hingga penyuntingan bahasa. Dengan menggunakan teknologi AI, penulisan karya ilmiah dapat menjadi lebih mudah, akurat, dan berkualitas tinggi. Workshop ini juga membahas potensi dan tantangan dalam pemanfaatan AI dalam konteks akademik, serta memberikan praktik langsung bagaimana cara menggunakan alat-alat AI tersebut.
+
+Acara ini diharapkan dapat memberikan wawasan baru kepada para dosen, peneliti, dan mahasiswa dalam upaya meningkatkan kualitas publikasi akademik mereka melalui teknologi AI yang terus berkembang. Workshop akan dilaksanakan di Padang pada tanggal 5 November 2024.
+
 
 <p align="center">
  <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/workshopUNP.jpeg"  height="500">
