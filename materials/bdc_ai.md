@@ -37,7 +37,7 @@ In addition to document handling, the course will delve into the use of generati
 | 3. | Installation & Login | [ChatGPT, Copilot, Gemini & NotebookLM](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/signin.md) |
 | 4. | Exercises | [Exercise 1: Using Generative AI Commands](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/fungsi.md) |
 |  |  | [Exercise 2: Document Analysis with Copilot](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_copilot.md) |
-|  |  | [Exercise 3: MarkMap](../materials/pimpin/markmap.md) |
+|  |  | [Exercise 3: MarkMap](https://github.com/drshahizan/ai-tools/blob/main/materials/pimpin/markmap.md) |
 |  |  | [Exercise 4: Image Analysis Using ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_untw.md) |
 |  |  | [Exercise 5: CSV File Analysis Using ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_chatgpt.md) |
 |  |  | [Exercise 6: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
