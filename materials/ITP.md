@@ -5,14 +5,9 @@
 <a href="https://github.com/drshahizan/Generative-AI-Playground/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Generative-AI-Playground?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-#  Pemanfaatan Teknologi AI dalam Penulisan Karya Ilmiah
+#  Sosialisasi Program Doktor UTM dan Workshop Penulisan Akademik
 
-Workshop bertajuk "Pemanfaatan Teknologi AI dalam Penulisan Karya Ilmiah" diselenggarakan oleh Program Studi Doktor Ilmu Keguruan Bahasa, Fakultas Bahasa dan Seni, Universitas Negeri Padang. Kegiatan ini bertujuan untuk memberikan pemahaman dan keterampilan kepada para peserta dalam memanfaatkan teknologi kecerdasan buatan (AI) guna meningkatkan efektivitas dan efisiensi dalam penulisan karya ilmiah. Narasumber dalam workshop ini adalah Assoc. Prof. Dr. Mohd Shahizan bin Othman dari Fakultas Komputasi, Universiti Teknologi Malaysia, serta Apri Junaidi, S. Kom., M. Kom., MCS.
-
-Dalam workshop ini, para peserta akan diperkenalkan pada berbagai alat dan aplikasi AI yang dapat digunakan untuk mendukung proses penulisan ilmiah, seperti membantu dalam pencarian literatur, penyusunan argumen, hingga penyuntingan bahasa. Dengan menggunakan teknologi AI, penulisan karya ilmiah dapat menjadi lebih mudah, akurat, dan berkualitas tinggi. Workshop ini juga membahas potensi dan tantangan dalam pemanfaatan AI dalam konteks akademik, serta memberikan praktik langsung bagaimana cara menggunakan alat-alat AI tersebut.
-
-Acara ini diharapkan dapat memberikan wawasan baru kepada para dosen, peneliti, dan mahasiswa dalam upaya meningkatkan kualitas publikasi akademik mereka melalui teknologi AI yang terus berkembang. Workshop akan dilaksanakan di Padang pada tanggal 5 November 2024.
-
+Acara bertajuk "Sosialisasi Program Doktor UTM dan Workshop Penulisan Akademik" ini diselenggarakan oleh Institut Teknologi Padang (ITP) bekerja sama dengan Universiti Teknologi Malaysia (UTM). Acara ini bertujuan untuk memberikan gambaran tentang Program Doktoral UTM serta menawarkan wawasan mengenai praktik penulisan akademik yang efektif bagi calon mahasiswa doktoral. Sesi ini akan dipandu oleh Assoc. Prof. Dr. Mohd Shahizan bin Othman dan Apri Junaidi, S. Kom., M. Kom., MCS, dari Fakultas Komputasi UTM. Acara akan berlangsung di Ruang Pertemuan Utama, Lantai 2, Gedung D, Kampus I ITP, pada hari Kamis, 7 November 2024, mulai pukul 08.30 WIB. Workshop ini sangat cocok bagi mereka yang tertarik melanjutkan studi doktoral dan ingin memperkuat keterampilan menulis akademik mereka.
 
 <p align="center">
  <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/ITP.jpeg"  height="500">
