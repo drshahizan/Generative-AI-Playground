@@ -16,6 +16,11 @@ Acara bertajuk "Sosialisasi Program Doktor UTM dan Workshop Penulisan Akademik" 
 
 ## Materi Pembelajaran
 
+| No.  | Nama | 
+|------: | ------------------|
+| 1. | **[Universiti Teknologi Malaysia](./tools/zeta.md)** | 
+| 1. | **[Fakulti Komputeran, Universiti Teknologi Malaysia](./tools/zeta.md)** | 
+| 2. | **[Melanjutkan studi S3 di UTM (Universiti Teknologi Malaysia)](./tools/zeta.md)** | 
 
 ### The Effortless AI Literature Review
 "The Effortless AI Literature Review" adalah pendekatan baru dalam melakukan tinjauan literatur yang memanfaatkan kecerdasan buatan (AI) untuk menyederhanakan dan mempercepat proses penelusuran dan analisis literatur ilmiah. Dengan menggunakan alat-alat AI, peneliti dapat dengan mudah mengakses, menyortir, dan menganalisis sejumlah besar artikel, jurnal, dan sumber ilmiah lainnya hanya dalam waktu yang relatif singkat, yang biasanya memakan waktu berhari-hari atau bahkan berminggu-minggu jika dilakukan secara manual.
