@@ -15,7 +15,7 @@ Acara ini diharapkan dapat memberikan wawasan baru kepada para dosen, peneliti, 
 
 
 <p align="center">
- <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/workshopUNP.jpeg"  height="500">
+ <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/ITP.jpeg"  height="500">
 </p>
 
 
