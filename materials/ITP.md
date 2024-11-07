@@ -18,9 +18,9 @@ Acara bertajuk "Sosialisasi Program Doktor UTM dan Workshop Penulisan Akademik" 
 
 | No.  | Nama | 
 |------: | ------------------|
-| 1. | **[UTM Corporate Video](https://youtu.be/f5-5ojUyglw?si=W-EuRbhN09ezzY-7)** | 
-| 2. | **[Fakulti Komputeran, Universiti Teknologi Malaysia](https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/SLIDE%20FC%20FOR%20VISITORS%202024%20-%20edited%20-%206.10.2024.pptx)** | 
-| 3. | **[Melanjutkan studi S3 di UTM (Universiti Teknologi Malaysia)](https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/Doctor.pptx)** | 
+| 1. | [UTM Corporate Video](https://youtu.be/f5-5ojUyglw?si=W-EuRbhN09ezzY-7) | 
+| 2. | [Fakulti Komputeran, Universiti Teknologi Malaysia](https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/SLIDE%20FC%20FOR%20VISITORS%202024%20-%20edited%20-%206.10.2024.pptx) | 
+| 3. | [Melanjutkan studi S3 di UTM (Universiti Teknologi Malaysia)](https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/Doctor.pptx) | 
 
 ### The Effortless AI Literature Review
 "The Effortless AI Literature Review" adalah pendekatan baru dalam melakukan tinjauan literatur yang memanfaatkan kecerdasan buatan (AI) untuk menyederhanakan dan mempercepat proses penelusuran dan analisis literatur ilmiah. Dengan menggunakan alat-alat AI, peneliti dapat dengan mudah mengakses, menyortir, dan menganalisis sejumlah besar artikel, jurnal, dan sumber ilmiah lainnya hanya dalam waktu yang relatif singkat, yang biasanya memakan waktu berhari-hari atau bahkan berminggu-minggu jika dilakukan secara manual.
