@@ -32,7 +32,7 @@ In addition to document handling, the course will delve into the use of generati
 
 | No | Lesson | Topic |
 |--------|---------|---------|
-| 1. | Slides | [Generative AI Simplifies Daily Activities: Transforming Modern Lifestyles](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/Ea4jHzBjWThBoiMKH93K5vQBWWfEFBIARMYtOUZf5sGs7Q?e=C5ZIoB) |
+| 1. | Slides | [Generatif AI Memudahkan Aktiviti Harian: Transformasi Gaya Hidup Masa Kini](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/Ea4jHzBjWThBoiMKH93K5vQBWWfEFBIARMYtOUZf5sGs7Q?e=C5ZIoB) |
 | 2. | Article | [Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/) |
 | 3. | Installation & Login | [ChatGPT, Copilot, Gemini & NotebookLM](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/signin.md) |
 | 4. | Exercises | [Exercise 1: Using Generative AI Commands](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/fungsi.md) |
