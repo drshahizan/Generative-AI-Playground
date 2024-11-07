@@ -42,9 +42,12 @@ Selain itu, AI juga memungkinkan identifikasi celah penelitian dengan lebih cepa
 ### 10 Alat AI Terbaik untuk Mendukung Penelitian Akademik dan Pengelolaan Pengetahuan
 
 
+[Generatif AI Memudahkan Aktiviti Harian: Transformasi Gaya Hidup Masa Kini](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/Ea4jHzBjWThBoiMKH93K5vQBWWfEFBIARMYtOUZf5sGs7Q?e=C5ZIoB)
+
+
 | No.  | Nama | Deskripsi | 
 |------: | ------------------|-----|
-| 1. | Slides | [Generative AI Simplifies Daily Activities: Transforming Modern Lifestyles](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/Ea4jHzBjWThBoiMKH93K5vQBWWfEFBIARMYtOUZf5sGs7Q?e=C5ZIoB) |
+| 1. | Slides | [Generatif AI Memudahkan Aktiviti Harian: Transformasi Gaya Hidup Masa Kini](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/Ea4jHzBjWThBoiMKH93K5vQBWWfEFBIARMYtOUZf5sGs7Q?e=C5ZIoB) |
 | 2. | **[Zeta Alpha](./tools/zeta.md)** | Zeta Alpha adalah platform Neural Discovery canggih yang dirancang untuk peneliti, organisasi, dan tim guna meningkatkan penemuan pengetahuan menggunakan AI. Ini memanfaatkan teknik Neural Search dan Generative AI terbaru untuk membantu pengguna mengorganisasi, berbagi, dan mengeksplorasi pengetahuan internal secara efisien. Dengan alat ini, pengguna dapat menyederhanakan pengambilan keputusan, menghindari penelitian yang berulang, dan tetap diperbarui dengan usaha minimal, mendorong pekerjaan yang berdampak lebih cepat. |
 | 3. | **[Publish or Perish](./tools/pop.md)** | Publish or Perish adalah perangkat lunak analisis sitasi yang membantu peneliti mengevaluasi dampak karya akademis mereka. Dengan mengambil data sitasi dari berbagai sumber yang tersedia secara publik, seperti Google Scholar, alat ini menghitung berbagai metrik seperti h-index, g-index, dan lainnya. Hasilnya dapat diekspor untuk analisis lebih lanjut, menjadikannya alat penting untuk menilai dampak publikasi dan mengidentifikasi tren sitasi. |
 | 4. | **[Connected Papers](./tools/connected.md)** | Connected Papers adalah alat penelitian unik yang menghasilkan jaringan visual sitasi berdasarkan hubungan antar makalah akademik. Alat ini menciptakan peta grafis intuitif di mana setiap node adalah makalah dan setiap garis mewakili sitasi. Peta grafis ini membantu pengguna mengeksplorasi literatur terkait dan menemukan makalah baru yang relevan dengan minat penelitian mereka secara visual menarik. |
