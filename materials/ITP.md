@@ -18,7 +18,7 @@ Acara bertajuk "Sosialisasi Program Doktor UTM dan Workshop Penulisan Akademik" 
 
 | No.  | Nama | 
 |------: | ------------------|
-| 1. | **[UTM Corporate Video 2023](https://youtu.be/f5-5ojUyglw?si=W-EuRbhN09ezzY-7)** | 
+| 1. | **[UTM Corporate Video](https://youtu.be/f5-5ojUyglw?si=W-EuRbhN09ezzY-7)** | 
 | 2. | **[Fakulti Komputeran, Universiti Teknologi Malaysia](https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/SLIDE%20FC%20FOR%20VISITORS%202024%20-%20edited%20-%206.10.2024.pptx)** | 
 | 3. | **[Melanjutkan studi S3 di UTM (Universiti Teknologi Malaysia)](https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/Doctor.pptx)** | 
 
