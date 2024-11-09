@@ -10,15 +10,7 @@
 Bengkel ini menyoroti penggunaan teknologi kecerdasan buatan (AI) dalam mempercepat dan meningkatkan proses penelitian akademik. Melalui berbagai alat AI yang tersedia, seperti Zeta Alpha, Publish or Perish, dan scite.ai, peserta akan diperkenalkan kepada platform yang membantu menemukan dan menganalisis literatur secara lebih efisien. Bengkel ini juga akan membahas bagaimana alat visualisasi seperti Connected Papers dan LitMaps dapat memetakan hubungan antar artikel ilmiah untuk membantu peneliti mengeksplorasi bidang penelitian mereka. Selain itu, alat seperti Humata AI dan MarkMap akan menunjukkan cara untuk menyusun, menyunting, dan mengelola informasi dengan lebih efektif. Peserta juga akan belajar tentang etika dalam penggunaan AI untuk memastikan keaslian, kredibilitas, dan kepatuhan terhadap hak cipta dalam karya akademik mereka.
 
 <p align="center">
- <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/Upi_ai_tools.jpeg"  height="500">
-</p>
-
-## Informasi Peserta Workshop
-<p align="center">
- <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/workshopUpi.jpeg"  height="400">
-</p>
-<p align="center">
- <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/upi%20_analisis.png"  height="300">
+ <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/workshopUPI2.jpeg"  height="500">
 </p>
 
 ## Materi Pembelajaran
