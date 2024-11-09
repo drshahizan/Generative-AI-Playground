@@ -5,10 +5,15 @@
 <a href="https://github.com/drshahizan/Generative-AI-Playground/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/Generative-AI-Playground?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-#  Workshop Penulisan Artikel Ilmiah: Pengenalan AI Tools (Seri 1)
+#  Workshop Penulisan Artikel Ilmiah: Pengenalan AI Tools (Seri 2)
 
-Bengkel ini menyoroti penggunaan teknologi kecerdasan buatan (AI) dalam mempercepat dan meningkatkan proses penelitian akademik. Melalui berbagai alat AI yang tersedia, seperti Zeta Alpha, Publish or Perish, dan scite.ai, peserta akan diperkenalkan kepada platform yang membantu menemukan dan menganalisis literatur secara lebih efisien. Bengkel ini juga akan membahas bagaimana alat visualisasi seperti Connected Papers dan LitMaps dapat memetakan hubungan antar artikel ilmiah untuk membantu peneliti mengeksplorasi bidang penelitian mereka. Selain itu, alat seperti Humata AI dan MarkMap akan menunjukkan cara untuk menyusun, menyunting, dan mengelola informasi dengan lebih efektif. Peserta juga akan belajar tentang etika dalam penggunaan AI untuk memastikan keaslian, kredibilitas, dan kepatuhan terhadap hak cipta dalam karya akademik mereka.
+Workshop "Penulisan Artikel Ilmiah #2" yang diselenggarakan oleh Universitas Putra Indonesia YPTK Padang bekerja sama dengan Fakultas Komputasi Universiti Teknologi Malaysia (UTM) akan berfokus pada penulisan artikel ilmiah. Workshop ini akan dilaksanakan pada hari Sabtu, 9 November 2024, pukul 09.00-12.00 WIB di Universitas Putra Indonesia YPTK Padang.
 
+Workshop ini akan menghadirkan dua narasumber:
+1. Assoc. Prof. Dr. Mohd Shahizan bin Othman, seorang ahli dalam bidang penulisan akademik dan penelitian yang mewakili UTM.
+2. Apri Junaidi, S. Kom., M. Kom., MCS, seorang spesialis di bidang komputasi dan mentor berpengalaman dalam penelitian serta publikasi ilmiah.
+
+Workshop ini bertujuan untuk membekali peserta dengan keterampilan dan wawasan penting dalam menyusun, menulis, dan mempublikasikan artikel ilmiah. Kegiatan ini sangat bermanfaat bagi akademisi, peneliti, dan mahasiswa yang ingin meningkatkan kemampuan penulisan akademik mereka untuk publikasi ilmiah.
 <p align="center">
  <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/workshopUPI2.jpeg"  height="500">
 </p>
